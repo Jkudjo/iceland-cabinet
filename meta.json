@@ -1,5 +1,6 @@
 {
     "cabinet": "Q44223982",
     "lang":    "en",
-    "agent":   "every-politican-scrapers/iceland-cabinet"
+    "agent":   "every-politican-scrapers/iceland-cabinet",
+    "source_match": "government.is"
 }
