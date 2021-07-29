@@ -20,7 +20,10 @@ class MemberList
   # The page listing all the members
   class Members < Scraped::HTML
     field :members do
-      member_container.map { |member| fragment(member => Member).to_h }
+      member_container.flat_map do |member|
+        data = fragment(member => Member).to_h
+        [data.delete(:position)].flatten.map { |posn| data.merge(position: posn) }
+      end
     end
 
     private
@@ -31,5 +34,5 @@ class MemberList
   end
 end
 
-url = 'https://www.government.is/government/current-government/'
-puts EveryPoliticianScraper::ScraperData.new(url).csv
+file = Pathname.new 'html/official.html'
+puts EveryPoliticianScraper::FileData.new(file).csv
