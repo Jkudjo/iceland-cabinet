@@ -2,5 +2,12 @@
     "cabinet": "Q44223982",
     "lang":    "en",
     "agent":   "every-politican-scrapers/iceland-cabinet",
-    "source_match": "government.is"
+    "source":  {
+      "url": "https://www.government.is/government/current-government/",
+      "title": "Current government",
+      "lang": {
+        "code": "en",
+        "wikidata": "Q1860"
+      }
+    }
 }
