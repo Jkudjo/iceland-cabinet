@@ -1,15 +1,22 @@
-module.exports = (id, position) => ({
-  id,
-  claims: {
-    P39: {
-      value: position,
-      qualifiers: {
-        P580: '2017-11-30',
-        P5054: 'Q44223982' // Cabinet of Katrín Jakobsdóttir
-      },
-      references: {
-        P854: 'https://www.government.is/government/current-government/'
-      },
+const fs = require('fs');
+let rawmeta = fs.readFileSync('meta.json');
+let meta = JSON.parse(rawmeta);
+
+module.exports = (id, position, startdate) => {
+  qualifier = {
+    P580: meta.cabinet.start,
+    P5054: meta.cabinet.id,
+  }
+
+  if(startdate)      qualifier['P580']  = startdate
+
+  return {
+    id,
+    claims: {
+      P39: {
+        value: position,
+        qualifiers: qualifier,
+      }
     }
   }
-})
+}
