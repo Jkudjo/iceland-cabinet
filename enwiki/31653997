@@ -1,0 +1,182 @@
+{
+  "title": "Svandís Svavarsdóttir",
+  "pageID": 31653997,
+  "categories": [
+    "Living people",
+    "1964 births",
+    "People from Selfoss",
+    "Members of the Althing",
+    "Left-Green Movement politicians",
+    "Environment ministers of Iceland",
+    "Women government ministers of Iceland"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Svandís Svavarsdóttir (born 24 August 1964 in Selfoss, Iceland) is a member of parliament of the Althing, the Icelandic parliament.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Selfoss, Iceland"
+                },
+                {
+                  "text": "member of parliament",
+                  "type": "internal",
+                  "page": "member of parliament"
+                },
+                {
+                  "type": "internal",
+                  "page": "Althing"
+                },
+                {
+                  "text": "Icelandic",
+                  "type": "internal",
+                  "page": "Iceland"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Svandís Svavarsdóttir"
+                ]
+              }
+            },
+            {
+              "text": "She is a member of the Left-Green Movement.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Left-Green Movement"
+                }
+              ]
+            },
+            {
+              "text": "She served as Minister for the Environment and Natural Resources in the government of Jóhanna Sigurðardóttir.",
+              "links": [
+                {
+                  "text": "Minister for the Environment and Natural Resources",
+                  "type": "internal",
+                  "page": "Minister for the Environment and Natural Resources (Iceland)"
+                },
+                {
+                  "text": "government of Jóhanna Sigurðardóttir",
+                  "type": "internal",
+                  "page": "Second cabinet of Jóhanna Sigurðardóttir"
+                }
+              ]
+            },
+            {
+              "text": "She was also the leader of the Left-Green Movement's parliamentary group.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Left-Green Movement"
+                }
+              ]
+            },
+            {
+              "text": "She is currently serving as the Minister of Health."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Icelandic politician",
+          "template": "short description"
+        },
+        {
+          "topic": "bio",
+          "date": "May 2011",
+          "list": [
+            "Svandís Svavarsdóttir"
+          ],
+          "template": "expand icelandic"
+        },
+        {
+          "list": [
+            "Svandís"
+          ],
+          "template": "icelandic name"
+        },
+        {
+          "year": "1964",
+          "month": "08",
+          "day": "24",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "[object Object]": {
+            "text": "term_start1\t\t= 30 November 2017"
+          },
+          "successor2": {
+            "text": "Sigurður Ingi Jóhannsson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sigurður Ingi Jóhannsson"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "members of althing"
+        },
+        {
+          "template": "second cabinet of johanna sigurdardottir"
+        },
+        {
+          "template": "cabinet of katrín jakobsdóttir"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "iceland-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Althing biography (detailed Icelandic version)",
+            "links": [
+              {
+                "text": "Althing biography",
+                "type": "external",
+                "site": "http://www.althingi.is/altext/cv/is/?nfaerslunr=730"
+              }
+            ]
+          },
+          {
+            "text": "Althing biography (short English version)",
+            "links": [
+              {
+                "text": "Althing biography",
+                "type": "external",
+                "site": "http://www.althingi.is/altext/cv/en/?nfaerslunr=118"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "title": "Georg Kr. Lárusson",
+  "pageID": 67584507,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "Icelandic law enforcement officials",
+    "People from Reykjavík"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Georg Kristinn Lárusson  (born 21 March 1959) is the Director General of the Icelandic Coast Guard and former director of the Icelandic Directorate of Immigration, a position he held from 1999 to 2005.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Icelandic Coast Guard"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Georg Kristinn Lárusson "
+                ]
+              }
+            },
+            {
+              "text": "He graduated from the University of Iceland with a law degree in 1985 and a postgraduate degree from the Faculty of Law at the University of Copenhagen.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Iceland"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Copenhagen"
+                }
+              ]
+            },
+            {
+              "text": "He was a judge's representative at the Reykjavík District Court in 1985-89 and was the district magistrate in Dalasýsla, Strandasýsla and Kópavogur in the period 1989–92.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kópavogur"
+                }
+              ]
+            },
+            {
+              "text": "He served as district magistrate of Vestmannaeyjar from 1992 to 1998.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vestmannaeyjar"
+                }
+              ]
+            },
+            {
+              "text": "Georg was appointed deputy chief of police in Reykjavík from 1998 to 1999."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1959",
+          "month": "3",
+          "day": "21",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "Director General",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Director General"
+              }
+            ]
+          },
+          "name": {
+            "text": "Georg Kr. Lárusson"
+          },
+          "birth_date": {
+            "text": "March 21, 1959"
+          },
+          "birth_place": {
+            "text": "Reykjavík, Iceland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Reykjavík"
+              }
+            ]
+          },
+          "image": {
+            "text": "Georg Lárusson.jpg"
+          },
+          "caption": {
+            "text": "Director General Georg Kr. Lárusson"
+          },
+          "allegiance": {
+            "text": "🇮🇸 Iceland",
+            "links": [
+              {
+                "text": "Iceland",
+                "type": "internal",
+                "page": "iceland"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Icelandic Coast Guard",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Icelandic Coast Guard"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "2005 - Present"
+          },
+          "rank": {
+            "text": "Generic-Navy-O9.svg Director General",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Director General"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Með uppbrettar ermar",
+          "url": "https://timarit.is/page/3752951",
+          "access-date": "5 May 2021",
+          "work": "Fréttablaðið",
+          "date": "29 January 2005",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Georg Kr. Lárusson skipaður varalögreglustjóri",
+          "url": "https://www.mbl.is/greinasafn/grein/389171/",
+          "access-date": "5 May 2021",
+          "work": "Morgunblaðið",
+          "date": "19 March 1998",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "law-bio-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Bio on Icelandic Coast Guard",
+            "links": [
+              {
+                "text": "Bio",
+                "type": "external",
+                "site": "https://www.lhg.is/um-okkur/starfsfolk/forstjori-landhelgisgaeslunnar-og-lykilstarfsmenn"
+              },
+              {
+                "type": "internal",
+                "page": "Icelandic Coast Guard"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

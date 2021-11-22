@@ -1,0 +1,330 @@
+{
+  "title": "Lilja Dögg Alfreðsdóttir",
+  "pageID": 52840306,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "Foreign ministers of Iceland",
+    "Education ministers of Iceland",
+    "Members of the Althing",
+    "Female foreign ministers",
+    "Women government ministers of Iceland",
+    "Politicians from Reykjavík",
+    "Icelandic women diplomats"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lilja Dögg Alfreðsdóttir (born 4 October 1973) is an Icelandic politician, the Icelandic Minister of Education, Science and Culture since November 2017 and a member of the Althing (Iceland's parliament) for the Reykjavík South constituency since 2016.",
+              "links": [
+                {
+                  "text": "Minister of Education, Science and Culture",
+                  "type": "internal",
+                  "page": "Minister of Education, Science and Culture (Iceland)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Althing"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lilja Dögg Alfreðsdóttir"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She has worked for the International Monetary Fund, the Icelandic Central Bank and was an economic advisor to Sigmundur Davíð Gunnlaugsson during his time as prime minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "International Monetary Fund"
+                },
+                {
+                  "text": "the Icelandic Central Bank",
+                  "type": "internal",
+                  "page": "Central Bank of Iceland"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sigmundur Davíð Gunnlaugsson"
+                }
+              ]
+            },
+            {
+              "text": "Lilja was the Minister of Foreign Affairs in Sigurður Ingi Jóhannson's cabinet from 2016 to 2017, and has been the deputy chairperson of the Progressive Party since 2016.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Iceland)"
+                },
+                {
+                  "text": "Sigurður Ingi Jóhannson's cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Sigurður Ingi Jóhannsson"
+                },
+                {
+                  "text": "Progressive Party",
+                  "type": "internal",
+                  "page": "Progressive Party (Iceland)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Icelandic politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2011",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "September 2009",
+          "template": "blp sources"
+        },
+        {
+          "date": "November 2017",
+          "template": "one source"
+        },
+        {
+          "topic": "bio",
+          "date": "January 2009",
+          "list": [
+            "Lilja Dögg Alfreðsdóttir"
+          ],
+          "template": "expand icelandic"
+        },
+        {
+          "template": "multiple issues"
+        },
+        {
+          "list": [
+            "Lilja",
+            "male"
+          ],
+          "template": "icelandic name"
+        },
+        {
+          "year": "1973",
+          "month": "10",
+          "day": "4",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Lilja Alfreðsdóttir"
+          },
+          "image": {
+            "text": "Lilja Dögg.jpg"
+          },
+          "office": {
+            "text": "Minister of Education, Science and Culture",
+            "links": [
+              {
+                "text": "Minister of Education, Science and Culture",
+                "type": "internal",
+                "page": "Minister of Education, Science and Culture (Iceland)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Katrín Jakobsdóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katrín Jakobsdóttir"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "30 November 2017"
+          },
+          "predecessor": {
+            "text": "Kristján Þór Júlíusson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kristján Þór Júlíusson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Deputy Chair of the Progressive Party",
+            "links": [
+              {
+                "text": "Progressive Party",
+                "type": "internal",
+                "page": "Progressive Party (Iceland)"
+              }
+            ]
+          },
+          "leader1": {
+            "text": "Sigurður Ingi Jóhannsson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sigurður Ingi Jóhannsson"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2 October 2016"
+          },
+          "predecessor1": {
+            "text": "Sigurður Ingi Jóhannsson"
+          },
+          "office2": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Minister of Foreign Affairs (Iceland)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Sigurður Ingi Jóhannsson"
+          },
+          "term_start2": {
+            "text": "7 April 2016"
+          },
+          "term_end2": {
+            "text": "11 January 2017"
+          },
+          "predecessor2": {
+            "text": "Gunnar Bragi Sveinsson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gunnar Bragi Sveinsson"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Guðlaugur Þór Þórðarson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guðlaugur Þór Þórðarson"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 4, 1973"
+          },
+          "birth_place": {
+            "text": "Reykjavík, Iceland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Reykjavík"
+              },
+              {
+                "type": "internal",
+                "page": "Iceland"
+              }
+            ]
+          },
+          "party": {
+            "text": "Progressive",
+            "links": [
+              {
+                "text": "Progressive",
+                "type": "internal",
+                "page": "Progressive Party (Iceland)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Magnús Óskar Hafsteinsson"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.althingi.is/altext/cv/en/?nfaerslunr=204",
+          "title": "Lilja Alfreðsdóttir",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Gunnar Bragi Sveinsson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Foreign Affairs",
+          "years": "2016–2017",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Guðlaugur Þór Þórðarson",
+          "template": "s-aft"
+        },
+        {
+          "before": "Kristján Þór Júlíusson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Education, Science and Culture",
+          "years": "2017–",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "cabinet of katrín jakobsdóttir"
+        },
+        {
+          "template": "cabinet of sigurður ingi jóhannsson"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "iceland-stub"
+        },
+        {
+          "template": "iceland-politician-stub"
+        }
+      ]
+    }
+  ]
+}
