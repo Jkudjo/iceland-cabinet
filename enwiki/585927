@@ -121,8 +121,11 @@
       ],
       "infoboxes": [
         {
-          "[object Object]": {
-            "text": "term_start1\t\t= 30 November 2017"
+          "name": {
+            "text": "Kristján Þór Júlíusson"
+          },
+          "image": {
+            "text": "Kristjan thor Juliusson (Sj.) Island.jpg"
           },
           "office1": {
             "text": "Minister of Fisheries and Agriculture",
@@ -131,6 +134,110 @@
                 "text": "Minister of Fisheries and Agriculture",
                 "type": "internal",
                 "page": "Minister of Industries and Innovation (Iceland)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "30 November 2017"
+          },
+          "primeminister1": {
+            "text": "Katrín Jakobsdóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katrín Jakobsdóttir"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Þorgerður Katrín Gunnarsdóttir",
+            "links": [
+              {
+                "text": "Þorgerður Katrín Gunnarsdóttir",
+                "type": "internal",
+                "page": "Þorgerður Katrín Gunnarsdóttir"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Education, Science, and Culture",
+            "links": [
+              {
+                "text": "Minister of Education, Science, and Culture",
+                "type": "internal",
+                "page": "Minister of Education, Science and Culture (Iceland)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "11 January 2017"
+          },
+          "term_end2": {
+            "text": "30 November 2017"
+          },
+          "primeminister2": {
+            "text": "Bjarni Benediktsson",
+            "links": [
+              {
+                "text": "Bjarni Benediktsson",
+                "type": "internal",
+                "page": "Bjarni Benediktsson (born 1970)"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Illugi Gunnarsson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Illugi Gunnarsson"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Lilja Dögg Alfreðsdóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lilja Dögg Alfreðsdóttir"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Minister of Health (Iceland)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "23 May 2013"
+          },
+          "term_end3": {
+            "text": "11 January 2017"
+          },
+          "primeminister3": {
+            "text": "Sigmundur Davíð Gunnlaugsson Sigurður Ingi Jóhannsson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sigmundur Davíð Gunnlaugsson"
+              },
+              {
+                "type": "internal",
+                "page": "Sigurður Ingi Jóhannsson"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Guðbjartur Hannesson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guðbjartur Hannesson"
               }
             ]
           },
@@ -155,6 +262,58 @@
           },
           "successor4": {
             "text": "Sigrún Björk Jakobsdóttir"
+          },
+          "successor3": {
+            "text": "Óttarr Proppé",
+            "links": [
+              {
+                "text": "Óttarr Proppé",
+                "type": "internal",
+                "page": "Óttarr Proppé"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 15, 1957"
+          },
+          "birth_place": {
+            "text": "Dalvík, Iceland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dalvík"
+              },
+              {
+                "type": "internal",
+                "page": "Iceland"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independence Party",
+            "links": [
+              {
+                "text": "Independence Party",
+                "type": "internal",
+                "page": "Independence Party (Iceland)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Guðbjörg Ringsted"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "alma_mater": {
+            "text": "University of Iceland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Iceland"
+              }
+            ]
           }
         }
       ],

@@ -113,8 +113,77 @@
       ],
       "infoboxes": [
         {
-          "[object Object]": {
-            "text": "term_start1\t\t= 30 November 2017"
+          "name": {
+            "text": "Svandís Svavarsdóttir"
+          },
+          "image": {
+            "text": "Islands miljominister Svandis Svavarsdottir vid Nordiska Radets session pa Island 2010-11-04.jpg"
+          },
+          "office1": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Minister of Welfare (Iceland)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "30 November 2017"
+          },
+          "primeminister1": {
+            "text": "Katrín Jakobsdóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katrín Jakobsdóttir"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Óttarr Proppé",
+            "links": [
+              {
+                "text": "Óttarr Proppé",
+                "type": "internal",
+                "page": "Óttarr Proppé"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister for the Environment",
+            "links": [
+              {
+                "text": "Minister for the Environment",
+                "type": "internal",
+                "page": "Minister for the Environment (Iceland)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "10 May 2009"
+          },
+          "term_end2": {
+            "text": "23 May 2013"
+          },
+          "primeminister2": {
+            "text": "Jóhanna Sigurðardóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jóhanna Sigurðardóttir"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Kolbrún Halldórsdóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kolbrún Halldórsdóttir"
+              }
+            ]
           },
           "successor2": {
             "text": "Sigurður Ingi Jóhannsson",
@@ -122,6 +191,32 @@
               {
                 "type": "internal",
                 "page": "Sigurður Ingi Jóhannsson"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 24, 1964"
+          },
+          "birth_place": {
+            "text": "Selfoss, Iceland",
+            "links": [
+              {
+                "text": "Selfoss",
+                "type": "internal",
+                "page": "Selfoss (town)"
+              },
+              {
+                "type": "internal",
+                "page": "Iceland"
+              }
+            ]
+          },
+          "party": {
+            "text": "Left-Green Movement",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Left-Green Movement"
               }
             ]
           }
