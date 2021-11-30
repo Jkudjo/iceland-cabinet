@@ -161,50 +161,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "law-bio-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Bio on Icelandic Coast Guard",
-            "links": [
-              {
-                "text": "Bio",
-                "type": "external",
-                "site": "https://www.lhg.is/um-okkur/starfsfolk/forstjori-landhelgisgaeslunnar-og-lykilstarfsmenn"
-              },
-              {
-                "type": "internal",
-                "page": "Icelandic Coast Guard"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }

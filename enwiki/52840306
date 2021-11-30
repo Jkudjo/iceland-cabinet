@@ -308,61 +308,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Gunnar Bragi Sveinsson",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister for Foreign Affairs",
-          "years": "2016–2017",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Guðlaugur Þór Þórðarson",
-          "template": "s-aft"
-        },
-        {
-          "before": "Kristján Þór Júlíusson",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Education, Science and Culture",
-          "years": "2017–",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "cabinet of katrín jakobsdóttir"
-        },
-        {
-          "template": "cabinet of sigurður ingi jóhannsson"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "iceland-stub"
-        },
-        {
-          "template": "iceland-politician-stub"
-        }
-      ]
     }
   ]
 }

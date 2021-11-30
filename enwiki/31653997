@@ -265,56 +265,6 @@
           }
         }
       ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "members of althing"
-        },
-        {
-          "template": "second cabinet of johanna sigurdardottir"
-        },
-        {
-          "template": "cabinet of katrín jakobsdóttir"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "iceland-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Althing biography (detailed Icelandic version)",
-            "links": [
-              {
-                "text": "Althing biography",
-                "type": "external",
-                "site": "http://www.althingi.is/altext/cv/is/?nfaerslunr=730"
-              }
-            ]
-          },
-          {
-            "text": "Althing biography (short English version)",
-            "links": [
-              {
-                "text": "Althing biography",
-                "type": "external",
-                "site": "http://www.althingi.is/altext/cv/en/?nfaerslunr=118"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }

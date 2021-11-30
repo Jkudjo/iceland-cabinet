@@ -191,43 +191,6 @@
           }
         }
       ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "members of althing"
-        },
-        {
-          "template": "cabinet of bjarni benediktsson (2017)"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "iceland-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Non auto-biography of Jón Gunnarsson on the parliament website",
-            "links": [
-              {
-                "text": "Non auto-biography of Jón Gunnarsson on the parliament website",
-                "type": "external",
-                "site": "http://www.althingi.is/cv.php4?nfaerslunr=688"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }
