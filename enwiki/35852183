@@ -123,18 +123,45 @@
           "image": {
             "text": "Sigurður Ingi.jpg"
           },
+          "office": {
+            "text": "Minister of Infrastructure",
+            "links": [
+              {
+                "text": "Minister of Infrastructure",
+                "type": "internal",
+                "page": "Minister of Transport and Local Government (Iceland)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Katrín Jakobsdóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katrín Jakobsdóttir"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 November 2021"
+          },
+          "predecessor": {
+            "text": "himself (Transport and Local Government)",
+            "formatting": {
+              "italic": [
+                "himself"
+              ]
+            }
+          },
           "office1": {
             "text": "Minister of Transport and Local Government",
             "links": [
               {
                 "text": "Minister of Transport and Local Government",
                 "type": "internal",
-                "page": "Minister of the Interior (Iceland)"
+                "page": "Minister of Transport and Local Government (Iceland)"
               }
             ]
-          },
-          "term_start1": {
-            "text": "30 November 2017"
           },
           "primeminister1": {
             "text": "Katrín Jakobsdóttir",
@@ -145,6 +172,12 @@
               }
             ]
           },
+          "term_start1": {
+            "text": "30 November 2017"
+          },
+          "term_end1": {
+            "text": "28 November 2021"
+          },
           "predecessor1": {
             "text": "Jón Gunnarsson",
             "links": [
@@ -153,6 +186,14 @@
                 "page": "Jón Gunnarsson"
               }
             ]
+          },
+          "successor1": {
+            "text": "himself (Infrastructure)",
+            "formatting": {
+              "italic": [
+                "himself"
+              ]
+            }
           },
           "office2": {
             "text": "Chairman of the Progressive Party",

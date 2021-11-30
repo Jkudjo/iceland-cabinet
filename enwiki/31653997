@@ -119,6 +119,37 @@
           "image": {
             "text": "Islands miljominister Svandis Svavarsdottir vid Nordiska Radets session pa Island 2010-11-04.jpg"
           },
+          "office": {
+            "text": "Minister of Fisheries and Agriculture",
+            "links": [
+              {
+                "text": "Minister of Fisheries and Agriculture",
+                "type": "internal",
+                "page": "Ministry of Fisheries and Agriculture (Iceland)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 November 2021"
+          },
+          "primeminister": {
+            "text": "Katrín Jakobsdóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katrín Jakobsdóttir"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Kristján Þór Júlíusson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kristján Þór Júlíusson"
+              }
+            ]
+          },
           "office1": {
             "text": "Minister of Health",
             "links": [
@@ -131,6 +162,9 @@
           },
           "term_start1": {
             "text": "30 November 2017"
+          },
+          "term_end1": {
+            "text": "28 November 2021"
           },
           "primeminister1": {
             "text": "Katrín Jakobsdóttir",
@@ -148,6 +182,15 @@
                 "text": "Óttarr Proppé",
                 "type": "internal",
                 "page": "Óttarr Proppé"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Willum Þór Þórsson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Willum Þór Þórsson"
               }
             ]
           },

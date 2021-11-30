@@ -99,7 +99,7 @@
             "text": "Ásmundur Einar Daðason.jpg"
           },
           "office": {
-            "text": "Minister of Social Affairs and Children"
+            "text": "Minister of Education and Children's Affairs"
           },
           "primeminister": {
             "text": "Katrín Jakobsdóttir",
@@ -111,15 +111,51 @@
             ]
           },
           "term_start": {
-            "text": "30 November 2017"
+            "text": "28 November 2021"
           },
           "predecessor": {
+            "text": "Lilja Dögg Alfreðsdóttir (Education, Science, and Culture)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lilja Dögg Alfreðsdóttir"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Social Affairs and Children"
+          },
+          "primeminister1": {
+            "text": "Katrín Jakobsdóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katrín Jakobsdóttir"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "30 November 2017"
+          },
+          "term_end1": {
+            "text": "28 November 2021"
+          },
+          "predecessor1": {
             "text": "Þorsteinn Víglundsson",
             "links": [
               {
                 "text": "Þorsteinn Víglundsson",
                 "type": "internal",
                 "page": "Þorsteinn Víglundsson"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Guðmundur Ingi Guðbrandsson (Social Affairs and the Labour Market)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guðmundur Ingi Guðbrandsson"
               }
             ]
           },
@@ -427,6 +463,25 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "section"
+          ],
+          "date": "November 2021",
+          "template": "ad"
+        },
+        {
+          "list": [
+            "section"
+          ],
+          "date": "November 2021",
+          "template": "external links"
+        },
+        {
+          "template": "multiple issues"
         }
       ],
       "references": [

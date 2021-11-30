@@ -13,7 +13,8 @@
     "Icelandic women lawyers",
     "Women government ministers of Iceland",
     "Reykjavík University alumni",
-    "People from Akranes"
+    "People from Akranes",
+    "Foreign ministers of Iceland"
   ],
   "sections": [
     {
@@ -23,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Þórdís Kolbrún Reykfjörð Gylfadóttir (born 4 November 1987) is an Icelandic politician and lawyer serving as the current Minister of Tourism, Industry and Innovation of Iceland.",
+              "text": "Þórdís Kolbrún Reykfjörð Gylfadóttir (born 4 November 1987) is an Icelandic politician and lawyer serving as the current Minister for Foreign Affairs of Iceland.",
               "links": [
                 {
                   "text": "Icelandic",
@@ -31,9 +32,9 @@
                   "page": "Iceland"
                 },
                 {
-                  "text": "Minister of Tourism, Industry and Innovation",
+                  "text": "Minister for Foreign Affairs",
                   "type": "internal",
-                  "page": "Ministry of Industry, Energy and Tourism (Iceland)"
+                  "page": "Ministry for Foreign Affairs (Iceland)"
                 }
               ],
               "formatting": {
@@ -41,6 +42,21 @@
                   "Þórdís Kolbrún Reykfjörð Gylfadóttir"
                 ]
               }
+            },
+            {
+              "text": "She has also previously held the positions of Minister of Tourism, Industry and Innovation and Minister of Justice.",
+              "links": [
+                {
+                  "text": "Minister of Tourism, Industry and Innovation",
+                  "type": "internal",
+                  "page": "Ministry of Industry, Energy and Tourism (Iceland)"
+                },
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Minister of Justice (Iceland)"
+                }
+              ]
             },
             {
               "text": "She is also a member of the Althing (Iceland's parliament) for the Northwest Constituency since 2016, as a representative of the Independence Party.",
@@ -97,32 +113,30 @@
             "text": "Þórdís Kolbrún R. Gylfadóttir"
           },
           "office": {
-            "text": "Minister of Tourism, Industry and Innovation",
+            "text": "Minister for Foreign Affairs",
             "links": [
               {
-                "text": "Minister of Tourism, Industry and Innovation",
+                "text": "Minister for Foreign Affairs",
                 "type": "internal",
-                "page": "Ministry of Industry, Energy and Tourism (Iceland)"
+                "page": "Ministry for Foreign Affairs (Iceland)"
               }
             ]
           },
+          "image": {
+            "text": "Þórdís Kolbrún R. Gylfadóttir.jpg"
+          },
           "predecessor": {
-            "text": "Ragnheiður Elín Árnadóttir (Minister of Industry and Commerce)",
+            "text": "Guðlaugur Þór Þórðarson",
             "links": [
               {
                 "type": "internal",
-                "page": "Ragnheiður Elín Árnadóttir"
+                "page": "Guðlaugur Þór Þórðarson"
               }
             ]
           },
           "primeminister": {
-            "text": "Bjarni Benediktsson Katrín Jakobsdóttir",
+            "text": "Katrín Jakobsdóttir",
             "links": [
-              {
-                "text": "Bjarni Benediktsson",
-                "type": "internal",
-                "page": "Bjarni Benediktsson (born 1970)"
-              },
               {
                 "type": "internal",
                 "page": "Katrín Jakobsdóttir"
@@ -130,7 +144,7 @@
             ]
           },
           "term_start": {
-            "text": "11 January 2017"
+            "text": "28 November 2021"
           },
           "party": {
             "text": "Independence Party",
@@ -143,27 +157,32 @@
             ]
           },
           "office1": {
-            "text": "Minister of Justice",
+            "text": "Minister of Tourism, Industry and Innovation",
             "links": [
               {
-                "text": "Minister of Justice",
+                "text": "Minister of Tourism, Industry and Innovation",
                 "type": "internal",
-                "page": "Minister of Justice (Iceland)"
+                "page": "Ministry of Industry, Energy and Tourism (Iceland)"
               }
             ]
           },
           "predecessor1": {
-            "text": "Sigríður Á. Andersen",
+            "text": "Ragnheiður Elín Árnadóttir (Minister of Industry and Commerce)",
             "links": [
               {
                 "type": "internal",
-                "page": "Sigríður Á. Andersen"
+                "page": "Ragnheiður Elín Árnadóttir"
               }
             ]
           },
           "primeminister1": {
-            "text": "Katrín Jakobsdóttir",
+            "text": "Bjarni Benediktsson Katrín Jakobsdóttir",
             "links": [
+              {
+                "text": " Bjarni Benediktsson",
+                "type": "internal",
+                "page": "Bjarni Benediktsson (born 1970) "
+              },
               {
                 "type": "internal",
                 "page": "Katrín Jakobsdóttir"
@@ -171,7 +190,7 @@
             ]
           },
           "successor1": {
-            "text": "Áslaug Arna Sigurbjörnsdóttir",
+            "text": "Áslaug Arna Sigurbjörnsdóttir (Minister of Science, Industry and Innovation)",
             "links": [
               {
                 "text": "Áslaug Arna Sigurbjörnsdóttir",
@@ -181,9 +200,53 @@
             ]
           },
           "term_start1": {
-            "text": "14 March 2019"
+            "text": "11 January 2017"
           },
           "term_end1": {
+            "text": "28 November 2021"
+          },
+          "office2": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Minister of Justice (Iceland)"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Sigríður Á. Andersen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sigríður Á. Andersen"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Katrín Jakobsdóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katrín Jakobsdóttir"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Áslaug Arna Sigurbjörnsdóttir",
+            "links": [
+              {
+                "text": "Áslaug Arna Sigurbjörnsdóttir",
+                "type": "internal",
+                "page": "Áslaug Arna Sigurbjörnsdóttir"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "14 March 2019"
+          },
+          "term_end2": {
             "text": "5 September 2019"
           },
           "birth_date": {
@@ -295,11 +358,13 @@
         },
         {
           "title": "Minister of Tourism, Industry and Innovation",
-          "years": "2017 – present",
+          "years": "2017 – 2021",
           "template": "s-ttl"
         },
         {
-          "template": "s-inc"
+          "after": "Áslaug Arna Sigurbjörnsdóttir",
+          "as": "Minister of Science, Industry and Innovation",
+          "template": "s-aft"
         },
         {
           "before": "Sigríður Á. Andersen",
@@ -313,6 +378,18 @@
         {
           "after": "Áslaug Arna Sigurbjörnsdóttir",
           "template": "s-aft"
+        },
+        {
+          "before": "Guðlaugur Þór Þórðarson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Foreign Affairs",
+          "years": "2021 –",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
         },
         {
           "template": "cabinet of katrín jakobsdóttir"

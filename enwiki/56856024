@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Áslaug Arna Sigurbjörnsdóttir (born 30 November 1990) is an Icelandic politician who is a member of the Althing (Iceland's parliament) for the Reykjavík North constituency since 2016.",
+              "text": "Áslaug Arna Sigurbjörnsdóttir (born 30 November 1990) is an Icelandic politician who is a member of the Althing (Iceland's parliament) for the Reykjavík South constituency since 2016.",
               "links": [
                 {
                   "text": "Icelandic",
@@ -63,6 +63,16 @@
                   "page": "Minister of Justice (Iceland)"
                 }
               ]
+            },
+            {
+              "text": "In November 2021, she was named the Minister of Science, Industry and Innovation.",
+              "links": [
+                {
+                  "text": "Minister of Science, Industry and Innovation",
+                  "type": "internal",
+                  "page": "Ministry of Industries and Innovation (Iceland)"
+                }
+              ]
             }
           ]
         }
@@ -95,12 +105,12 @@
             "text": "File:Aslaug-arna.jpg"
           },
           "office": {
-            "text": "Minister of Justice",
+            "text": "Minister of Science, Industry and Innovation",
             "links": [
               {
-                "text": "Minister of Justice",
+                "text": "Minister of Science, Industry and Innovation",
                 "type": "internal",
-                "page": "Minister of Justice (Iceland)"
+                "page": "Ministry of Industries and Innovation (Iceland)"
               }
             ]
           },
@@ -124,7 +134,50 @@
             ]
           },
           "term_start": {
+            "text": "28 November 2021"
+          },
+          "office1": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Minister of Justice (Iceland)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Katrín Jakobsdóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katrín Jakobsdóttir"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Þórdís Gylfadóttir",
+            "links": [
+              {
+                "text": "Þórdís Gylfadóttir",
+                "type": "internal",
+                "page": "Þórdís Kolbrún Gylfadóttir"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "office not in use",
+            "formatting": {
+              "italic": [
+                "office not in use"
+              ]
+            }
+          },
+          "term_start1": {
             "text": "6 September 2019"
+          },
+          "term_end1": {
+            "text": "28 November 2021"
           },
           "birth_date": {
             "text": "November 30, 1990"
@@ -182,6 +235,15 @@
           "language": "Icelandic",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.government.is/news/article/2021/11/28/Second-Government-of-Katrin-Jakobsdottir-Takes-Office/",
+          "title": "Government of Iceland {{!}} Government of Iceland",
+          "website": "www.government.is",
+          "language": "en",
+          "access-date": "2021-11-29",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -417,6 +479,20 @@
       "paragraphs": [
         {
           "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "}}"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "}}"
+            }
+          ]
         }
       ],
       "templates": [
@@ -432,11 +508,12 @@
         },
         {
           "title": "Secretary of the Independence Party",
-          "years": "2015–present",
+          "years": "2015–2019",
           "template": "s-ttl"
         },
         {
-          "template": "s-inc"
+          "after": "Jón Gunnarsson",
+          "template": "s-aft"
         },
         {
           "template": "s-off"
@@ -448,7 +525,24 @@
         },
         {
           "title": "Minister of Justice",
-          "years": "2019 – present",
+          "years": "2019 – 2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Jón Gunnarsson",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Þórdís Kolbrún R. Gylfadóttir",
+          "as": "Minister of Industries and Innovation",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Science, Industry and Innovation",
+          "years": "2021 –",
           "template": "s-ttl"
         },
         {

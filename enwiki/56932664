@@ -80,21 +80,12 @@
             "text": "Guðmundur Ingi Guðbrandsson"
           },
           "office": {
-            "text": "Minister for the Environment and Natural Resources",
+            "text": "Minister for the Social Affairs and the Labour Market",
             "links": [
               {
-                "text": "Minister for the Environment and Natural Resources",
+                "text": "Minister for the Social Affairs and the Labour Market",
                 "type": "internal",
-                "page": "Minister for the Environment and Natural Resources (Iceland)"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Björt Ólafsdóttir",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Björt Ólafsdóttir"
+                "page": "Ministry of Welfare (Iceland)"
               }
             ]
           },
@@ -104,6 +95,62 @@
               {
                 "type": "internal",
                 "page": "Katrín Jakobsdóttir"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 November 2021"
+          },
+          "predecessor": {
+            "text": "Ásmundur Einar Daðason (Social Affairs and Children)",
+            "links": [
+              {
+                "text": "Ásmundur Einar Daðason",
+                "type": "internal",
+                "page": "Ásmundur Einar Daðason"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister for the Environment and Natural Resources",
+            "links": [
+              {
+                "text": "Minister for the Environment and Natural Resources",
+                "type": "internal",
+                "page": "Minister for the Environment and Natural Resources (Iceland)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Katrín Jakobsdóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katrín Jakobsdóttir"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "30 November 2017"
+          },
+          "term_end1": {
+            "text": "28 November 2021"
+          },
+          "predecessor1": {
+            "text": "Björt Ólafsdóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Björt Ólafsdóttir"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Guðlaugur Þór Þórðarson (Environment, Energy, and Climate)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guðlaugur Þór Þórðarson"
               }
             ]
           },
@@ -150,9 +197,6 @@
                 "page": "Master of Environmental Management"
               }
             ]
-          },
-          "term_start": {
-            "text": "30 November 2017"
           }
         }
       ],

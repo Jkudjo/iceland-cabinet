@@ -1,0 +1,707 @@
+{
+  "title": "Willum Þór Þórsson",
+  "pageID": 2810074,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "Icelandic footballers",
+    "Icelandic football managers",
+    "Knattspyrnufélag Reykjavíkur players",
+    "Breiðablik UBK players",
+    "Knattspyrnufélag Reykjavíkur managers",
+    "Knattspyrnudeild Keflavík managers",
+    "Icelandic sportsperson-politicians",
+    "Progressive Party (Iceland) politicians",
+    "Members of the Althing",
+    "Leiknir Reykjavík managers",
+    "Úrvalsdeild karla (football) managers",
+    "Association football defenders",
+    "Valur managers",
+    "Association football midfielders"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Willum Þór Þórsson (born 17 March 1963) is a former football player and manager and politician.",
+              "links": [
+                {
+                  "text": "football",
+                  "type": "internal",
+                  "page": "Football (soccer)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Willum Þór Þórsson"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2013 to 2016, he served on the Althing, the Icelandic parliament, for the Progressive Party, and is currently a member of parliament since 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Althing"
+                },
+                {
+                  "text": "Progressive Party",
+                  "type": "internal",
+                  "page": "Progressive Party (Iceland)"
+                }
+              ]
+            },
+            {
+              "text": "He holds a Master's degree in Microeconomics from the University of Copenhagen and used to teach economics at Menntaskólinn í Kópavogi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Master's degree"
+                },
+                {
+                  "type": "internal",
+                  "page": "Microeconomics"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Copenhagen"
+                },
+                {
+                  "type": "internal",
+                  "page": "Menntaskólinn í Kópavogi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Icelandic footballer, manager, and politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Willum"
+          ],
+          "template": "icelandic name"
+        },
+        {
+          "date": "July 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1963",
+          "month": "03",
+          "day": "17",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Willum Þór Þórsson"
+          },
+          "fullname": {
+            "text": "Willum Þór Þórsson"
+          },
+          "image": {
+            "text": "Willum Þór Þórsson.jpg"
+          },
+          "birth_date": {
+            "text": "March 17, 1963"
+          },
+          "birth_place": {
+            "text": "Iceland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iceland"
+              }
+            ]
+          },
+          "position": {
+            "text": "midfielder or defender",
+            "links": [
+              {
+                "text": "midfielder",
+                "type": "internal",
+                "page": "midfielder"
+              },
+              {
+                "text": "defender",
+                "type": "internal",
+                "page": "Defender (football)"
+              }
+            ]
+          },
+          "years1": {
+            "text": "1980–1989"
+          },
+          "years2": {
+            "text": "1990–1995"
+          },
+          "years3": {
+            "text": "1996-1999"
+          },
+          "clubs1": {
+            "text": "KR",
+            "links": [
+              {
+                "text": "KR",
+                "type": "internal",
+                "page": "Knattspyrnufélag Reykjavíkur"
+              }
+            ]
+          },
+          "clubs2": {
+            "text": "Breiðablik",
+            "links": [
+              {
+                "text": "Breiðablik",
+                "type": "internal",
+                "page": "Breiðablik men's football"
+              }
+            ]
+          },
+          "clubs3": {
+            "text": "Þróttur",
+            "links": [
+              {
+                "text": "Þróttur",
+                "type": "internal",
+                "page": "Íþróttafélagið Þróttur"
+              }
+            ]
+          },
+          "caps1": {
+            "text": "73+"
+          },
+          "caps2": {
+            "text": "56+"
+          },
+          "caps3": {
+            "text": "23",
+            "number": 23
+          },
+          "goals1": {
+            "text": "12+"
+          },
+          "goals2": {
+            "text": "15+"
+          },
+          "goals3": {
+            "text": "3",
+            "number": 3
+          },
+          "nationalyears1": {
+            "text": "1979",
+            "number": 1979
+          },
+          "nationalteam1": {
+            "text": "Iceland U-17",
+            "links": [
+              {
+                "text": "Iceland U-17",
+                "type": "internal",
+                "page": "Iceland national under-17 football team"
+              }
+            ]
+          },
+          "nationalcaps1": {
+            "text": "3",
+            "number": 3
+          },
+          "nationalgoals1": {
+            "text": "0",
+            "number": 0
+          },
+          "manageryears1": {
+            "text": "1997–1998"
+          },
+          "manageryears2": {
+            "text": "2000–2001"
+          },
+          "manageryears3": {
+            "text": "2002–2004"
+          },
+          "manageryears4": {
+            "text": "2005–2009"
+          },
+          "manageryears5": {
+            "text": "2009–2011"
+          },
+          "manageryears6": {
+            "text": "2010–2011"
+          },
+          "manageryears7": {
+            "text": "2011–2012"
+          },
+          "manageryears8": {
+            "text": "2014",
+            "number": 2014
+          },
+          "manageryears9": {
+            "text": "2016–2017"
+          },
+          "managerclubs1": {
+            "text": "Þróttur",
+            "links": [
+              {
+                "text": "Þróttur",
+                "type": "internal",
+                "page": "Íþróttafélagið Þróttur"
+              }
+            ]
+          },
+          "managerclubs2": {
+            "text": "Haukar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Haukar"
+              }
+            ]
+          },
+          "managerclubs3": {
+            "text": "KR",
+            "links": [
+              {
+                "text": "KR",
+                "type": "internal",
+                "page": "Knattspyrnufélag Reykjavíkur"
+              }
+            ]
+          },
+          "managerclubs4": {
+            "text": "Valur",
+            "links": [
+              {
+                "text": "Valur",
+                "type": "internal",
+                "page": "Valur (club)"
+              }
+            ]
+          },
+          "managerclubs5": {
+            "text": "Keflavík",
+            "links": [
+              {
+                "text": "Keflavík",
+                "type": "internal",
+                "page": "Keflavík Football Club"
+              }
+            ]
+          },
+          "managerclubs6": {
+            "text": "Iceland national futsal team",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iceland national futsal team"
+              }
+            ]
+          },
+          "managerclubs7": {
+            "text": "Leiknir R.",
+            "links": [
+              {
+                "text": "Leiknir R.",
+                "type": "internal",
+                "page": "Leiknir Reykjavik"
+              }
+            ]
+          },
+          "managerclubs8": {
+            "text": "Breiðablik (Assistant)",
+            "links": [
+              {
+                "text": "Breiðablik",
+                "type": "internal",
+                "page": "Breiðablik men's football"
+              }
+            ]
+          },
+          "managerclubs9": {
+            "text": "KR",
+            "links": [
+              {
+                "text": "KR",
+                "type": "internal",
+                "page": "Knattspyrnufélag Reykjavíkur"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Playing career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Willum began his career at KR before moving on to Breiðablik and later Þróttur where he started his manager career.",
+              "links": [
+                {
+                  "text": "KR",
+                  "type": "internal",
+                  "page": "Knattspyrnufélag Reykjavíkur"
+                },
+                {
+                  "text": "Breiðablik",
+                  "type": "internal",
+                  "page": "Breiðablik men's football"
+                },
+                {
+                  "text": "Þróttur",
+                  "type": "internal",
+                  "page": "Íþróttafélagið Þróttur"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He represented Iceland at youth level both in basketball and football.",
+              "links": [
+                {
+                  "text": "basketball",
+                  "type": "internal",
+                  "page": "basketball"
+                },
+                {
+                  "text": "football",
+                  "type": "internal",
+                  "page": "Football (soccer)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Managerial career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Willum led Þróttur to Iceland's top league, the Úrvalsdeild in 1997.",
+              "links": [
+                {
+                  "text": "Þróttur",
+                  "type": "internal",
+                  "page": "Íþróttafélagið Þróttur"
+                },
+                {
+                  "text": "Úrvalsdeild",
+                  "type": "internal",
+                  "page": "Úrvalsdeild"
+                }
+              ]
+            },
+            {
+              "text": "The wait had been long as Þróttur last played at the top level in 1985."
+            },
+            {
+              "text": "In 2000, he became the manager of Haukar, and in 2002, he was appointed manager of KR and led them to two successive championships in 2002 and 2003.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Haukar"
+                },
+                {
+                  "text": "KR",
+                  "type": "internal",
+                  "page": "Knattspyrnufélag Reykjavíkur"
+                },
+                {
+                  "text": "championships",
+                  "type": "internal",
+                  "page": "Úrvalsdeild"
+                }
+              ]
+            },
+            {
+              "text": "In 2004 KR finished without a title and Þórsson's contract was not renewed."
+            },
+            {
+              "text": "He took charge of Valur who had just been promoted to the Úrvalsdeild and finished the 2005 season in 2nd place after champions FH.",
+              "links": [
+                {
+                  "text": "Valur",
+                  "type": "internal",
+                  "page": "Valur (club)"
+                },
+                {
+                  "text": "FH",
+                  "type": "internal",
+                  "page": "Fimleikafélag Hafnarfjarðar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Valur won the 2005 Icelandic Cup with a 1–0 victory over Fram.",
+              "links": [
+                {
+                  "text": "Icelandic Cup",
+                  "type": "internal",
+                  "page": "Icelandic Men's Football Cup"
+                },
+                {
+                  "text": "Fram",
+                  "type": "internal",
+                  "page": "Knattspyrnufélagið Fram"
+                }
+              ]
+            },
+            {
+              "text": "In 2006, Valur ended the season in 3rd place and in 2007 Willum managed Valur to their first League title in 20 years and won Manager of the Season in Landsbankadeildin.",
+              "links": [
+                {
+                  "text": "Valur",
+                  "type": "internal",
+                  "page": "Valur (club)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Landsbankadeildin"
+                }
+              ]
+            },
+            {
+              "text": "He left with mutual agreement on 1 July 2009."
+            },
+            {
+              "text": "On 29 September 2009, after the season had finished for the year, he was appointed the new manager of Keflavík.",
+              "links": [
+                {
+                  "text": "Keflavík",
+                  "type": "internal",
+                  "page": "Keflavík Football Club"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is the only manager who has won every single league in Iceland (4 in total), 2nd and 3rd division with Haukar, 1st division with Þróttur and the Premier League with KR and Valur.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Haukar"
+                },
+                {
+                  "text": "1st division",
+                  "type": "internal",
+                  "page": "1. deild karla (football)"
+                },
+                {
+                  "text": "Þróttur",
+                  "type": "internal",
+                  "page": "Knattspyrnufélagið Þróttur"
+                },
+                {
+                  "text": "Premier League",
+                  "type": "internal",
+                  "page": "Landsbankadeildin"
+                },
+                {
+                  "text": "KR",
+                  "type": "internal",
+                  "page": "Knattspyrnufélag Reykjavíkur"
+                },
+                {
+                  "text": "Valur",
+                  "type": "internal",
+                  "page": "Valur (club)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In November 2010, Willum was appointed as the first manager for the Icelandic futsal team.",
+              "links": [
+                {
+                  "text": "futsal",
+                  "type": "internal",
+                  "page": "futsal"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Willum has taken active part in politics with the Progressive Party.",
+              "links": [
+                {
+                  "text": "Progressive Party",
+                  "type": "internal",
+                  "page": "Progressive Party (Iceland)"
+                }
+              ]
+            },
+            {
+              "text": "In the 2013 Icelandic parliamentary election he was elected to the Althing and served until 2016, before being elected back into parliament in 2017.",
+              "links": [
+                {
+                  "text": "2013 Icelandic parliamentary election",
+                  "type": "internal",
+                  "page": "2013 Icelandic parliamentary election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Althing"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "publisher": "Alþingi",
+          "url": "https://www.althingi.is/altext/cv/is/?nfaerslunr=1178",
+          "title": "Willum Þór Þórsson",
+          "date": "20 November 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Willum is the father of Willum Þór Willumsson, an Icelandic international footballer who plays for BATE Borisov, as well as the father of Brynjólfur Andersen Willumsson, an Icelandic youth international footballer who plays for Kristiansund.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Willum Þór Willumsson"
+                },
+                {
+                  "type": "internal",
+                  "page": "BATE Borisov"
+                },
+                {
+                  "text": "Kristiansund",
+                  "type": "internal",
+                  "page": "Kristiansund BK"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "publisher": "fotbolti.net",
+          "url": "https://www.fotbolti.net/news/14-09-2017/willum-geri-mer-grein-fyrir-thvi-ad-4-saetid-er-ekki-asaettanlegt",
+          "title": "Willum: Geri mér grein fyrir því að 4. sætið er ekki ásættanlegt",
+          "date": "14 September 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Ingvi Þór Sæmundsson",
+          "title": "Willum Þór og Brynjólfur Darri Willumssynir í U-21 árs landsliðinu - Vísir",
+          "url": "https://www.visir.is/g/2019190828838/willum-thor-og-brynjolfur-darri-willumssynir-i-u-21-ars-landslidinu",
+          "website": "visir.is",
+          "publisher": "Vísir",
+          "access-date": "13 March 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "knattspyrnudeild keflavík managers"
+        },
+        {
+          "template": "knattspyrnufélag reykjavíkur managers"
+        },
+        {
+          "title": "Willum Þór Þórsson managerial positions",
+          "template": "navboxes"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "KSÍ factfile (in Icelandic)",
+            "links": [
+              {
+                "text": "KSÍ factfile",
+                "type": "external",
+                "site": "http://www.ksi.is/mot/motalisti/felagsmadur/?pLeikmadurNr=7443&pListi=1"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

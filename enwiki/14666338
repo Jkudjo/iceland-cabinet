@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Guðlaugur Þór Þórðarson (born 19 December 1967) is an Icelandic politician who has been serving as Minister for Foreign Affairs since 11 January 2017.",
+              "text": "Guðlaugur Þór Þórðarson (born 19 December 1967) is an Icelandic politician who has been serving as Minister for the Environment, Energy and Climate since 28 November 2021.",
               "links": [
                 {
                   "text": "Icelandic",
@@ -27,9 +27,9 @@
                   "page": "Iceland"
                 },
                 {
-                  "text": "Minister for Foreign Affairs",
+                  "text": "Minister for the Environment, Energy and Climate",
                   "type": "internal",
-                  "page": "Minister for Foreign Affairs (Iceland)"
+                  "page": "Minister for the Environment and Natural Resources (Iceland)"
                 }
               ],
               "formatting": {
@@ -77,6 +77,37 @@
             "text": "Guðlaugur Þór Þórðarson (19-07-2021).jpg"
           },
           "office": {
+            "text": "Minister for the Environment, Energy and Climate",
+            "links": [
+              {
+                "text": "Minister for the Environment, Energy and Climate",
+                "type": "internal",
+                "page": "Minister for the Environment and Natural Resources (Iceland)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Katrín Jakobsdóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katrín Jakobsdóttir"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 November 2021"
+          },
+          "predecessor": {
+            "text": "Guðmundur Ingi Guðbrandsson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guðmundur Ingi Guðbrandsson"
+              }
+            ]
+          },
+          "office1": {
             "text": "Minister for Foreign Affairs",
             "links": [
               {
@@ -86,7 +117,7 @@
               }
             ]
           },
-          "primeminister": {
+          "primeminister1": {
             "text": "Bjarni Benediktsson\nKatrín Jakobsdóttir",
             "links": [
               {
@@ -100,10 +131,13 @@
               }
             ]
           },
-          "term_start": {
+          "term_start1": {
             "text": "11 January 2017"
           },
-          "predecessor": {
+          "term_end1": {
+            "text": "28 November 2021"
+          },
+          "predecessor1": {
             "text": "Lilja Dögg Alfreðsdóttir",
             "links": [
               {
@@ -112,7 +146,17 @@
               }
             ]
           },
-          "office1": {
+          "successor1": {
+            "text": "Þórdís Kolbrún R. Gylfadóttir",
+            "links": [
+              {
+                "text": "Þórdís Kolbrún R. Gylfadóttir",
+                "type": "internal",
+                "page": "Þórdís Kolbrún R. Gylfadóttir"
+              }
+            ]
+          },
+          "office2": {
             "text": "Minister for Health",
             "links": [
               {
@@ -122,7 +166,7 @@
               }
             ]
           },
-          "primeminister1": {
+          "primeminister2": {
             "text": "Geir Haarde",
             "links": [
               {
@@ -131,13 +175,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "24 May 2007"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "1 February 2009"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Siv Friðleifsdóttir (Health and Social Security)",
             "links": [
               {
@@ -146,7 +190,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor2": {
             "text": "Ögmundur Jónasson",
             "links": [
               {
@@ -202,10 +246,10 @@
       ],
       "references": [
         {
-          "title": "Guðlaugur Þór Þórðarson",
-          "publisher": "Icelandic Ministry of Foreign Affairs",
-          "date": "2017",
-          "url": "https://www.mfa.is/minister/about/",
+          "title": "Second Government of Katrín Jakobsdóttir Takes Office",
+          "publisher": "Government of Iceland",
+          "date": "2021",
+          "url": "https://www.government.is/news/article/2021/11/28/Second-Government-of-Katrin-Jakobsdottir-Takes-Office/",
           "template": "citation",
           "type": "citation"
         }
@@ -227,6 +271,16 @@
               ]
             }
           ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Guðlaugur Þór Þórðarson",
+          "publisher": "Icelandic Ministry of Foreign Affairs",
+          "date": "2017",
+          "url": "https://www.mfa.is/minister/about/",
+          "template": "citation",
+          "type": "citation"
         }
       ]
     },
@@ -431,15 +485,6 @@
                 "page": "List of foreign ministers in 2017"
               }
             ]
-          },
-          {
-            "text": "List of current foreign ministers",
-            "links": [
-              {
-                "type": "internal",
-                "page": "List of current foreign ministers"
-              }
-            ]
           }
         ]
       ]
@@ -457,6 +502,9 @@
       "title": "External links",
       "depth": 0,
       "paragraphs": [
+        {
+          "sentences": []
+        },
         {
           "sentences": []
         },
@@ -491,7 +539,20 @@
         },
         {
           "title": "Minister for Foreign Affairs",
-          "years": "2017–present",
+          "years": "2017–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Þórdís Kolbrún R. Gylfadóttir",
+          "template": "s-aft"
+        },
+        {
+          "before": "Guðmundur Ingi Guðbrandsson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for the Environment, Energy and Climate",
+          "years": "2021–present",
           "template": "s-ttl"
         },
         {

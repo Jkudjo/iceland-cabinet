@@ -245,12 +245,24 @@
           "term_start": {
             "text": "29 October 2017"
           },
+          "term_end": {
+            "text": "25. September 2021"
+          },
           "predecessor": {
             "text": "Unnur Brá Konráðsdóttir",
             "links": [
               {
                 "type": "internal",
                 "page": "Unnur Brá Konráðsdóttir"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Birgir Ármannsson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Birgir Ármannsson"
               }
             ]
           },

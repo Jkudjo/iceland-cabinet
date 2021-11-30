@@ -135,14 +135,7 @@
             "text": "Lilja Dögg.jpg"
           },
           "office": {
-            "text": "Minister of Education, Science and Culture",
-            "links": [
-              {
-                "text": "Minister of Education, Science and Culture",
-                "type": "internal",
-                "page": "Minister of Education, Science and Culture (Iceland)"
-              }
-            ]
+            "text": "Minister of Tourism, Trade and Culture"
           },
           "primeminister": {
             "text": "Katrín Jakobsdóttir",
@@ -154,9 +147,44 @@
             ]
           },
           "term_start": {
-            "text": "30 November 2017"
+            "text": "28 November 2021"
           },
           "predecessor": {
+            "text": "Þórdís Kolbrún R. Gylfadóttir (Tourism, Industry, and Innovation)",
+            "links": [
+              {
+                "text": "Þórdís Kolbrún R. Gylfadóttir",
+                "type": "internal",
+                "page": "Þórdís Kolbrún R. Gylfadóttir"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Education, Science and Culture",
+            "links": [
+              {
+                "text": "Minister of Education, Science and Culture",
+                "type": "internal",
+                "page": "Minister of Education, Science and Culture (Iceland)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Katrín Jakobsdóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katrín Jakobsdóttir"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "30 November 2017"
+          },
+          "term_end1": {
+            "text": "28 November 2021"
+          },
+          "predecessor1": {
             "text": "Kristján Þór Júlíusson",
             "links": [
               {
@@ -165,7 +193,17 @@
               }
             ]
           },
-          "office1": {
+          "successor1": {
+            "text": "Ásmundur Einar Daðason (Education and Children's Affairs)",
+            "links": [
+              {
+                "text": "Ásmundur Einar Daðason",
+                "type": "internal",
+                "page": "Ásmundur Einar Daðason"
+              }
+            ]
+          },
+          "office2": {
             "text": "Deputy Chair of the Progressive Party",
             "links": [
               {
@@ -175,7 +213,7 @@
               }
             ]
           },
-          "leader1": {
+          "leader2": {
             "text": "Sigurður Ingi Jóhannsson",
             "links": [
               {
@@ -184,13 +222,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "2 October 2016"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Sigurður Ingi Jóhannsson"
           },
-          "office2": {
+          "office3": {
             "text": "Minister of Foreign Affairs",
             "links": [
               {
@@ -200,16 +238,16 @@
               }
             ]
           },
-          "primeminister2": {
+          "primeminister3": {
             "text": "Sigurður Ingi Jóhannsson"
           },
-          "term_start2": {
+          "term_start3": {
             "text": "7 April 2016"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "11 January 2017"
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Gunnar Bragi Sveinsson",
             "links": [
               {
@@ -218,7 +256,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "Guðlaugur Þór Þórðarson",
             "links": [
               {
