@@ -129,6 +129,11 @@
           "template": "birth date and age"
         },
         {
+          "abbr": "div.",
+          "meaning": "divorced",
+          "template": "abbr"
+        },
+        {
           "spouse": "Elín Haraldsdóttir",
           "from": "1995",
           "to": "1996",
