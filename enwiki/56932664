@@ -16,14 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Guðmundur Ingi Guðbrandsson (born 28 March 1977) is Minister for the Environment and Natural Resources of Iceland and has also served as the CEO of Landvernd, the largest nature conservation and environmental NGO in Iceland, from 2011 to 2017.",
-              "links": [
-                {
-                  "text": "Environment and Natural Resources",
-                  "type": "internal",
-                  "page": "Minister for the Environment and Natural Resources (Iceland)"
-                }
-              ],
+              "text": "Guðmundur Ingi Guðbrandsson (born 28 March 1977) is Minister of Social Affairs and the Labour Market since November 28th 2021.",
               "formatting": {
                 "bold": [
                   "Guðmundur Ingi Guðbrandsson"
@@ -31,7 +24,16 @@
               }
             },
             {
-              "text": "He serves as Minister for the Environment outside the parliament unlike the rest of the cabinet of Katrín Jakobsdóttir.",
+              "text": "He represents the Left-Green Party."
+            },
+            {
+              "text": "He was Minister for the Environment and Natural Resources from November 30, 2017 to November 28, 2021."
+            },
+            {
+              "text": "He has also served as the CEO of Landvernd, the largest nature conservation and environmental NGO in Iceland, from 2011 to 2017."
+            },
+            {
+              "text": "He is not a member of the parliament unlike the rest of the cabinet of Katrín Jakobsdóttir.",
               "links": [
                 {
                   "text": "cabinet of Katrín Jakobsdóttir",
