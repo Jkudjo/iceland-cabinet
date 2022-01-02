@@ -198,28 +198,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Ásmundur Einar Daðason",
-          "url": "http://www.althingi.is/cv_en.php4?ksfaerslunr=121",
-          "publisher": "Alþingi",
-          "accessdate": "17 May 2012",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.nordiclabourjournal.org/artikler/portrett/portrait-2018/article.2018-02-07.1627737317",
-          "title": "Ásmundur Einar Daðason: Time to overhaul the social safety net — Nordic Labour Journal",
-          "template": "citation",
-          "type": "document"
-        },
-        {
-          "url": "https://www.government.is/government/",
-          "title": "Government of Iceland &#124; Current government",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

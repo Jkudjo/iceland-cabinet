@@ -201,24 +201,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://landvernd.is/sidur/gudmundur-ingi-radinn-framkvaemdastjori",
-          "title": "Guðmundur Ingi ráðinn framkvæmdastjóri",
-          "work": "Landvernd",
-          "access-date": "2018-03-24",
-          "language": "is-IS",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.mbl.is/frettir/innlent/2017/11/30/skiptir_miklu_mali_ad_vera_fyrstur/",
-          "title": "Skiptir miklu máli að vera fyrstur",
-          "access-date": "2018-03-24",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

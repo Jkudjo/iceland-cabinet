@@ -138,28 +138,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Með uppbrettar ermar",
-          "url": "https://timarit.is/page/3752951",
-          "access-date": "5 May 2021",
-          "work": "Fréttablaðið",
-          "date": "29 January 2005",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Georg Kr. Lárusson skipaður varalögreglustjóri",
-          "url": "https://www.mbl.is/greinasafn/grein/389171/",
-          "access-date": "5 May 2021",
-          "work": "Morgunblaðið",
-          "date": "19 March 1998",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

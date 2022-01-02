@@ -522,49 +522,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Steingrímur J. Sigfússon",
-          "url": "http://www.althingi.is/cv_en.php4?ksfaerslunr=74",
-          "publisher": "Secretariat of Althingi",
-          "access-date": "29 January 2009",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
-          "title": "The Stories That Shaped the Year",
-          "url": "http://grapevine.is/default.aspx?show=paper&part=fullstory&id=1543",
-          "work": "Reykjavik Grapevine",
-          "author": "Sveinn Birkir Björnsson",
-          "access-date": "29 January 2009",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
-          "title": "Við öll – íslenskt velferðarsamfélag á tímamótum (2006)",
-          "url": "http://www.stjornmalogstjornsysla.is/index.php?option=com_content&task=view&id=227&Itemid=32",
-          "access-date": "29 January 2009",
-          "language": "is",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
-          "url": "http://grapevine.is/default.aspx?show=paper&part=fullstory&id=1544",
-          "title": "Defending the Welfare System",
-          "work": "Reykjavik Grapevine",
-          "author": "Steinunn Jakobsdóttir",
-          "access-date": "29 January 2009",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
-          "url": "https://www.government.is/ministries/ministry-of-finance-and-economic-affairs/former-ministers/",
-          "title": "Government of Iceland &#124; Organisation Chart of the Ministry of Finance",
-          "website": "www.government.is",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

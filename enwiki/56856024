@@ -218,30 +218,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "author1": "Heimir Már Pétursson",
-          "author2": "Kjartan Kjartansson",
-          "author3": "Stefán Ó. Jónsson",
-          "title": "Áslaug Arna nýr dómsmálaráðherra",
-          "url": "https://www.visir.is/g/2019190909314/aslaug-arna-nyr-domsmalaradherra",
-          "accessdate": "5 September 2019",
-          "work": "Vísir.is",
-          "date": "5 September 2019",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.government.is/news/article/2021/11/28/Second-Government-of-Katrin-Jakobsdottir-Takes-Office/",
-          "title": "Government of Iceland {{!}} Government of Iceland",
-          "website": "www.government.is",
-          "language": "en",
-          "access-date": "2021-11-29",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

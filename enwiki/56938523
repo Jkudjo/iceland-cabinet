@@ -278,35 +278,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.stjornarradid.is/raduneyti/atvinnuvega-og-nyskopunarraduneytid/ferdamala-idnadar-og-nyskopunarradherra/",
-          "title": "Stjórnarráðið {{!}} Ferðamála-, iðnaðar- og nýsköpunarráðherra",
-          "website": "www.stjornarradid.is",
-          "language": "is",
-          "access-date": "2018-03-25",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.visir.is/g/2017170119816",
-          "title": "Yngsta konan til að gegna ráðherraembætti: Ekki markmið að verða ráðherra fyrir þrítugt - Vísir",
-          "work": "visir.is",
-          "access-date": "2018-03-25",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://xd.is/2018/03/18/nykjorin-forysta-sjalfstaedisflokksins/",
-          "title": "Nýkjörin forysta Sjálfstæðisflokksins {{!}} Sjálfstæðisflokkurinn",
-          "last": "Ingvar",
-          "website": "xd.is",
-          "language": "en-US",
-          "access-date": "2018-03-25",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

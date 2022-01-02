@@ -395,52 +395,6 @@
             "number": 5
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.nytimes.com/reuters/2016/04/06/business/06reuters-panama-tax-iceland-primeminister.html",
-          "title": "Iceland Government Coalition Appoints Johannsson as New PM-Progressive Party MP",
-          "work": "The New York Times",
-          "date": "6 April 2016",
-          "access-date": "6 April 2016",
-          "agency": "Reuters",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://icelandreview.com/news/2016/04/06/sigurdur-ingi-johannsson-icelands-new-pm",
-          "title": "Sigurður Ingi Jóhannsson Iceland's New PM",
-          "work": "Iceland Review",
-          "date": "6 April 2016",
-          "access-date": "6 April 2016",
-          "author": "Hafstad, Vala",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.nytimes.com/aponline/2016/04/06/world/europe/ap-eu-offshore-accounts-iceland.html",
-          "title": "Johannsson to Seek Approval to Become Iceland's Next PM",
-          "work": "The New York Times",
-          "date": "6 April 2016",
-          "access-date": "6 April 2016",
-          "author": "THE ASSOCIATED PRESS",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.ruv.is/frett/sigurdur-ingi-kjorinn-formadur-framsoknar",
-          "title": "Sigurður Ingi kjörinn formaður Framsóknar",
-          "date": "2016-10-02",
-          "access-date": "2016-10-02",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
