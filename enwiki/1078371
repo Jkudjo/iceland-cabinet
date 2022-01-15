@@ -1,0 +1,4288 @@
+{
+  "title": "Icelandic Coast Guard",
+  "pageID": 1078371,
+  "categories": [
+    "Icelandic Coast Guard",
+    "1926 establishments in Iceland",
+    "Military history of Iceland",
+    "Transport in Iceland",
+    "Law enforcement agencies of Iceland",
+    "Coast guards",
+    "National hydrographic offices"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Icelandic Coast Guard (Landhelgisgæsla Íslands, Landhelgisgæslan or simply Gæslan) is the service responsible for search and rescue, maritime safety and security surveillance, and law enforcement in the seas surrounding Iceland.",
+              "formatting": {
+                "bold": [
+                  "Icelandic Coast Guard"
+                ]
+              }
+            },
+            {
+              "text": "The Coast Guard maintains the Iceland Air Defence System which conducts ground surveillance of Iceland's air space and operate Keflavik airbase.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Iceland Air Defence System"
+                },
+                {
+                  "text": "Keflavik airbase",
+                  "type": "internal",
+                  "page": "Naval Air Station Keflavik"
+                }
+              ]
+            },
+            {
+              "text": "It is also responsible for hydrographic surveying and nautical charting."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Maritime security branch of Iceland's military",
+          "template": "short description"
+        },
+        {
+          "date": "January 2018",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "agencyname": {
+            "text": "Icelandic Coast Guard"
+          },
+          "nativename": {
+            "text": "Landhelgisgæsla Íslands"
+          },
+          "commonname": {
+            "text": "Gæslan (The Guard)"
+          },
+          "abbreviation": {
+            "text": "LHG"
+          },
+          "logo": {
+            "text": "File:LHG skjöldur opinber 2005.svg"
+          },
+          "logocaption": {
+            "text": "Icelandic Coast Guard insignia"
+          },
+          "badge": {
+            "text": "File:Icelandic Coast Guard racing stripe.svg"
+          },
+          "badgecaption": {
+            "text": "Racing stripe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Racing stripe"
+              }
+            ]
+          },
+          "flag": {
+            "text": "File:Flag of Iceland (state).svg"
+          },
+          "flagcaption": {
+            "text": "Naval ensign",
+            "links": [
+              {
+                "text": "ensign",
+                "type": "internal",
+                "page": "ensign"
+              }
+            ]
+          },
+          "motto": {
+            "text": "Við erum til taks"
+          },
+          "mottotranslated": {
+            "text": "Always Prepared"
+          },
+          "formedmonthday": {
+            "text": "July 1"
+          },
+          "formedyear": {
+            "text": "1926",
+            "number": 1926
+          },
+          "employees": {
+            "text": "200 officers"
+          },
+          "country": {
+            "text": "Iceland"
+          },
+          "constitution1": {
+            "text": "Icelandic Coast Guard Act"
+          },
+          "speciality1": {
+            "text": "coast"
+          },
+          "chief1name": {
+            "text": "RADM Georg Kr. Lárusson",
+            "links": [
+              {
+                "text": "RADM",
+                "type": "internal",
+                "page": "Rear Admiral"
+              },
+              {
+                "type": "internal",
+                "page": "Georg Kr. Lárusson"
+              }
+            ]
+          },
+          "chief1position": {
+            "text": "General Director"
+          },
+          "chief2name": {
+            "text": "CDRE Ásgrímur L. Ásgrímsson",
+            "links": [
+              {
+                "text": "CDRE",
+                "type": "internal",
+                "page": "Commodore (rank)"
+              }
+            ]
+          },
+          "chief2position": {
+            "text": "Chief of Operations"
+          },
+          "chief3name": {
+            "text": "CAPT Auðunn F Kristinsson",
+            "links": [
+              {
+                "text": "CAPT",
+                "type": "internal",
+                "page": "Captain (naval)"
+              }
+            ]
+          },
+          "chief3position": {
+            "text": "Chief of Maritime Division"
+          },
+          "chief4name": {
+            "text": "CDR sg Sindri Steingrímsson",
+            "links": [
+              {
+                "text": "CDR sg",
+                "type": "internal",
+                "page": "Commander"
+              }
+            ]
+          },
+          "chief4position": {
+            "text": "Chief of Aeronautical Division"
+          },
+          "chief5name": {
+            "text": "CAPT Jón B Guðnason",
+            "links": [
+              {
+                "text": "CAPT",
+                "type": "internal",
+                "page": "Captain (naval)"
+              }
+            ]
+          },
+          "chief5position": {
+            "text": "Chief of Defence Division"
+          },
+          "aircraft1type": {
+            "text": "Patrol aircraft"
+          },
+          "aircraft1": {
+            "text": "1 Bombardier DHC-8-Q314",
+            "links": [
+              {
+                "text": "Bombardier DHC-8-Q314",
+                "type": "internal",
+                "page": "Bombardier Dash 8"
+              }
+            ]
+          },
+          "aircraft2type": {
+            "text": "Transport aircraft"
+          },
+          "aircraft2": {
+            "text": "3 AS-332L1 Super Pumas",
+            "links": [
+              {
+                "text": "AS-332L1 Super Pumas",
+                "type": "internal",
+                "page": "Aerospatiale Super Puma"
+              }
+            ]
+          },
+          "boats1": {
+            "text": "3 x Patrol vessels 2 x Patrol/survey boat"
+          },
+          "activity1name": {
+            "text": "Cod Wars",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cod Wars"
+              }
+            ]
+          },
+          "website": {
+            "text": "www.lhg.is/english/"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.lhg.is/english/",
+          "title": "Welcome to the Icelandic Coast Guard",
+          "access-date": "2021-11-24",
+          "website": "Icelandic Coast Guard",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.lhg.is/english/varnarmal/",
+          "title": "Security and Defence",
+          "access-date": "2021-11-26",
+          "website": "Icelandic Coast Guard",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.lhg.is/english/hydrographic-department/",
+          "title": "Hydrographic surveying and nautical charting",
+          "access-date": "2021-11-24",
+          "website": "Icelandic Coast Guard",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "index": "52",
+          "date": "14 June 2006",
+          "legislature": "Legislative Assembly",
+          "title": "Lög um Landhelgisgæslu Íslands",
+          "trans-title": "Act on Icelandic Coast Guard",
+          "url": "https://www.fao.org/faolex/results/details/en/c/LEX-FAOC177591/",
+          "template": "citation",
+          "type": "act"
+        },
+        {
+          "url": "https://ac.nato.int/archive/2016/icelands-role-in-nato-integrated-air-and-missile-defence-system",
+          "title": "Iceland's Role In Nato Integrated Air And Missile Defence System",
+          "author": "HQ AIRCOM Public Affairs",
+          "access-date": "2021-11-26",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Its origins can be traced to 1859, when the corvette Ørnen started patrolling Icelandic waters.",
+              "formatting": {
+                "italic": [
+                  "Ørnen"
+                ]
+              }
+            },
+            {
+              "text": "In 1906, Iceland's first purposely built guard-ship, Islands Falk, began operation.",
+              "formatting": {
+                "italic": [
+                  "Islands Falk"
+                ]
+              }
+            },
+            {
+              "text": "Iceland's own defense of its territorial waters began around 1920 and the Icelandic Coast Guard was formally founded on 1 July 1926."
+            },
+            {
+              "text": "The first cannon was put on the trawler Þór in 1924 and on 23 June 1926 the first ship built for the Coast Guard, named Óðinn, arrived in Iceland.",
+              "links": [
+                {
+                  "text": "Óðinn",
+                  "type": "internal",
+                  "page": "ICGV Óðinn",
+                  "anchor": "Previous .C3.93.C3.B0inn.27s"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Þór",
+                  "Óðinn"
+                ]
+              }
+            },
+            {
+              "text": "Three years later, on 14 July 1929 the coastal defence ship Ægir was added to the Coast Guard fleet.",
+              "formatting": {
+                "italic": [
+                  "Ægir"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.lhg.is/media/LHG80/Landhelgisgasla_Islands_enska2_.pdf",
+          "title": "The Icelandic Coast Guard “Always Prepared”",
+          "access-date": "18 May 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Cod Wars",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Icelandic Coast Guard played its largest role during the fishing rights dispute known as the Cod Wars, between 1972 and 1976, when the Coast Guard ships would cut the trawl wires of British and West German trawlers, resulting in confrontations with Royal Navy warships and tugs from the British Ministry of Agriculture, Fisheries and Food (MAFF).",
+              "links": [
+                {
+                  "text": "Cod Wars",
+                  "type": "internal",
+                  "page": "Cod War"
+                },
+                {
+                  "text": "cut the trawl wires",
+                  "type": "internal",
+                  "page": "Net cutter (fisheries patrol)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Royal Navy"
+                },
+                {
+                  "text": "Ministry of Agriculture, Fisheries and Food",
+                  "type": "internal",
+                  "page": "Ministry of Agriculture, Fisheries and Food (United Kingdom)"
+                }
+              ]
+            },
+            {
+              "text": "The Icelandic Coast Guard goal was to enforce a disputed expansion of Iceland's exclusive economic zone.",
+              "links": [
+                {
+                  "text": "exclusive economic zone",
+                  "type": "internal",
+                  "page": "exclusive economic zone"
+                }
+              ]
+            },
+            {
+              "text": "Engagements between Icelandic gunboats and British warships involving ramming became the tactic of choice during this conflict.",
+              "links": [
+                {
+                  "text": "ramming",
+                  "type": "internal",
+                  "page": "ramming"
+                }
+              ]
+            },
+            {
+              "text": "At least 15 British frigates, five Icelandic patrol boats and one British supply ship were damaged by ramming between 1975 and 1976."
+            },
+            {
+              "text": "In the end, Iceland achieved its overall ambition of expanding its exclusive fishery zone to 200 nmi by June 1976."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Evans",
+          "first": "Andrew",
+          "url": "https://archive.org/details/iceland0000evan/page/25",
+          "title": "Iceland: The Bradt Travel Guide",
+          "publisher": "Bradt Travel Guides",
+          "year": "2008",
+          "isbn": "9781841622156",
+          "page": "25",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last": "Jones",
+          "first": "Robert",
+          "date": "2009",
+          "title": "Safeguarding the Nation: The Story of the Modern Royal Navy",
+          "publisher": "Seaforth Publishing",
+          "page": "119",
+          "isbn": "1848320434",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last": "Bakaki",
+          "first": "Zorzeta",
+          "date": "2016-01-01",
+          "title": "Deconstructing Mediation: A Case Study of the Cod Wars",
+          "journal": "Negotiation Journal",
+          "language": "en",
+          "volume": "32",
+          "issue": "1",
+          "pages": "63–78",
+          "doi": "10.1111/nejo.12147",
+          "issn": "1571-9979",
+          "template": "citation",
+          "type": "journal"
+        }
+      ]
+    },
+    {
+      "title": "Operations",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "The Icelandic Coast Guard's (ICG) primary mission as stipulated in Section 1 of Act on Icelandic Coast Guard is conduct search and rescue, maritime safety and security surveillance, and law enforcement inside the 200 nmi-wide economic zone."
+            },
+            {
+              "text": "The Coast Guard operates Joint Rescue and Coordination Centre (JRCC) Iceland which is responsible for search and rescue of vessels and aircraft in Iceland's search and rescue region (SRR) according to International Aeronautical and Maritime Search and Rescue (IAMSAR) Manual."
+            },
+            {
+              "text": "Additionally the ICG is in the charge of defusing naval mines, most of which were laid during the Second World War, and monitoring fisheries in international waters outside of the Icelandic economic zone in order to blacklist any vessel partaking in unregulated fishing and thus bar them from receiving services from any member of the North East Atlantic Fisheries Commission in order to make unregulated fishing unprofitable.",
+              "links": [
+                {
+                  "text": "naval mines",
+                  "type": "internal",
+                  "page": "naval mine"
+                },
+                {
+                  "type": "internal",
+                  "page": "Second World War"
+                },
+                {
+                  "text": "international waters",
+                  "type": "internal",
+                  "page": "international waters"
+                },
+                {
+                  "text": "blacklist",
+                  "type": "internal",
+                  "page": "blacklist"
+                },
+                {
+                  "text": "unregulated fishing",
+                  "type": "internal",
+                  "page": "unregulated fishing"
+                },
+                {
+                  "type": "internal",
+                  "page": "North East Atlantic Fisheries Commission"
+                }
+              ]
+            },
+            {
+              "text": "The Icelandic Coast Guard also occasionally operates within Greenlandic and Faeroese waters, following a bilateral agreement with Denmark regarding mutual aid in security, rescue and defence matters.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Denmark"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The Coast Guard accomplishes these tasks with the use of offshore patrol vessels (OPV), helicopters, surveillance aircraft, satellites and a network of land based surface scanning radar.",
+              "links": [
+                {
+                  "text": "offshore patrol vessels",
+                  "type": "internal",
+                  "page": "offshore patrol vessel"
+                },
+                {
+                  "text": "helicopters",
+                  "type": "internal",
+                  "page": "helicopter"
+                },
+                {
+                  "text": "aircraft",
+                  "type": "internal",
+                  "page": "aircraft"
+                },
+                {
+                  "text": "satellites",
+                  "type": "internal",
+                  "page": "satellite"
+                },
+                {
+                  "text": "radar",
+                  "type": "internal",
+                  "page": "radar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The Icelandic Coast Guard is also in charge of the Iceland Air Defence System, which operates four ground-based AN-FPS(V)5 air surveillance radars and a control and command centre.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Iceland Air Defence System"
+                },
+                {
+                  "text": "AN-FPS(V)5",
+                  "type": "internal",
+                  "page": "AN/FPS-117"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 1990s the Coast Guard started hosting exercises such as \"Northern Challenge\" which had military units from Norway, Denmark, Sweden and the United Kingdom, among others, participating along with the Icelandic Coast Guard.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Norway"
+                },
+                {
+                  "type": "internal",
+                  "page": "Denmark"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sweden"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Kingdom"
+                }
+              ]
+            },
+            {
+              "text": "The Coast Guard has also taken part in peacekeeping operations on behalf of the Icelandic Crisis Response Unit, although while usually using their own rank insignia, uniforms and weapons.",
+              "links": [
+                {
+                  "text": "peacekeeping",
+                  "type": "internal",
+                  "page": "peacekeeping"
+                },
+                {
+                  "type": "internal",
+                  "page": "Icelandic Crisis Response Unit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The fleet also takes part in Frontex operations, and in that role played a major part in the rescue of over 300 Syrian refugees in the eastern Mediterranean Sea in January 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Frontex"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:10 Arrival of Thor - Icelandic Coast Guard 2011-10-27 Reykjavik.jpg",
+          "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/10_Arrival_of_Thor_-_Icelandic_Coast_Guard_2011-10-27_Reykjavik.jpg?width=300",
+          "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/10_Arrival_of_Thor_-_Icelandic_Coast_Guard_2011-10-27_Reykjavik.jpg",
+          "caption": "From left to right: Captain of Þór Cdr. s.g. Sigurður Steinar Ketilsson, Director of the Icelandic Coast Guard R.Adm. Georg Kr. Lárusson, President of Iceland Mr. Ólafur Ragnar Grímsson, and former Minister of the Interior Ögmundur Jónasson (2011)",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "ICGV",
+            "Týr"
+          ],
+          "template": "ship"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.lhg.is/english/jrcc-iceland/nr/1829",
+          "title": "RCC Iceland- Rescue Centre for mariners and aircrafts &#91;sic&#93;",
+          "access-date": "2021-11-26",
+          "website": "Icelandic Coast Guard",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://grapevine.is/news/2020/06/05/coast-guard-unearths-world-war-2-era-explosive/",
+          "access-date": "2021-11-26",
+          "date": "2020-06-05",
+          "title": "Coast Guard Unearths World War 2 Era Explosive",
+          "first": "Sam",
+          "last": "O'Donnell",
+          "work": "The Reykjavík Grapevine",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.neafc.org/",
+          "title": "North East Atlantic Fisheries Commission",
+          "access-date": "14 December 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Fleet",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "As of 2021, the Icelandic Coast Guard fleet consists of three OPVs, one coastal hydrographic and patrol vessel and an independent fast rigid-hulled inflatable boat (RHIB), as well as numerous smaller boats assigned to the larger units.",
+              "links": [
+                {
+                  "text": "coastal hydrographic and patrol vessel",
+                  "type": "internal",
+                  "page": "Research vessel"
+                },
+                {
+                  "text": "rigid-hulled inflatable boat",
+                  "type": "internal",
+                  "page": "rigid-hulled inflatable boat"
+                }
+              ]
+            },
+            {
+              "text": "In 2011 the Coast Guard received, built by the Asmar shipyard in Talcahuano, Chile.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Talcahuano"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chile"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "ICGV Týr, an, the second youngest, built by Århus Flydedok a/s and launched in 1975.",
+              "formatting": {
+                "italic": [
+                  "Týr"
+                ]
+              }
+            },
+            {
+              "text": ", lead ship of the Ægir class, is ICGV Týrs sister ship, built by Ålborg Værft a/s and launched in 1968.",
+              "links": [
+                {
+                  "text": "lead ship",
+                  "type": "internal",
+                  "page": "lead ship"
+                },
+                {
+                  "text": "sister ship",
+                  "type": "internal",
+                  "page": "sister ship"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Ægir",
+                  "Týr"
+                ]
+              }
+            },
+            {
+              "text": "Each ship is equipped with two or more RHIBs of various sizes and armed with a 40 mm Bofors cannon.",
+              "links": [
+                {
+                  "text": "40 mm Bofors",
+                  "type": "internal",
+                  "page": "40 mm Bofors"
+                }
+              ]
+            },
+            {
+              "text": "Various kinds of small arms as well as other man-portable weapons are also carried on board each of the ships.",
+              "links": [
+                {
+                  "text": "small arms",
+                  "type": "internal",
+                  "page": "small arms"
+                }
+              ]
+            },
+            {
+              "text": "Týr and Þór are also equipped with sonar systems and the Ægir-class vessels have flight decks and a hangar for a small helicopter.",
+              "links": [
+                {
+                  "text": "sonar",
+                  "type": "internal",
+                  "page": "sonar"
+                },
+                {
+                  "text": "flight decks",
+                  "type": "internal",
+                  "page": "flight deck"
+                },
+                {
+                  "text": "hangar",
+                  "type": "internal",
+                  "page": "hangar"
+                },
+                {
+                  "text": "helicopter",
+                  "type": "internal",
+                  "page": "helicopter"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Týr",
+                  "Þór",
+                  "Ægir"
+                ]
+              }
+            },
+            {
+              "text": "While the Coast Guard doesn't operate small enough helicopters to use the hangars, the flight decks are often used by the helicopters of the Aeronautical Division on various missions."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The coastguard has as well a 73-ton patrol and hydrographic survey vessel, named Baldur, built by Vélsmiðja Seyðisfjarðar shipyard in 1991.",
+              "formatting": {
+                "italic": [
+                  "Baldur"
+                ]
+              }
+            },
+            {
+              "text": "This vessel has no mounted weaponry but it has nonetheless been used for port security and fishery inspection."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The newest ship of the fleet,, was bought in September 2021 to replace the 46-year old ICGV Týr.",
+              "links": [
+                {
+                  "text": "ICGV ''Týr''",
+                  "type": "internal",
+                  "page": "ICGV Týr"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Týr"
+                ]
+              }
+            },
+            {
+              "text": "It arrived for retrofit at Damen Shiprepair Rotterdam in Schiedam on 11 October and was formally delivered to the Coast Guard on 1 November 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Schiedam"
+                }
+              ]
+            },
+            {
+              "text": "She departed for Siglufjordur on 2 November."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "ICGV",
+            "Þór"
+          ],
+          "template": "ship"
+        },
+        {
+          "list": [
+            "Ægir",
+            "offshore patrol vessel",
+            "2"
+          ],
+          "template": "sclass"
+        },
+        {
+          "list": [
+            "ICGV",
+            "Ægir"
+          ],
+          "template": "ship"
+        },
+        {
+          "template": "'"
+        },
+        {
+          "list": [
+            "ICGV",
+            "Freyja"
+          ],
+          "template": "ship"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.lhg.is/frettirogutgafa/frettir/nr/2079",
+          "title": "Til hamingju með daginn! Þór kominn til Íslands",
+          "access-date": "14 December 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.lhg.is/starfsemi/adgerdasvid/nyttvardskipthor/",
+          "title": "Nýtt varðskip Þór",
+          "access-date": "14 December 2014",
+          "archive-url": "https://web.archive.org/web/20120307201720/http://www.lhg.is/starfsemi/adgerdasvid/nyttvardskipthor/",
+          "archive-date": "7 March 2012",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Varðskipið Freyja verður gert út frá Siglufirði",
+          "url": "https://www.lhg.is/frettir-og-fjolmidlar/frettasafn/frettayfirlit/vardskipid-freyja-verdur-gert-ut-fra-siglufirdi",
+          "access-date": "29 October 2021",
+          "work": "Icelandic Coast Guard",
+          "date": "21 September 2021",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Samúel Karl Ólason",
+          "title": "Gera Freyju út frá Siglufirði",
+          "url": "https://www.visir.is/g/20212159182d/gera-freyju-ut-fra-siglufirdi",
+          "access-date": "29 October 2021",
+          "work": "Vísir.is",
+          "date": "21 September 2021",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Samúel Karl Ólason",
+          "title": "Undirbúa heimsiglinguna frá Rotterdam",
+          "url": "https://www.visir.is/g/20212176279d/undir-bua-heim-siglinguna-fra-rotter-dam",
+          "access-date": "30 October 2021",
+          "work": "Vísir.is",
+          "date": "30 October 2021",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Kristín Sigurðardóttir",
+          "title": "Nýtt varðskip verði fyrst til að bera nafn ásynju",
+          "url": "https://www.ruv.is/frett/2021/03/05/nytt-vardskip-verdi-fyrst-til-ad-bera-nafn-asynju",
+          "access-date": "29 October 2021",
+          "work": "RÚV",
+          "date": "5 March 2021",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "February 2021",
+          "template": "citation needed"
+        },
+        {
+          "date": "February 2021",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Aeronautical division",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Coast Guard's Aeronautical Division was founded on 10 December 1955 when a Consolidated PBY-6A Catalina flying boat was acquired.",
+              "links": [
+                {
+                  "text": "Consolidated PBY-6A Catalina",
+                  "type": "internal",
+                  "page": "PBY Catalina"
+                },
+                {
+                  "text": "flying boat",
+                  "type": "internal",
+                  "page": "flying boat"
+                }
+              ]
+            },
+            {
+              "text": "It was originally from the Iceland Defense Force but was damaged near Langanes in 1954.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Iceland Defense Force"
+                },
+                {
+                  "type": "internal",
+                  "page": "Langanes"
+                }
+              ]
+            },
+            {
+              "text": "It was registered as TF-RAN and nicknamed Rán.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rán"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Until 2019, the Icelandic Coast Guard operated three Aerospatiale AS-332L1 Super Puma helicopters, which were registered as TF-LIF, TF-SYN and TF-GNA.",
+              "links": [
+                {
+                  "text": "Aerospatiale AS-332L1 Super Puma",
+                  "type": "internal",
+                  "page": "Eurocopter Super Puma"
+                },
+                {
+                  "text": "TF-LIF",
+                  "type": "internal",
+                  "page": "TF-LÍF"
+                }
+              ]
+            },
+            {
+              "text": "As a response to the withdrawal of the Iceland Defense Force in 2006, the Coast Guard operated four helicopters, including a leased Aérospatiale SA-365N-1 Dauphin 2 TF-EIR, but this number was reduced to the three Super Pumas as of 2015.",
+              "links": [
+                {
+                  "text": "Aérospatiale SA-365N-1 Dauphin 2",
+                  "type": "internal",
+                  "page": "Eurocopter Dauphin"
+                }
+              ]
+            },
+            {
+              "text": "In 2021 the Icelandic Coast Guard have received three Airbus Helicopters H225 helicopters, leased from Norwegian company Knut Axel Ugland Holding AS, to replace the three AS332L1 Super Pumas."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The Coast Guard also operates a single Bombardier DHC-8-Q314, registered as TF-SIF, modified for maritime surveillance and reconnaissance.",
+              "links": [
+                {
+                  "text": "Bombardier DHC-8-Q314",
+                  "type": "internal",
+                  "page": "Bombardier Dash 8"
+                }
+              ]
+            },
+            {
+              "text": "This plane has been extensively modified by FIELD to carry a modern Mission Management System and suite of surveillance sensors, air operable door and communications/navigation equipment."
+            },
+            {
+              "text": "It is occasionally also used for surveillance of volcanic eruptions, such as the 2010 eruptions of Eyjafjallajökull.",
+              "links": [
+                {
+                  "text": "2010 eruptions of Eyjafjallajökull",
+                  "type": "internal",
+                  "page": "2010 eruptions of Eyjafjallajökull"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Unlike the fleet, aircraft of the Icelandic Coast Guard have standard Icelandic civilian registers, as the Althing (parliament) has never agreed on laws for military or government aircraft.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Althing"
+                }
+              ]
+            },
+            {
+              "text": "Over the time since the division was formed the regulations for standard civilian aircraft have become more restrictive."
+            },
+            {
+              "text": "As a result, the Coast Guard can no longer operate military aircraft like it did in the past."
+            },
+            {
+              "text": "Nevertheless, Icelandic Coast Guard helicopters are outfitted with the latest generation U.S. night vision equipment, reserved for U.S. armed forces and the armies of their allies and thus the only civilian registered aircraft in the world, so equipped.",
+              "links": [
+                {
+                  "text": "night vision equipment",
+                  "type": "internal",
+                  "page": "night vision equipment"
+                },
+                {
+                  "type": "internal",
+                  "page": "U.S. armed forces"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://icelandmonitor.mbl.is/news/news/2021/05/06/icelandic_coast_guard_receives_third_helicopter/",
+          "work": "Iceland Monitor",
+          "date": "2021-05-06",
+          "title": "Icelandic Coast Guard Receives Third Helicopter",
+          "first": "Vala",
+          "last": "Hafstað",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://fieldav.com/news-events/icelandic-coast-guard-to-the-rescue-in-the-gulf-of-mexico/",
+          "title": "Icelandic Coast Guard to the Rescue in the Gulf of Mexico",
+          "date": "2010-07-15",
+          "access-date": "2021-11-26",
+          "publisher": "Field Aviation",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "November 2010",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Ships and aircraft",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "All major vehicles of the Icelandic Coast Guard are named after beings from Norse mythology.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Norse mythology"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Currently operated vessels",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "Ship name": {
+              "text": ""
+            },
+            "Type": {
+              "text": "Offshore patrol vessel"
+            },
+            "Class": {
+              "text": ""
+            },
+            "Note": {
+              "text": "South Korean-built offshore patrol vessel commissioned in late 2021. Named after the goddess Freyja.",
+              "links": [
+                {
+                  "text": "South Korean",
+                  "type": "internal",
+                  "page": "South Korea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Freyja"
+                }
+              ]
+            },
+            "Photo": {
+              "text": ""
+            }
+          },
+          {
+            "Ship name": {
+              "text": ""
+            },
+            "Type": {
+              "text": "Offshore patrol vessel"
+            },
+            "Class": {
+              "text": "UT 512L Type",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "UT 512L Type"
+                }
+              ]
+            },
+            "Note": {
+              "text": "Chilean-built UT 512L Type (enlarged UT 512 Type) offshore patrol vessel commissioned in late 2011 and the flagship of the service. Named after Thor, the god of thunder, lightning and troll slaying.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chile"
+                },
+                {
+                  "type": "internal",
+                  "page": "UT 512L Type"
+                },
+                {
+                  "type": "internal",
+                  "page": "Thor"
+                },
+                {
+                  "text": "troll",
+                  "type": "internal",
+                  "page": "troll"
+                }
+              ]
+            },
+            "Photo": {
+              "text": "2 Arrival of Thor - Icelandic Coast Guard 2011-10-27 Reykjavik.jpg"
+            }
+          },
+          {
+            "Ship name": {
+              "text": ""
+            },
+            "Type": {
+              "text": "Offshore patrol vessel"
+            },
+            "Class": {
+              "text": ""
+            },
+            "Note": {
+              "text": "Danish-built Ægir-class offshore patrol vessel named after Týr, the god of combat and heroism.",
+              "links": [
+                {
+                  "text": "Danish",
+                  "type": "internal",
+                  "page": "Denmark"
+                },
+                {
+                  "type": "internal",
+                  "page": "Týr"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Ægir"
+                ]
+              }
+            },
+            "Photo": {
+              "text": "Iceland Coast Guard vessel types.jpg"
+            }
+          },
+          {
+            "Ship name": {
+              "text": ""
+            },
+            "Type": {
+              "text": "Hydrographic survey and patrol vessel"
+            },
+            "Class": {
+              "text": ""
+            },
+            "Note": {
+              "text": "Icelandic-built hydrographic survey and patrol vessel named after Baldur, god of beauty and more.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Baldur"
+                }
+              ]
+            },
+            "Photo": {
+              "text": "Icelandic coast guard ships in harbour (cropped).jpg"
+            }
+          },
+          {
+            "Ship name": {
+              "text": "ICGV Óðinn",
+              "formatting": {
+                "italic": [
+                  "Óðinn"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Special operation vessel"
+            },
+            "Class": {
+              "text": ""
+            },
+            "Note": {
+              "text": "Icelandic-built special operation vessel named after Óðinn, the all-seeing father of the gods. It is attached to the Coast Guard's bomb disposal and special operations unit.",
+              "links": [
+                {
+                  "text": "Óðinn",
+                  "type": "internal",
+                  "page": "Óðinn"
+                }
+              ]
+            },
+            "Photo": {
+              "text": ""
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "list": [
+            "Freyja"
+          ],
+          "template": "icgv"
+        },
+        {
+          "list": [
+            "Þór"
+          ],
+          "template": "icgv"
+        },
+        {
+          "list": [
+            "Týr"
+          ],
+          "template": "icgv"
+        },
+        {
+          "list": [
+            "Ægir",
+            "offshore patrol vessel",
+            "4"
+          ],
+          "template": "sclass"
+        },
+        {
+          "list": [
+            "Baldur"
+          ],
+          "template": "icgv"
+        },
+        {
+          "list": [
+            "Baldur",
+            "research vessel",
+            "4"
+          ],
+          "template": "sclass"
+        },
+        {
+          "list": [
+            "Baldur",
+            "research vessel",
+            "0"
+          ],
+          "template": "sclass"
+        }
+      ],
+      "references": [
+        {
+          "title": "Óðinn",
+          "url": "https://www.lhg.is/um-okkur/taekjakostur/skip-og-batar/nr/3448",
+          "website": "lhg.is",
+          "publisher": "Icelandic Coast Guard",
+          "access-date": "31 October 2021",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Decommissioned vessels",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In addition the Coast Guard has rented or borrowed a number of civilian vessels and aircraft for shorter periods, which are not listed."
+            }
+          ]
+        }
+      ],
+      "tables": [
+        [
+          {
+            "Name": {
+              "text": "ICGV Þór (I)",
+              "formatting": {
+                "italic": [
+                  "Þór"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Armed trawler",
+              "links": [
+                {
+                  "text": "Armed trawler",
+                  "type": "internal",
+                  "page": "naval trawler"
+                }
+              ]
+            },
+            "From": {
+              "text": "1926",
+              "number": 1926
+            },
+            "To": {
+              "text": "1929",
+              "number": 1929
+            },
+            "Notes": {
+              "text": "The first ship own by the Icelandic Coast Guard. Originally a Danish trawler, it was bought by Björgunarfélag Vestmannaeyja in 1920 to be used as a rescue ship. In 1926, the Icelandic government bought the ship for the Coast Guard. It stranded in Húnaflói in 1929.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Húnaflói"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Björgunarfélag Vestmannaeyja"
+                ]
+              }
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Óðinn (I)"
+            },
+            "Type": {
+              "text": ""
+            },
+            "From": {
+              "text": "1926",
+              "number": 1926
+            },
+            "To": {
+              "text": "1936",
+              "number": 1936
+            },
+            "Notes": {
+              "text": "Arrived in 1926 and served until it was sold to Sweden in 1936."
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Gautur",
+              "formatting": {
+                "italic": [
+                  "Gautur"
+                ]
+              }
+            },
+            "Type": {
+              "text": ""
+            },
+            "From": {
+              "text": ""
+            },
+            "To": {
+              "text": ""
+            },
+            "Notes": {
+              "text": "Originally named Óðinn (II) but renamed when a new Óðinn (III) arrived, Gautur is one of Óðinn's pseudonyms.",
+              "formatting": {
+                "italic": [
+                  "Óðinn",
+                  "Óðinn"
+                ]
+              }
+            }
+          },
+          {
+            "Name": {
+              "text": "(III)"
+            },
+            "Type": {
+              "text": ""
+            },
+            "From": {
+              "text": "1960",
+              "number": 1960
+            },
+            "To": {
+              "text": "2006",
+              "number": 2006
+            },
+            "Notes": {
+              "text": "An offshore Patrol Vessel named after Óðinn the all-seeing father of the gods. Decommissioned in 2006 and turned into a museum ship.",
+              "links": [
+                {
+                  "text": "Óðinn",
+                  "type": "internal",
+                  "page": "Óðinn"
+                },
+                {
+                  "text": "museum ship",
+                  "type": "internal",
+                  "page": "museum ship"
+                }
+              ]
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Baldur (I)",
+              "formatting": {
+                "italic": [
+                  "Baldur"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Fast patrol boat"
+            },
+            "From": {
+              "text": "1946",
+              "number": 1946
+            },
+            "To": {
+              "text": "1947",
+              "number": 1947
+            },
+            "Notes": {
+              "text": "A fast patrol boat originally built for the Turkish Navy in 1943 but expropriated by the United Kingdom. Bought early in 1946 but used for less than a year and returned because of bad characteristics in rough seas.",
+              "links": [
+                {
+                  "text": "Turkish Navy",
+                  "type": "internal",
+                  "page": "Turkish Naval Forces"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Kingdom"
+                }
+              ]
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Njörður",
+              "formatting": {
+                "italic": [
+                  "Njörður"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Fast patrol boat"
+            },
+            "From": {
+              "text": "1946",
+              "number": 1946
+            },
+            "To": {
+              "text": "1947",
+              "number": 1947
+            },
+            "Notes": {
+              "text": "Named after Njörðr the god of wind, fertile land along the seacoast, as well as seamanship, sailing and fishing. A fast patrol boat originally built for the Turkish Navy in 1943 but expropriated by the United Kingdom. Bought early in 1946 but used for less than a year and returned because of bad characteristics in rough seas.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Njörðr"
+                },
+                {
+                  "text": "seamanship",
+                  "type": "internal",
+                  "page": "seamanship"
+                },
+                {
+                  "text": "sailing",
+                  "type": "internal",
+                  "page": "sailing"
+                },
+                {
+                  "text": "fishing",
+                  "type": "internal",
+                  "page": "fishing"
+                },
+                {
+                  "text": "Turkish Navy",
+                  "type": "internal",
+                  "page": "Turkish Naval Forces"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Kingdom"
+                }
+              ]
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Bragi",
+              "formatting": {
+                "italic": [
+                  "Bragi"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Fast patrol boat"
+            },
+            "From": {
+              "text": "1946",
+              "number": 1946
+            },
+            "To": {
+              "text": "1947",
+              "number": 1947
+            },
+            "Notes": {
+              "text": "Named after Bragi the god of poetry. A fast patrol boat originally built for the Turkish Navy in 1943 but expropriated by the United Kingdom. Bought early in 1946 but used for less than a year and returned because of bad characteristics in rough seas.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bragi"
+                },
+                {
+                  "text": "poetry",
+                  "type": "internal",
+                  "page": "poetry"
+                },
+                {
+                  "text": "Turkish Navy",
+                  "type": "internal",
+                  "page": "Turkish Naval Forces"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Kingdom"
+                }
+              ]
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Baldur (II)",
+              "links": [
+                {
+                  "text": "ICGV ''Baldur''",
+                  "type": "internal",
+                  "page": "ICGV Baldur (II)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Baldur"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Armed trawler",
+              "links": [
+                {
+                  "text": "Armed trawler",
+                  "type": "internal",
+                  "page": "naval trawler"
+                }
+              ]
+            },
+            "From": {
+              "text": ""
+            },
+            "To": {
+              "text": ""
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Týr",
+              "formatting": {
+                "italic": [
+                  "Týr"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Armed whaler",
+              "links": [
+                {
+                  "text": "whaler",
+                  "type": "internal",
+                  "page": "whaler"
+                }
+              ]
+            },
+            "From": {
+              "text": ""
+            },
+            "To": {
+              "text": ""
+            },
+            "Notes": {
+              "text": "Armed whaler (Hvalur 9) borrowed during the second Cod War It was nicknamed Hval-Týr by the Icelanders and Moby Dick by the British.",
+              "formatting": {
+                "italic": [
+                  "Hvalur 9",
+                  "Hval-Týr",
+                  "Moby Dick"
+                ]
+              }
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Þór (II)",
+              "formatting": {
+                "italic": [
+                  "Þór"
+                ]
+              }
+            },
+            "Type": {
+              "text": ""
+            },
+            "From": {
+              "text": ""
+            },
+            "To": {
+              "text": "1946",
+              "number": 1946
+            },
+            "Notes": {
+              "text": "Bought after Þór (I) stranded. It was sold in 1946.",
+              "formatting": {
+                "italic": [
+                  "Þór"
+                ]
+              }
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Þór (III)",
+              "links": [
+                {
+                  "text": "ICGV ''Þór'' (III)",
+                  "type": "internal",
+                  "page": "ICGV Þór (III)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Þór"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Offshore patrol vessel"
+            },
+            "From": {
+              "text": "1951",
+              "number": 1951
+            },
+            "To": {
+              "text": "1982",
+              "number": 1982
+            },
+            "Notes": {
+              "text": "Built in 1951 for the Coast Guard. It was sold in 1982."
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Ægir (I)",
+              "formatting": {
+                "italic": [
+                  "Ægir"
+                ]
+              }
+            },
+            "Type": {
+              "text": ""
+            },
+            "From": {
+              "text": ""
+            },
+            "To": {
+              "text": ""
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Albert",
+              "formatting": {
+                "italic": [
+                  "Albert"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Patrol and rescue vessel"
+            },
+            "From": {
+              "text": ""
+            },
+            "To": {
+              "text": ""
+            },
+            "Notes": {
+              "text": "Joint ownership by the ICG and the National Life-saving Association of Iceland, now ICE-SAR. Operated by the ICG. Decommissioned in the mid 1970s.",
+              "links": [
+                {
+                  "text": "now ICE-SAR",
+                  "type": "internal",
+                  "page": "Icelandic Association for Search and Rescue"
+                }
+              ]
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Árvakur",
+              "formatting": {
+                "italic": [
+                  "Árvakur"
+                ]
+              }
+            },
+            "Type": {
+              "text": ""
+            },
+            "From": {
+              "text": ""
+            },
+            "To": {
+              "text": ""
+            },
+            "Notes": {
+              "text": "A lighthouse tender and patrol ship decommissioned in the 1980s."
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV María Júlía",
+              "formatting": {
+                "italic": [
+                  "María Júlía"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Patrol and rescue vessel"
+            },
+            "From": {
+              "text": ""
+            },
+            "To": {
+              "text": ""
+            },
+            "Notes": {
+              "text": "Named after one of those who financed her construction. Joint ownership by the ICG and the National Life-saving Association of Iceland. Operated by the ICG. Decommissioned in the late 1960s."
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Sæbjörg",
+              "formatting": {
+                "italic": [
+                  "Sæbjörg"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Patrol and rescue ship"
+            },
+            "From": {
+              "text": ""
+            },
+            "To": {
+              "text": ""
+            },
+            "Notes": {
+              "text": "Owned by the National Life-saving Association of Iceland but operated by the ICG. Decommissioned in the mid 1960s."
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Ver",
+              "formatting": {
+                "italic": [
+                  "Ver"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Armed trawler",
+              "links": [
+                {
+                  "text": "Armed trawler",
+                  "type": "internal",
+                  "page": "naval trawler"
+                }
+              ]
+            },
+            "From": {
+              "text": ""
+            },
+            "To": {
+              "text": ""
+            },
+            "Notes": {
+              "text": "Operated by the ICG in the last Cod War in 1975–1976.",
+              "links": [
+                {
+                  "text": "Cod War in 1975–1976",
+                  "type": "internal",
+                  "page": "Cod Wars"
+                }
+              ]
+            }
+          },
+          {
+            "Name": {
+              "text": "(II)"
+            },
+            "Type": {
+              "text": ""
+            },
+            "From": {
+              "text": "1968",
+              "number": 1968
+            },
+            "To": {
+              "text": "2020",
+              "number": 2020
+            },
+            "Notes": {
+              "text": "Danish-built Ægir-class offshore patrol vessel named after Ægir, the king of the sea. It was the flagship of the ICG during the last two Cod Wars. It was decommissioned in 2020 and put up for sale.",
+              "links": [
+                {
+                  "text": "Ægir",
+                  "type": "internal",
+                  "page": "Ægir"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Ægir"
+                ]
+              }
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "date": "February 2021",
+          "template": "more citations needed section"
+        },
+        {
+          "list": [
+            "Óðinn"
+          ],
+          "template": "icgv"
+        },
+        {
+          "list": [
+            "Ægir"
+          ],
+          "template": "icgv"
+        },
+        {
+          "list": [
+            "Ægir",
+            "offshore patrol vessel",
+            "4"
+          ],
+          "template": "sclass"
+        }
+      ],
+      "references": [
+        {
+          "title": "Nýja varðskipið",
+          "url": "https://timarit.is/page/4969581",
+          "access-date": "23 March 2021",
+          "work": "Dagblaðið",
+          "date": "27 June 1926",
+          "page": "4",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Undir erlendum fána",
+          "url": "https://timarit.is/page/1230414",
+          "access-date": "23 March 2021",
+          "work": "Morgunblaðið",
+          "date": "27 February 1936",
+          "page": "2",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Týr skal hann heita",
+          "url": "https://timarit.is/page/1435966",
+          "access-date": "17 September 2020",
+          "work": "Morgunblaðið",
+          "date": "12 October 1972",
+          "page": "32",
+          "language": "is",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Stríðshetjan í helgan stein",
+          "url": "https://timarit.is/page/1924004",
+          "access-date": "17 September 2020",
+          "work": "Morgunblaðið",
+          "date": "3 January 1999",
+          "pages": "12B",
+          "language": "is",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Ævar Örn Jósepsson",
+          "title": "Varðskipið Ægir auglýst til sölu",
+          "url": "https://www.ruv.is/frett/2020/11/03/vardskipid-aegir-auglyst-til-solu",
+          "access-date": "7 November 2021",
+          "work": "RÚV",
+          "date": "3 November 2020",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Þór kominn til Vestmannaeyja",
+          "url": "https://www.mbl.is/frettir/innlent/2011/10/26/thor_kominn_til_vestmannaeyja/",
+          "access-date": "23 March 2021",
+          "work": "Morgunblaðið",
+          "date": "26 October 2011",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Ingólfur Viktorsson",
+          "title": "Hraðbátum Gæslunnar skilað",
+          "url": "http://www.lhg.is/media/frettir/Gt2001.pdf",
+          "access-date": "23 March 2021",
+          "work": "Gæslutíðindi",
+          "date": "December 2001",
+          "page": "8",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Aircraft history",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "Callsign": {
+              "text": "TF-RAN (I)"
+            },
+            "Name": {
+              "text": "Rán",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rán"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Consolidated PBY-6A Catalina",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Consolidated PBY-6A Catalina"
+                }
+              ]
+            },
+            "From": {
+              "text": "1955",
+              "number": 1955
+            },
+            "To": {
+              "text": "1966",
+              "number": 1966
+            },
+            "Notes": {
+              "text": "First aircraft owned by the ICG. Not in use after 1963. Damaged beyond repair after flipping over during a major storm while parked and sold for scrap in 1966."
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-SIF (I)"
+            },
+            "Name": {
+              "text": "Sif",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sif"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Douglas C-54 Skymaster",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Douglas C-54 Skymaster"
+                }
+              ]
+            },
+            "From": {
+              "text": "1962",
+              "number": 1962
+            },
+            "To": {
+              "text": "1971",
+              "number": 1971
+            },
+            "Notes": {
+              "text": "Bought used from a Portuguese airline in 1962."
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-EIR (I)"
+            },
+            "Name": {
+              "text": "Eir",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eir"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Bell 47J",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bell 47J"
+                }
+              ]
+            },
+            "From": {
+              "text": "1965",
+              "number": 1965
+            },
+            "To": {
+              "text": "1971",
+              "number": 1971
+            },
+            "Notes": {
+              "text": "Joint ownership by the ICG and the National Life-saving Association of Iceland. Crashed in October 1971."
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-SYR (I)"
+            },
+            "Name": {
+              "text": "Sýr",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sýr"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Fokker F27 Friendship 200",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fokker F27 Friendship 200"
+                }
+              ]
+            },
+            "From": {
+              "text": "1972",
+              "number": 1972
+            },
+            "To": {
+              "text": "1980",
+              "number": 1980
+            },
+            "Notes": {
+              "text": "Bought used from All Nippon Airways and replaced TF-SIF (I). Used for search and maritime surveillance. Saw extensive use during the second and third Cod wars. Sold to Flugleiðir in December 1980.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "All Nippon Airways"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cod wars"
+                },
+                {
+                  "type": "internal",
+                  "page": "Flugleiðir"
+                }
+              ]
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-GNA (I)"
+            },
+            "Name": {
+              "text": "Gná",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gná"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Sikorsky S-62",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sikorsky S-62"
+                }
+              ]
+            },
+            "From": {
+              "text": "1972",
+              "number": 1972
+            },
+            "To": {
+              "text": "1975",
+              "number": 1975
+            },
+            "Notes": {
+              "text": "Joint ownership by the ICG and the National Life-saving Association of Iceland. Crashed in Skálafell in 1975 after a shaft in the tail propeller had broken."
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-HUG"
+            },
+            "Name": {
+              "text": "Huginn",
+              "links": [
+                {
+                  "text": "Huginn",
+                  "type": "internal",
+                  "page": "Huginn and Muninn"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Bell 47G",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bell 47G"
+                }
+              ]
+            },
+            "From": {
+              "text": "1973",
+              "number": 1973
+            },
+            "To": {
+              "text": "1980",
+              "number": 1980
+            },
+            "Notes": {
+              "text": "Bought used from the Icelandic Defence Force. Suffered from frequent breakdowns. Damaged after a hard landing on ICGV Ægir in 1975. Out of service by 1978 and sold around 1980.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Icelandic Defence Force"
+                },
+                {
+                  "type": "internal",
+                  "page": "ICGV Ægir"
+                }
+              ]
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-MUN"
+            },
+            "Name": {
+              "text": "Muninn",
+              "links": [
+                {
+                  "text": "Muninn",
+                  "type": "internal",
+                  "page": "Huginn and Muninn"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Bell 47G",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bell 47G"
+                }
+              ]
+            },
+            "From": {
+              "text": "1973",
+              "number": 1973
+            },
+            "To": {
+              "text": "1980",
+              "number": 1980
+            },
+            "Notes": {
+              "text": "Bought used from the Icelandic Defence Force. Suffered from frequent breakdowns. Out of service by 1978 and sold around 1980.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Icelandic Defence Force"
+                }
+              ]
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-GRO (I)"
+            },
+            "Name": {
+              "text": "Gróa",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gróa"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Hughes 500C Defender",
+              "links": [
+                {
+                  "text": "Hughes 500C Defender",
+                  "type": "internal",
+                  "page": "MD Helicopters MD 500"
+                }
+              ]
+            },
+            "From": {
+              "text": "1976",
+              "number": 1976
+            },
+            "To": {
+              "text": "1980",
+              "number": 1980
+            },
+            "Notes": {
+              "text": "Crashed in November 1980 after collinding with a power line at Búrfell.",
+              "links": [
+                {
+                  "text": "power line",
+                  "type": "internal",
+                  "page": "Overhead power line"
+                },
+                {
+                  "type": "internal",
+                  "page": "Búrfell"
+                }
+              ]
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-SYN (I)"
+            },
+            "Name": {
+              "text": "Sýn",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sýn"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Fokker F27 Friendship 200",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fokker F27 Friendship 200"
+                }
+              ]
+            },
+            "From": {
+              "text": "1976",
+              "number": 1976
+            },
+            "To": {
+              "text": "2009",
+              "number": 2009
+            },
+            "Notes": {
+              "text": "Bought new in 1976 and used until 2009 for search and maritime surveillance. As of 2021, it is preserved at the Icelandic Aviation Museum."
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-RAN (II)",
+              "links": [
+                {
+                  "text": "TF-RAN (II)",
+                  "type": "internal",
+                  "page": "TF-RÁN (II)"
+                }
+              ]
+            },
+            "Name": {
+              "text": "Rán",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rán"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Sikorsky S-76 Spirit",
+              "links": [
+                {
+                  "text": "Sikorsky S-76 Spirit",
+                  "type": "internal",
+                  "page": "Sikorsky S-76"
+                }
+              ]
+            },
+            "From": {
+              "text": "1980",
+              "number": 1980
+            },
+            "To": {
+              "text": "1983",
+              "number": 1983
+            },
+            "Notes": {
+              "text": "Crashed in Jökulfirðir in November 1983, killing its four man crew.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jökulfirðir"
+                }
+              ]
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-GRO (II)"
+            },
+            "Name": {
+              "text": "Gróa",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gróa"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Hughes 500C Defender",
+              "links": [
+                {
+                  "text": "Hughes 500C Defender",
+                  "type": "internal",
+                  "page": "MD Helicopters MD 500"
+                }
+              ]
+            },
+            "From": {
+              "text": "1981",
+              "number": 1981
+            },
+            "To": {
+              "text": "1986",
+              "number": 1986
+            },
+            "Notes": {
+              "text": "Arrived in October 1981. Bought as a replacement for TF-GRO (I). In August 1985, its engine was damage after a drunken man had broken in to hangar where it was stored and tried to start it. Sold in 1986 to finance TF-GRO (III)."
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-SIF (II)"
+            },
+            "Name": {
+              "text": "Sif",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sif"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Aérospatiale SA 365N Dauphin II",
+              "links": [
+                {
+                  "text": "Aérospatiale SA 365N Dauphin II",
+                  "type": "internal",
+                  "page": "Aerospatiale SA 365 Dauphin"
+                }
+              ]
+            },
+            "From": {
+              "text": "1984",
+              "number": 1984
+            },
+            "To": {
+              "text": "1985",
+              "number": 1985
+            },
+            "Notes": {
+              "text": "Leased from Aérospatiale and operated from 1984 to 1985."
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-SIF (III)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "TF-SIF (III)"
+                }
+              ]
+            },
+            "Name": {
+              "text": "Sif",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sif"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Aérospatiale SA 365N Dauphin II",
+              "links": [
+                {
+                  "text": "Aérospatiale SA 365N Dauphin II",
+                  "type": "internal",
+                  "page": "Aerospatiale SA 365 Dauphin"
+                }
+              ]
+            },
+            "From": {
+              "text": "1985",
+              "number": 1985
+            },
+            "To": {
+              "text": "2007",
+              "number": 2007
+            },
+            "Notes": {
+              "text": "Bought new in 1985 and was involved in several high profile rescue missions during its 22-year career. It was damaged beyond repair after an emergency sea landing in 2007 and later donated to the Icelandic Aviation Museum.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Icelandic Aviation Museum"
+                }
+              ]
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-GRO (III)"
+            },
+            "Name": {
+              "text": "Gróa",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gróa"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Eurocopter AS 350B Ecureuil",
+              "links": [
+                {
+                  "text": "Eurocopter AS 350B Ecureuil",
+                  "type": "internal",
+                  "page": "Eurocopter AS350"
+                }
+              ]
+            },
+            "From": {
+              "text": "1986",
+              "number": 1986
+            },
+            "To": {
+              "text": "1999",
+              "number": 1999
+            },
+            "Notes": {
+              "text": "Bought in January 1986 and arrived in April the same year."
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-LÍF (I)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "TF-LÍF"
+                }
+              ]
+            },
+            "Name": {
+              "text": "Líf",
+              "links": [
+                {
+                  "text": "Líf",
+                  "type": "internal",
+                  "page": "Líf and Lífþrasir"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Aérospatiale AS-332L1 Super Puma",
+              "links": [
+                {
+                  "text": "Aérospatiale AS-332L1 Super Puma",
+                  "type": "internal",
+                  "page": "Aerospatiale Super Puma"
+                }
+              ]
+            },
+            "From": {
+              "text": "1995",
+              "number": 1995
+            },
+            "To": {
+              "text": "Present"
+            },
+            "Notes": {
+              "text": "Used for maritime surveillance and search and rescue operations. Scheduled for sale as of 2020."
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-EIR (II)"
+            },
+            "Name": {
+              "text": "Eir",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eir"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Aérospatiale SA 365N Dauphin II",
+              "links": [
+                {
+                  "text": "Aérospatiale SA 365N Dauphin II",
+                  "type": "internal",
+                  "page": "Aerospatiale SA 365 Dauphin"
+                }
+              ]
+            },
+            "From": {
+              "text": "2007",
+              "number": 2007
+            },
+            "To": {
+              "text": "2010",
+              "number": 2010
+            },
+            "Notes": {
+              "text": "Leased from 2007 to 2010 from CHC Helikopter Service. Suffered from frequent breakdowns."
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-GNA (II)"
+            },
+            "Name": {
+              "text": "Gná",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gná"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Aérospatiale AS-332L1 Super Puma",
+              "links": [
+                {
+                  "text": "Aérospatiale AS-332L1 Super Puma",
+                  "type": "internal",
+                  "page": "Aerospatiale Super Puma"
+                }
+              ]
+            },
+            "From": {
+              "text": "2007",
+              "number": 2007
+            },
+            "To": {
+              "text": "2019",
+              "number": 2019
+            },
+            "Notes": {
+              "text": "Leased from 2007 until early 2019."
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-SIF (IV)"
+            },
+            "Name": {
+              "text": "Sif",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sif"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Bombardier DHC-8-Q314",
+              "links": [
+                {
+                  "text": "Bombardier DHC-8-Q314",
+                  "type": "internal",
+                  "page": "Bombardier Dash 8"
+                }
+              ]
+            },
+            "From": {
+              "text": "2009",
+              "number": 2009
+            },
+            "To": {
+              "text": "Present"
+            },
+            "Notes": {
+              "text": "Ordered in May 2007 and arrived in July 2009. Used for maritime surveillance and replaced TF-SYN (I)."
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-EIR (III)"
+            },
+            "Name": {
+              "text": "Eir",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eir"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Eurocopter EC225 Super Puma",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eurocopter EC225 Super Puma"
+                }
+              ]
+            },
+            "From": {
+              "text": "2019",
+              "number": 2019
+            },
+            "To": {
+              "text": "Present"
+            },
+            "Notes": {
+              "text": "On long-term lease from Knut Axel Ugland Holding of Norway. Arrived in March 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Knut Axel Ugland Holding"
+                }
+              ]
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-GRO (IV)"
+            },
+            "Name": {
+              "text": "Gróa",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gróa"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Eurocopter EC225 Super Puma",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eurocopter EC225 Super Puma"
+                }
+              ]
+            },
+            "From": {
+              "text": "2019",
+              "number": 2019
+            },
+            "To": {
+              "text": "Present"
+            },
+            "Notes": {
+              "text": "On long-term lease from Knut Axel Ugland Holding of Norway. Arrived in July 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Knut Axel Ugland Holding"
+                }
+              ]
+            }
+          },
+          {
+            "Callsign": {
+              "text": "TF-GNA (III)"
+            },
+            "Name": {
+              "text": "Gná",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gná"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Eurocopter EC225 Super Puma",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eurocopter EC225 Super Puma"
+                }
+              ]
+            },
+            "From": {
+              "text": "2021",
+              "number": 2021
+            },
+            "To": {
+              "text": "Present"
+            },
+            "Notes": {
+              "text": "On long-term lease from Knut Axel Ugland Holding of Norway. Arrived in May 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Knut Axel Ugland Holding"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "references": [
+        {
+          "title": "Catalina flugbátar á íslandi",
+          "url": "http://timarit.is/view_page_init.jsp?pageId=1830466",
+          "accessdate": "5 May 2021",
+          "work": "Morgunblaðið",
+          "date": "14 May 1995",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Skymaster-vél og fullkomnari tæki",
+          "url": "https://timarit.is/page/2362076",
+          "access-date": "5 May 2021",
+          "work": "Vísir",
+          "date": "16 August 1962",
+          "pages": "16, 5",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Fyrsta þyrlan keypt til landsins 1965",
+          "url": "https://timarit.is/page/3485972",
+          "access-date": "5 May 2021",
+          "work": "Vísir",
+          "date": "19 November 1980",
+          "page": "15",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Flugleiðir kaupa Gæslu-Fokkerinn TF-SYR á 675 millj. kr.",
+          "url": "https://timarit.is/page/1534955",
+          "access-date": "5 May 2021",
+          "work": "Morgunblaðið",
+          "date": "10 December 1980",
+          "page": "32",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Sikorsky entist í 3 ár",
+          "url": "https://timarit.is/page/3485972",
+          "access-date": "5 May 2021",
+          "work": "Vísir",
+          "date": "19 November 1980",
+          "page": "15",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Litla þyrlan ónýt",
+          "url": "https://timarit.is/page/2874586",
+          "access-date": "5 May 2021",
+          "work": "Þjóðviljinn",
+          "date": "18 November 1980",
+          "page": "1",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "TF Gró lifði í 4 ár",
+          "url": "https://timarit.is/page/3485971",
+          "access-date": "5 May 2021",
+          "work": "Vísir",
+          "date": "19 November 1980",
+          "page": "14",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "TF-SYN Fokker F-27-200 Friendship",
+          "url": "https://www.flugsafn.is/is/safngripir/tf-syn",
+          "publisher": "Icelandic Aviation Museum",
+          "access-date": "5 May 2021",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ný þyrla komin til Landhelgisgæzlunnar",
+          "url": "https://timarit.is/page/1547097",
+          "work": "Morgunblaðið",
+          "date": "16 October 1981",
+          "page": "2",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Skemmdir unnar á þyrlu Gæzlunnar",
+          "url": "https://timarit.is/page/1617766",
+          "access-date": "5 May 2021",
+          "work": "Morgunblaðið",
+          "date": "27 August 1985",
+          "page": "52",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Þyrlunni skilað til Frakklands",
+          "url": "https://timarit.is/page/1616162",
+          "access-date": "21 March 2021",
+          "work": "Morgunblaðið",
+          "date": "28 July 1985",
+          "page": "56",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Íkorni í gæsluflotann",
+          "url": "https://timarit.is/page/4032876",
+          "access-date": "5 May 2021",
+          "work": "Tíminn",
+          "date": "5 April 1986",
+          "page": "20",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Elín Margrét Böðvarsdóttir",
+          "title": "Þyrlukaupum frestað og TF-LÍF verður seld",
+          "url": "https://www.visir.is/g/2020984122d",
+          "access-date": "5 May 2021",
+          "work": "Vísir.is",
+          "date": "5 May 2020",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "TF-EIR skilað til leigusala",
+          "url": "https://www.lhg.is/frettir-og-fjolmidlar/frettasafn/frettayfirlit/nr/1667",
+          "access-date": "5 May 2021",
+          "work": "Icelandic Coast Guard",
+          "date": "30 June 2010",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Ný björgunarþyrla",
+          "url": "https://timarit.is/page/4162887",
+          "access-date": "5 May 2021",
+          "work": "Morgunblaðið",
+          "date": "3 June 2007",
+          "page": "2",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Fyrsta björgunarflug TF-GNÁ tókst mjög vel",
+          "url": "https://timarit.is/page/3968086",
+          "access-date": "5 May 2021",
+          "work": "Fréttablaðið",
+          "date": "4 July 2007",
+          "page": "8",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "TF-SIF komin til landsins",
+          "url": "https://www.mbl.is/frettir/innlent/2009/07/01/tf_sif_komin_til_landsins/",
+          "access-date": "5 May 2021",
+          "work": "Morgunblaðið",
+          "date": "1 July 2009",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Loftför - TF-EIR",
+          "url": "https://www.lhg.is/um-okkur/taekjakostur/loftfor/nr/1033",
+          "publisher": "Icelandic Coast Guard",
+          "access-date": "5 May 2021",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Loftför - TF-GRO",
+          "url": "https://www.lhg.is/um-okkur/taekjakostur/loftfor/nr/973",
+          "publisher": "Icelandic Coast Guard",
+          "access-date": "5 May 2021",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "TF-GNA kemur í þjónustu Landhelgisgæslunnar um áramót",
+          "url": "https://www.lhg.is/frettir-og-fjolmidlar/frettasafn/frettayfirlit/tf-gna-kemur-i-thjonustu-landhelgisgaeslunnar-um-aramot",
+          "access-date": "5 May 2021",
+          "work": "Icelandic Coast Guard",
+          "date": "3 July 2020",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Catalina",
+          "url": "http://timarit.is/view_page_init.jsp?issId=304742&pageId=4627266",
+          "accessdate": "5 May 2021",
+          "work": "Æskan",
+          "date": "1 February 1972",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Landhelgisgæslan á flugi",
+          "url": "https://www.lhg.is/um-okkur/sagan/flugdeildin",
+          "publisher": "Icelandic Coast Guard",
+          "access-date": "5 May 2021",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Litlu þyrlurnar",
+          "url": "https://timarit.is/page/3485972",
+          "access-date": "5 May 2021",
+          "work": "Vísir",
+          "date": "19 November 1980",
+          "page": "15",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Þessar þyrlur hafa reynzt afleitlega",
+          "url": "https://timarit.is/page/3882441",
+          "access-date": "5 May 2021",
+          "work": "Tíminn",
+          "date": "15 February 1977",
+          "page": "20",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Tvær af þremur þyrlum ónýtar",
+          "url": "https://timarit.is/page/3376341",
+          "access-date": "5 May 2021",
+          "work": "Vísir",
+          "date": "16 August 1978",
+          "page": "24",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Minnast áhafnar þyrlunnar TF-RAN sem fórst fyrir þrjátíu árum",
+          "url": "http://www.lhg.is/frettir-og-fjolmidlar/frettasafn/frettayfirlit/nr/2670",
+          "accessdate": "23 March 2021",
+          "work": "Landhelgisgæsla Íslands",
+          "date": "8 November 2013",
+          "lang": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Kaupir nýja þyrlu af gerðinni Ecureuil",
+          "url": "https://timarit.is/page/1625998",
+          "access-date": "5 May 2021",
+          "work": "Morgunblaðið",
+          "date": "11 January 1986",
+          "page": "4",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Sigtryggur Ari Jóhannsson",
+          "title": "Fyllist lotningu við hvininn frá þyrlunni",
+          "url": "https://timarit.is/page/5910781",
+          "access-date": "21 March 2021",
+          "work": "Dagblaðið Vísir",
+          "date": "20 July 2007",
+          "page": "1, 11-17",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Fjölmenni fagnaði LÍF",
+          "url": "https://timarit.is/page/1832389",
+          "access-date": "22 March 2021",
+          "work": "Morgunblaðið",
+          "date": "24 June 1995",
+          "page": "4",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Atli Ísleifsson",
+          "title": "TF-GNA komin til landsins",
+          "url": "https://www.visir.is/g/20212105385d/tf-gna-komin-til-landsins",
+          "access-date": "5 May 2021",
+          "work": "Vísir.is",
+          "date": "5 May 2021",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Radars",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Iceland Air Defense System monitors Iceland's airspace.",
+              "links": [
+                {
+                  "text": "Iceland Air Defense System",
+                  "type": "internal",
+                  "page": "Iceland Air Defence System"
+                },
+                {
+                  "type": "internal",
+                  "page": "Iceland"
+                }
+              ]
+            },
+            {
+              "text": "Air Defense is provided by fighter jets from NATO allies, which rotate units for the Icelandic Air Policing mission to Keflavik Air Base.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "NATO"
+                },
+                {
+                  "type": "internal",
+                  "page": "Icelandic Air Policing"
+                },
+                {
+                  "text": "Keflavik Air Base",
+                  "type": "internal",
+                  "page": "Naval Air Station Keflavik"
+                }
+              ]
+            },
+            {
+              "text": "The Iceland Air Defense System's Control and Reporting Centre is at Keflavik Air Base and reports to NATO's Integrated Air Defense System CAOC Uedem in Germany.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "NATO"
+                },
+                {
+                  "text": "Integrated Air Defense System",
+                  "type": "internal",
+                  "page": "NATO Integrated Air Defense System"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Iceland"
+          ],
+          "background": "white",
+          "label": "Keflavik",
+          "lat": "63.985",
+          "long": "-22.605556",
+          "position": "left",
+          "mark": "Lightgreen pog.svg",
+          "template": "location map~"
+        },
+        {
+          "list": [
+            "Iceland"
+          ],
+          "background": "white",
+          "label": "Miðnesheiði",
+          "lat": "63.985",
+          "long": "-22.45",
+          "position": "right",
+          "mark": "Orange pog.svg",
+          "template": "location map~"
+        },
+        {
+          "list": [
+            "Iceland"
+          ],
+          "background": "white",
+          "label": "Gunnolfsvík",
+          "lat": "66.138056",
+          "long": "-15.105",
+          "position": "right",
+          "mark": "Orange pog.svg",
+          "template": "location map~"
+        },
+        {
+          "list": [
+            "Iceland"
+          ],
+          "background": "white",
+          "label": "Stokksnes",
+          "lat": "64.243",
+          "long": "-14.96",
+          "position": "right",
+          "mark": "Orange pog.svg",
+          "template": "location map~"
+        },
+        {
+          "list": [
+            "Iceland"
+          ],
+          "background": "white",
+          "label": "Bolafjalli",
+          "lat": "66.15",
+          "long": "-23.25",
+          "position": "right",
+          "mark": "Orange pog.svg",
+          "template": "location map~"
+        },
+        {
+          "list": [
+            "Iceland"
+          ],
+          "relief": "1",
+          "float": "right",
+          "width": "360",
+          "caption": "Iceland Air Defense System radar stations Orange pog.svg Radar station with AN/FPS-117(V)5 Lightgreen pog.svg Control and Reporting Centre",
+          "template": "location map+"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Iceland Air Defense System, at Keflavik Air Base",
+            "links": [
+              {
+                "text": "Iceland Air Defense System",
+                "type": "internal",
+                "page": "Iceland Air Defence System"
+              },
+              {
+                "text": "Keflavik Air Base",
+                "type": "internal",
+                "page": "Naval Air Station Keflavik"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Iceland Air Defense System"
+              ]
+            }
+          },
+          {
+            "text": "Control and Reporting Centre, at Keflavik Air Base"
+          },
+          {
+            "text": "H1 Radar Station, at Miðnesheiði, with AN/FPS-117(V)5",
+            "links": [
+              {
+                "text": "Miðnesheiði",
+                "type": "internal",
+                "page": "Naval Air Station Keflavik"
+              },
+              {
+                "text": "AN/FPS-117(V)5",
+                "type": "internal",
+                "page": "AN/FPS-117"
+              }
+            ]
+          },
+          {
+            "text": "H2 Radar Station, on Mount Gunnolfsvík, with AN/FPS-117(V)5",
+            "links": [
+              {
+                "text": "Mount Gunnolfsvík",
+                "type": "internal",
+                "page": "Langanes"
+              }
+            ]
+          },
+          {
+            "text": "H3 Radar Station, at Stokksnes, with AN/FPS-117(V)5",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stokksnes"
+              }
+            ]
+          },
+          {
+            "text": "H4 Radar Station, on Mount Bolafjalli, with AN/FPS-117(V)5",
+            "links": [
+              {
+                "text": "Mount Bolafjalli",
+                "type": "internal",
+                "page": "Bolungarvík"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "title": "Iceland Air Defense System",
+          "url": "http://www.lhg.is/varnarmal/loftrymisleit-og-islenska-loftvarnarkerfid",
+          "publisher": "Icelandic Coast Guard",
+          "access-date": "25 May 2018",
+          "language": "is",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Weaponry",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Icelandic Coast Guard possesses 207 firearms, 111 of which are in storage."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://visir.is/landhelgisgaeslan-a-212-vopn/article/2015150129244",
+          "title": "Landhelgisgæslan á 212 vopn - Vísir",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.althingi.is/altext/144/s/0869.html",
+          "title": "869/144 svar: vopnaöflun og vopnaeign Landhelgisgæslunnar",
+          "website": "Alþingi",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.dv.is/frettir/2017/12/4/fallbyssur-saebraut-sidast-beitt-i-thorskastridunum-attunda-aratugnum/",
+          "archive-url": "https://web.archive.org/web/20180102054213/http://www.dv.is/frettir/2017/12/4/fallbyssur-saebraut-sidast-beitt-i-thorskastridunum-attunda-aratugnum/",
+          "url-status": "dead",
+          "archive-date": "2018-01-02",
+          "title": "Fallbyssur á Sæbraut: Vegfarendur ráku upp stór augu - DV",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Currently in use",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "Model": {
+              "text": "Bofors 40 mm L/70",
+              "links": [
+                {
+                  "text": "Bofors 40 mm L/70",
+                  "type": "internal",
+                  "page": "Bofors 40 mm gun",
+                  "anchor": "40 mm L/70"
+                }
+              ]
+            },
+            "Image": {
+              "text": "Bofors 40mm L70 gun aboard the Frigate ROCN Si Ning (PFG-1203) 20150316b.jpg"
+            },
+            "Calibre": {
+              "text": "40mm"
+            },
+            "Type": {
+              "text": "Autocannon",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Autocannon"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "🇸🇪"
+            },
+            "Quantity": {
+              "text": "4",
+              "number": 4
+            },
+            "Details": {
+              "text": "Purchased from Norway and refurbished."
+            }
+          },
+          {
+            "Model": {
+              "text": "Bofors 40 mm L/60",
+              "links": [
+                {
+                  "text": "Bofors 40 mm L/60",
+                  "type": "internal",
+                  "page": "Bofors 40 mm gun",
+                  "anchor": "40 mm L/60"
+                }
+              ]
+            },
+            "Image": {
+              "text": "40mm-twin-naval.jpg"
+            },
+            "Calibre": {
+              "text": "40mm"
+            },
+            "Type": {
+              "text": "Autocannon",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Autocannon"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "🇸🇪"
+            },
+            "Quantity": {
+              "text": "4",
+              "number": 4
+            },
+            "Details": {
+              "text": "Model year 1936. Gift from Denmark."
+            }
+          },
+          {
+            "Model": {
+              "text": "Glock 17",
+              "links": [
+                {
+                  "text": "Glock 17",
+                  "type": "internal",
+                  "page": "Glock"
+                }
+              ]
+            },
+            "Image": {
+              "text": "Glock 17 MOD 45154998.jpg"
+            },
+            "Calibre": {
+              "text": "9mm"
+            },
+            "Type": {
+              "text": "Pistol",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pistol"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "🇦🇹"
+            },
+            "Quantity": {
+              "text": "20",
+              "number": 20
+            },
+            "Details": {
+              "text": "Model years 1990, 2006 and 2012. Bought from a dealership in Reykjavík."
+            }
+          },
+          {
+            "Model": {
+              "text": "H&K MP5A2N",
+              "links": [
+                {
+                  "text": "H&K MP5A2N",
+                  "type": "internal",
+                  "page": "Heckler & Koch MP5"
+                }
+              ]
+            },
+            "Image": {
+              "text": "MP5.jpg"
+            },
+            "Calibre": {
+              "text": "9mm"
+            },
+            "Type": {
+              "text": "Submachine gun",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Submachine gun"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "🇳🇴"
+            },
+            "Quantity": {
+              "text": "50",
+              "number": 50
+            },
+            "Details": {
+              "text": "Model year 1990. Gift from Norway 2011."
+            }
+          },
+          {
+            "Model": {
+              "text": "Rheinmetall MG 3",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rheinmetall MG 3"
+                }
+              ]
+            },
+            "Image": {
+              "text": "BundeswehrMG3.jpg"
+            },
+            "Calibre": {
+              "text": "7.62mm"
+            },
+            "Type": {
+              "text": "General-purpose machine gun",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "General-purpose machine gun"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "🇳🇴"
+            },
+            "Quantity": {
+              "text": "10",
+              "number": 10
+            },
+            "Details": {
+              "text": "Model year 1990. Gift from Norway 2013."
+            }
+          },
+          {
+            "Model": {
+              "text": "Steyr SSG 69",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Steyr SSG 69"
+                }
+              ]
+            },
+            "Image": {
+              "text": "Steyr SSG 69.jpg"
+            },
+            "Calibre": {
+              "text": "7.62mm"
+            },
+            "Type": {
+              "text": "Sniper rifle",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sniper rifle"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "🇦🇹"
+            },
+            "Quantity": {
+              "text": "8",
+              "number": 8
+            },
+            "Details": {
+              "text": "Model year 1989. Bought from a dealership in Reykjavík."
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "template": "frg"
+        },
+        {
+          "template": "frg"
+        }
+      ]
+    },
+    {
+      "title": "Currently in storage",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "Model": {
+              "text": "Browning M2",
+              "links": [
+                {
+                  "text": "Browning M2",
+                  "type": "internal",
+                  "page": "M2 Browning"
+                }
+              ]
+            },
+            "Image": {
+              "text": "M2 Browning, Musée de l'Armée.jpg"
+            },
+            "Calibre": {
+              "text": ".50 BMG"
+            },
+            "Type": {
+              "text": "Heavy machine gun",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Heavy machine gun"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "🇺🇸"
+            },
+            "Quantity": {
+              "text": "3",
+              "number": 3
+            },
+            "Details": {
+              "text": "Model year 1939. Came with a seaplane which the ICG had in operation."
+            }
+          },
+          {
+            "Model": {
+              "text": "H&K G3",
+              "links": [
+                {
+                  "text": "H&K G3",
+                  "type": "internal",
+                  "page": "Heckler & Koch G3"
+                }
+              ]
+            },
+            "Image": {
+              "text": "DCB Shooting G3 pictures.jpg"
+            },
+            "Calibre": {
+              "text": "7.62mm"
+            },
+            "Type": {
+              "text": "Battle rifle",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Battle rifle"
+                }
+              ]
+            },
+            "Origin": {
+              "text": ""
+            },
+            "Quantity": {
+              "text": "20",
+              "number": 20
+            },
+            "Details": {
+              "text": "Model year 1959. Gift from Denmark 2006."
+            }
+          },
+          {
+            "Model": {
+              "text": "Cannon 37 mm",
+              "formatting": {
+                "italic": [
+                  "Cannon 37 mm"
+                ]
+              }
+            },
+            "Image": {
+              "text": "N/A"
+            },
+            "Calibre": {
+              "text": "37mm"
+            },
+            "Type": {
+              "text": "Cannon",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cannon"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "N/A"
+            },
+            "Quantity": {
+              "text": "3",
+              "number": 3
+            },
+            "Details": {
+              "text": "Model year 1898. Gift from Denmark."
+            }
+          },
+          {
+            "Model": {
+              "text": "Cannon 47 mm",
+              "formatting": {
+                "italic": [
+                  "Cannon 47 mm"
+                ]
+              }
+            },
+            "Image": {
+              "text": "N/A"
+            },
+            "Calibre": {
+              "text": "47mm"
+            },
+            "Type": {
+              "text": "Cannon",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cannon"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "N/A"
+            },
+            "Quantity": {
+              "text": "3",
+              "number": 3
+            },
+            "Details": {
+              "text": "Model year 1909. Gift from Denmark."
+            }
+          },
+          {
+            "Model": {
+              "text": "Cannon 57 mm",
+              "formatting": {
+                "italic": [
+                  "Cannon 57 mm"
+                ]
+              }
+            },
+            "Image": {
+              "text": "N/A"
+            },
+            "Calibre": {
+              "text": "57mm"
+            },
+            "Type": {
+              "text": "Cannon",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cannon"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "N/A"
+            },
+            "Quantity": {
+              "text": "5",
+              "number": 5
+            },
+            "Details": {
+              "text": "Model year 1892. Gift from Denmark."
+            }
+          },
+          {
+            "Model": {
+              "text": "M1 carbine",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "M1 carbine"
+                }
+              ]
+            },
+            "Image": {
+              "text": "M1 Carbine Mk I - USA - Armémuseum.jpg"
+            },
+            "Calibre": {
+              "text": "7.62mm"
+            },
+            "Type": {
+              "text": "Carbine",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Carbine"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "🇺🇸"
+            },
+            "Quantity": {
+              "text": "30",
+              "number": 30
+            },
+            "Details": {
+              "text": "Model year 1940. Lent to the Reykjavík Police 1986."
+            }
+          },
+          {
+            "Model": {
+              "text": "M2 carbine",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "M2 carbine"
+                }
+              ]
+            },
+            "Image": {
+              "text": "M2 Carbine SPAR1288 FEB. 17. 2005.jpg"
+            },
+            "Calibre": {
+              "text": "7.62mm"
+            },
+            "Type": {
+              "text": "Carbine",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Carbine"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "🇺🇸"
+            },
+            "Quantity": {
+              "text": "20",
+              "number": 20
+            },
+            "Details": {
+              "text": "Model year 1940. Lent to the Reykjavík Police 1986."
+            }
+          },
+          {
+            "Model": {
+              "text": "QF 3-pounder Hotchkiss",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "QF 3-pounder Hotchkiss"
+                }
+              ]
+            },
+            "Image": {
+              "text": "150px]]"
+            },
+            "Calibre": {
+              "text": "47mm"
+            },
+            "Type": {
+              "text": "Cannon",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cannon"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "🇫🇷 France",
+              "links": [
+                {
+                  "text": "France",
+                  "type": "internal",
+                  "page": "france"
+                }
+              ]
+            },
+            "Quantity": {
+              "text": "1",
+              "number": 1
+            },
+            "Details": {
+              "text": "Model year 1912. At a museum in Ísafjörður."
+            }
+          },
+          {
+            "Model": {
+              "text": "Remington Model 870",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Remington Model 870"
+                }
+              ]
+            },
+            "Image": {
+              "text": "Remington 870 Wmaster.jpg"
+            },
+            "Calibre": {
+              "text": "12-gauge"
+            },
+            "Type": {
+              "text": "Shotgun",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shotgun"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "🇺🇸"
+            },
+            "Quantity": {
+              "text": "4",
+              "number": 4
+            },
+            "Details": {
+              "text": "Model year 2000. Bought from a dealership in Reykjavík."
+            }
+          },
+          {
+            "Model": {
+              "text": "SMLE Lee-Enfield",
+              "links": [
+                {
+                  "text": "SMLE Lee-Enfield",
+                  "type": "internal",
+                  "page": "Lee-Enfield"
+                }
+              ]
+            },
+            "Image": {
+              "text": "Short Magazine Lee-Enfield Mk 1 (1903) - UK - cal 303 British - Armémuseum.jpg"
+            },
+            "Calibre": {
+              "text": ".303",
+              "number": 0.303
+            },
+            "Type": {
+              "text": "Bolt-action Repeating rifle",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Repeating rifle"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "🇬🇧"
+            },
+            "Quantity": {
+              "text": "10",
+              "number": 10
+            },
+            "Details": {
+              "text": "Model year 1910. Unknown origin."
+            }
+          },
+          {
+            "Model": {
+              "text": "S&W .38 Police Special",
+              "links": [
+                {
+                  "text": "S&W .38 Police Special",
+                  "type": "internal",
+                  "page": "Smith & Wesson"
+                }
+              ]
+            },
+            "Image": {
+              "text": "Smith and Wesson Regulation Police .38 S&W.jpg"
+            },
+            "Calibre": {
+              "text": ".38 Special"
+            },
+            "Type": {
+              "text": "Pistol",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pistol"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "🇺🇸"
+            },
+            "Quantity": {
+              "text": "12",
+              "number": 12
+            },
+            "Details": {
+              "text": "Model year 1940. Marshall aid.",
+              "links": [
+                {
+                  "text": "Marshall aid",
+                  "type": "internal",
+                  "page": "Marshall Plan"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "template": "frg"
+        }
+      ]
+    },
+    {
+      "title": "Ranks",
+      "depth": 0
+    },
+    {
+      "title": "Officers",
+      "depth": 1,
+      "templates": [
+        {
+          "template": "ranks and insignia of nato navies/of/blank"
+        },
+        {
+          "template": "ranks and insignia of nato navies/of/iceland"
+        }
+      ]
+    },
+    {
+      "title": "Enlisted",
+      "depth": 1,
+      "templates": [
+        {
+          "template": "ranks and insignia of nato navies/or/blank"
+        },
+        {
+          "template": "ranks and insignia of nato navies/or/iceland"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Military of Iceland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Military of Iceland"
+              }
+            ]
+          },
+          {
+            "text": "Iceland Defense Force (United States Armed Forces in Iceland)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iceland Defense Force"
+              },
+              {
+                "type": "internal",
+                "page": "United States Armed Forces"
+              }
+            ]
+          },
+          {
+            "text": "Cod Wars",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cod Wars"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Icelandic Coast Guard"
+          ],
+          "template": "commons category"
+        },
+        {
+          "template": "european border and coast guard"
+        },
+        {
+          "template": "law enforcement in iceland"
+        },
+        {
+          "template": "allied maritime command"
+        },
+        {
+          "template": "coast guards"
+        },
+        {
+          "template": "navies in europe"
+        },
+        {
+          "template": "air forces in europe"
+        },
+        {
+          "template": "military ranks by country"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official Site in English",
+            "links": [
+              {
+                "text": "Official Site in English",
+                "type": "external",
+                "site": "http://www.lhg.is/english"
+              }
+            ]
+          },
+          {
+            "text": "Landhelgisgæsla Íslands in Icelandic.",
+            "links": [
+              {
+                "text": "Landhelgisgæsla Íslands",
+                "type": "external",
+                "site": "http://www.lhg.is"
+              },
+              {
+                "text": "Icelandic",
+                "type": "internal",
+                "page": "Icelandic language"
+              }
+            ]
+          },
+          {
+            "text": "Coast Guard laws in Icelandic.",
+            "links": [
+              {
+                "text": "Coast Guard laws",
+                "type": "external",
+                "site": "http://www.althingi.is/altext/132/s/1520.html"
+              },
+              {
+                "text": "Icelandic",
+                "type": "internal",
+                "page": "Icelandic language"
+              }
+            ]
+          },
+          {
+            "text": "Info on Icelandic Coast Guard",
+            "links": [
+              {
+                "text": "Info on Icelandic Coast Guard",
+                "type": "external",
+                "site": "http://www.aeroflight.co.uk/ops/gov/icelandic-coast-guard.htm"
+              }
+            ]
+          },
+          {
+            "text": "Randburg discussion on Icelandic Coast Guard",
+            "links": [
+              {
+                "text": "Randburg discussion on Icelandic Coast Guard",
+                "type": "external",
+                "site": "https://archive.today/20130201063458/http://www.randburg.com/is/general/general_15.html"
+              }
+            ]
+          },
+          {
+            "text": "Ranks of the Icelandic Coast Guard",
+            "links": [
+              {
+                "text": "Ranks of the Icelandic Coast Guard",
+                "type": "external",
+                "site": "http://www.kaldi.is/lhg-2008-.htm"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

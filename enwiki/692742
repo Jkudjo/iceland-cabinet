@@ -1,0 +1,1042 @@
+{
+  "title": "Central Bank of Iceland",
+  "pageID": 692742,
+  "categories": [
+    "Central banks",
+    "Banks of Iceland",
+    "Banking in Iceland",
+    "Banks established in 1961",
+    "1961 establishments in Iceland",
+    "Government agencies of Iceland"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Central Bank of Iceland (Seðlabanki Íslands) is the central bank or reserve bank of Iceland.",
+              "links": [
+                {
+                  "text": "central bank",
+                  "type": "internal",
+                  "page": "central bank"
+                },
+                {
+                  "text": "reserve bank",
+                  "type": "internal",
+                  "page": "Reserve currency"
+                },
+                {
+                  "type": "internal",
+                  "page": "Iceland"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Central Bank of Iceland"
+                ]
+              }
+            },
+            {
+              "text": "It has served in this capacity since 1961, when it was created by an act of the Alþingi out of the central banking department of Landsbanki Íslands, which had the sole right of note issuance since 1927 and had conducted only limited monetary policy.",
+              "links": [
+                {
+                  "text": "Alþingi",
+                  "type": "internal",
+                  "page": "Althing"
+                },
+                {
+                  "text": "Landsbanki Íslands",
+                  "type": "internal",
+                  "page": "Landsbanki"
+                },
+                {
+                  "text": "monetary policy",
+                  "type": "internal",
+                  "page": "monetary policy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Seðlabanki Íslands is owned by the Icelandic government, and is administered by a governor and a seven-member supervisory board, elected by the country's parliament following each general election."
+            },
+            {
+              "text": "It has the sole right to issue notes and coins of Icelandic krónur and to manage the state's foreign currency reserves.",
+              "links": [
+                {
+                  "text": "Icelandic krónur",
+                  "type": "internal",
+                  "page": "Icelandic króna"
+                }
+              ]
+            },
+            {
+              "text": "The Central Bank Act of 1986 eliminated the ability of the Central Bank to regulate the interest rates of commercial banks and savings banks.",
+              "links": [
+                {
+                  "text": "commercial banks",
+                  "type": "internal",
+                  "page": "commercial bank"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Though nominally independent, the Central Bank of Iceland was historically expected to follow the lead of the central government."
+            },
+            {
+              "text": "In 2001, however, a floating exchange rate policy was introduced and since then the Central Bank has been empowered to adopt an inflation target and manage monetary policy so as to achieve price stability independent of the policies of the central government.",
+              "links": [
+                {
+                  "text": "floating exchange rate",
+                  "type": "internal",
+                  "page": "floating exchange rate"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Monetary Authority of Iceland",
+          "template": "short description"
+        },
+        {
+          "date": "February 2014",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "February 2014",
+          "template": "use british english"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "1961",
+            "month": "04",
+            "date": "07",
+            "df": "yes",
+            "template": "start date",
+            "text": "April 7, 1961"
+          }
+        },
+        {
+          "list": [
+            "en"
+          ],
+          "template": "in lang"
+        },
+        {
+          "list": [
+            "is"
+          ],
+          "template": "in lang"
+        }
+      ],
+      "infoboxes": [
+        {
+          "bank_name_in_local": {
+            "text": "Seðlabanki Íslands"
+          },
+          "image_1": {
+            "text": "Seðlabanki Íslands.svg"
+          },
+          "headquarters": {
+            "text": "Kalkofnsvegur 1, Reykjavík",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Reykjavík"
+              }
+            ]
+          },
+          "ownership": {
+            "text": "100% state ownership",
+            "links": [
+              {
+                "text": "state ownership",
+                "type": "internal",
+                "page": "state ownership"
+              }
+            ]
+          },
+          "established": {
+            "text": "April 7, 1961"
+          },
+          "president": {
+            "text": "Ásgeir Jónsson",
+            "links": [
+              {
+                "text": "Ásgeir Jónsson",
+                "type": "internal",
+                "page": "Ásgeir Jónsson"
+              }
+            ]
+          },
+          "leader_title": {
+            "text": "Governor"
+          },
+          "bank_of": {
+            "text": "Iceland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iceland"
+              }
+            ]
+          },
+          "currency": {
+            "text": "Icelandic króna",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Icelandic króna"
+              }
+            ]
+          },
+          "currency_iso": {
+            "text": "ISK"
+          },
+          "reserves": {
+            "text": "4.790 billion USD"
+          },
+          "website": {
+            "text": "cb.is sedlabanki.is"
+          },
+          "preceded": {
+            "text": "Landsbanki Íslands",
+            "links": [
+              {
+                "text": "Landsbanki Íslands",
+                "type": "internal",
+                "page": "Landsbanki"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Leadership and organisation of the Central Bank of Iceland",
+          "url": "http://www.sedlabanki.is/?PageID=189",
+          "publisher": "www.sedlabanki.is",
+          "accessdate": "8 May 2012",
+          "archive-url": "https://web.archive.org/web/20110929125528/http://www.sedlabanki.is/?PageID=189#",
+          "archive-date": "29 September 2011",
+          "url-status": "dead",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Governors",
+      "depth": 0,
+      "tables": [
+        [
+          {
+            "#": {
+              "text": "1",
+              "number": 1
+            },
+            "Governor": {
+              "text": "Jóhannes Nordal",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jóhannes Nordal"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1961",
+              "number": 1961
+            },
+            "Left office": {
+              "text": "1993",
+              "number": 1993
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "2",
+              "number": 2
+            },
+            "Governor": {
+              "text": "Jón G. Maríasson",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jón G. Maríasson"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1961",
+              "number": 1961
+            },
+            "Left office": {
+              "text": "1967",
+              "number": 1967
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "3",
+              "number": 3
+            },
+            "Governor": {
+              "text": "Vilhjálmur Þór",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vilhjálmur Þór"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1961",
+              "number": 1961
+            },
+            "Left office": {
+              "text": "1964",
+              "number": 1964
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "4",
+              "number": 4
+            },
+            "Governor": {
+              "text": "Sigtryggur Klemensson",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sigtryggur Klemensson"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1966",
+              "number": 1966
+            },
+            "Left office": {
+              "text": "1971",
+              "number": 1971
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "5",
+              "number": 5
+            },
+            "Governor": {
+              "text": "Davíð Ólafsson",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Davíð Ólafsson"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1967",
+              "number": 1967
+            },
+            "Left office": {
+              "text": "1986",
+              "number": 1986
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "6",
+              "number": 6
+            },
+            "Governor": {
+              "text": "Svanbjörn Frímannsson",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Svanbjörn Frímannsson"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1971",
+              "number": 1971
+            },
+            "Left office": {
+              "text": "1973",
+              "number": 1973
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "7",
+              "number": 7
+            },
+            "Governor": {
+              "text": "Guðmundur Hjartarson",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guðmundur Hjartarson"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1974",
+              "number": 1974
+            },
+            "Left office": {
+              "text": "1984",
+              "number": 1984
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "8",
+              "number": 8
+            },
+            "Governor": {
+              "text": "Tómas Árnason",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tómas Árnason"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1985",
+              "number": 1985
+            },
+            "Left office": {
+              "text": "1993",
+              "number": 1993
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "9",
+              "number": 9
+            },
+            "Governor": {
+              "text": "Geir Hallgrímsson",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Geir Hallgrímsson"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1986",
+              "number": 1986
+            },
+            "Left office": {
+              "text": "1990",
+              "number": 1990
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "10",
+              "number": 10
+            },
+            "Governor": {
+              "text": "Birgir Ísleifur Gunnarsson",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Birgir Ísleifur Gunnarsson"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1991",
+              "number": 1991
+            },
+            "Left office": {
+              "text": "2005",
+              "number": 2005
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "11",
+              "number": 11
+            },
+            "Governor": {
+              "text": "Jón Sigurðsson",
+              "links": [
+                {
+                  "text": "Jón Sigurðsson",
+                  "type": "internal",
+                  "page": "Jón Sigurðsson (bank president)"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1993",
+              "number": 1993
+            },
+            "Left office": {
+              "text": "1994",
+              "number": 1994
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "12",
+              "number": 12
+            },
+            "Governor": {
+              "text": "Steingrímur Hermannsson",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Steingrímur Hermannsson"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1994",
+              "number": 1994
+            },
+            "Left office": {
+              "text": "1998",
+              "number": 1998
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "13",
+              "number": 13
+            },
+            "Governor": {
+              "text": "Finnur Ingólfsson",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Finnur Ingólfsson"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "2000",
+              "number": 2000
+            },
+            "Left office": {
+              "text": "2002",
+              "number": 2002
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "14",
+              "number": 14
+            },
+            "Governor": {
+              "text": "Ingimundur Friðriksson",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ingimundur Friðriksson"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "2002",
+              "number": 2002
+            },
+            "Left office": {
+              "text": "2003",
+              "number": 2003
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "15",
+              "number": 15
+            },
+            "Governor": {
+              "text": "Jón Sigurðsson",
+              "links": [
+                {
+                  "text": "Jón Sigurðsson",
+                  "type": "internal",
+                  "page": "Jón Sigurðsson (minister)"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "2003",
+              "number": 2003
+            },
+            "Left office": {
+              "text": "2006",
+              "number": 2006
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "16",
+              "number": 16
+            },
+            "Governor": {
+              "text": "Eiríkur Guðnason",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eiríkur Guðnason"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1994",
+              "number": 1994
+            },
+            "Left office": {
+              "text": "2009",
+              "number": 2009
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "17",
+              "number": 17
+            },
+            "Governor": {
+              "text": "Davíð Oddsson",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Davíð Oddsson"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "2005",
+              "number": 2005
+            },
+            "Left office": {
+              "text": "2009",
+              "number": 2009
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "18",
+              "number": 18
+            },
+            "Governor": {
+              "text": "Ingimundur Friðriksson",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ingimundur Friðriksson"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "2006",
+              "number": 2006
+            },
+            "Left office": {
+              "text": "2009",
+              "number": 2009
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "19",
+              "number": 19
+            },
+            "Governor": {
+              "text": "Svein Harald Øygard",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Svein Harald Øygard"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "2009",
+              "number": 2009
+            },
+            "Left office": {
+              "text": "2009",
+              "number": 2009
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "20",
+              "number": 20
+            },
+            "Governor": {
+              "text": "Már Guðmundsson",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Már Guðmundsson"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "2009",
+              "number": 2009
+            },
+            "Left office": {
+              "text": "2019",
+              "number": 2019
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          },
+          {
+            "#": {
+              "text": "21",
+              "number": 21
+            },
+            "Governor": {
+              "text": "Ásgeir Jónsson",
+              "links": [
+                {
+                  "text": "Ásgeir Jónsson",
+                  "type": "internal",
+                  "page": "Ásgeir Jónsson"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "2019",
+              "number": 2019
+            },
+            "Left office": {
+              "text": "Incumbent"
+            },
+            "Tenure length": {
+              "text": "0 years years"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Monetary reform",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2015, after the 2008–2011 Icelandic financial crisis, the government of Iceland considered \"a revolutionary monetary proposal\" to abolish private money creation and to end to fractional-reserve banking.",
+              "links": [
+                {
+                  "text": "2008–2011 Icelandic financial crisis",
+                  "type": "internal",
+                  "page": "2008–2011 Icelandic financial crisis"
+                },
+                {
+                  "text": "money creation",
+                  "type": "internal",
+                  "page": "money creation"
+                },
+                {
+                  "text": "fractional-reserve banking",
+                  "type": "internal",
+                  "page": "fractional-reserve banking"
+                }
+              ]
+            },
+            {
+              "text": "Similar to the Swiss Sovereign Money Initiative, this plan would remove the power of money creation from the commercial banks and give it to the Central Bank of Iceland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sovereign Money Initiative"
+                },
+                {
+                  "text": "money creation",
+                  "type": "internal",
+                  "page": "money creation"
+                },
+                {
+                  "text": "commercial banks",
+                  "type": "internal",
+                  "page": "commercial bank"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Money creation",
+            "Monetary reform"
+          ],
+          "template": "see also"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Banks"
+          ],
+          "template": "portal"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "2008–2011 Icelandic financial crisis",
+            "links": [
+              {
+                "text": "2008–2011 Icelandic financial crisis",
+                "type": "internal",
+                "page": "2008–2011 Icelandic financial crisis"
+              }
+            ]
+          },
+          {
+            "text": "Economy of Iceland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economy of Iceland"
+              }
+            ]
+          },
+          {
+            "text": "Financial Supervisory Authority",
+            "links": [
+              {
+                "text": "Financial Supervisory Authority",
+                "type": "internal",
+                "page": "Financial Supervisory Authority (Iceland)"
+              }
+            ]
+          },
+          {
+            "text": "Icelandic króna",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Icelandic króna"
+              }
+            ]
+          },
+          {
+            "text": "Glitnir",
+            "links": [
+              {
+                "text": "Glitnir",
+                "type": "internal",
+                "page": "Glitnir (bank)"
+              }
+            ]
+          },
+          {
+            "text": "Kaupthing Bank",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kaupthing Bank"
+              }
+            ]
+          },
+          {
+            "text": "Landsbanki",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Landsbanki"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "en"
+          ],
+          "template": "in lang"
+        },
+        {
+          "list": [
+            "is"
+          ],
+          "template": "in lang"
+        },
+        {
+          "template": "central banks"
+        },
+        {
+          "list": [
+            "Iceland",
+            "Business and economics",
+            "Banks"
+          ],
+          "template": "portal bar"
+        },
+        {
+          "template": "central bank by country"
+        },
+        {
+          "display": "title",
+          "template": "coord",
+          "props": {
+            "type": "landmark_region:IS"
+          },
+          "lat": 64.14889,
+          "lon": -21.93194
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "http://www.sedlabanki.is/?pageid=194"
+              }
+            ]
+          },
+          {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "http://www.sedlabanki.is/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

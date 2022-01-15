@@ -1,0 +1,230 @@
+{
+  "title": "Birgir Ármannsson",
+  "pageID": 31700379,
+  "categories": [
+    "1968 births",
+    "Living people",
+    "Alumni of King's College London",
+    "University of Iceland alumni",
+    "21st-century Icelandic politicians",
+    "Speakers of the Althing",
+    "Members of the Althing",
+    "Independence Party (Iceland) politicians",
+    "Icelandic lawyers",
+    "Politicians from Reykjavík"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Birgir Ármannsson (born 12 June 1968 in Reykjavík) is a member of parliament of the Althing, the Icelandic parliament.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Reykjavík"
+                },
+                {
+                  "text": "member of parliament",
+                  "type": "internal",
+                  "page": "member of parliament"
+                },
+                {
+                  "type": "internal",
+                  "page": "Althing"
+                },
+                {
+                  "text": "Icelandic",
+                  "type": "internal",
+                  "page": "Iceland"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Birgir Ármannsson"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Independence Party.",
+              "links": [
+                {
+                  "text": "Independence Party",
+                  "type": "internal",
+                  "page": "Independence Party (Iceland)"
+                }
+              ]
+            },
+            {
+              "text": "He was educated at the University of Iceland and King's College London.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Iceland"
+                },
+                {
+                  "type": "internal",
+                  "page": "King's College London"
+                }
+              ]
+            },
+            {
+              "text": "Since 2021 he is the Speaker of the Althing.",
+              "links": [
+                {
+                  "text": "Speaker of the Althing",
+                  "type": "internal",
+                  "page": "List of Speakers of the Parliament of Iceland"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Icelandic politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "topic": "bio",
+          "date": "May 2011",
+          "list": [
+            "Birgir Ármannsson"
+          ],
+          "template": "expand icelandic"
+        },
+        {
+          "list": [
+            "Birgir"
+          ],
+          "template": "icelandic name"
+        },
+        {
+          "year": "1968",
+          "month": "06",
+          "day": "12",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Birgir Ármannsson"
+          },
+          "image": {
+            "text": "File:Birgir Armannsson, radsformann for Vestnordisk Rad.jpg"
+          },
+          "office": {
+            "text": "Speaker of the Althing",
+            "links": [
+              {
+                "text": "Speaker of the Althing",
+                "type": "internal",
+                "page": "List of Speakers of the Parliament of Iceland"
+              }
+            ]
+          },
+          "president": {
+            "text": "Guðni Th. Jóhannesson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guðni Th. Jóhannesson"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Katrín Jakobsdóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katrín Jakobsdóttir"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Steingrímur J. Sigfússon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steingrímur J. Sigfússon"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 December 2021"
+          },
+          "birth_date": {
+            "text": "June 12, 1968"
+          },
+          "birth_place": {
+            "text": "Reykjavík, Iceland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Reykjavík"
+              },
+              {
+                "type": "internal",
+                "page": "Iceland"
+              }
+            ]
+          },
+          "parents": {
+            "text": "Ármann Sveinsson (1946–1968)\nHelga Kjaran (born 1947)"
+          },
+          "spouse": {
+            "text": "Ragnhildur Hjördís Lövdahl (born 1971)"
+          },
+          "children": {
+            "text": "Erna (born 2003)\nHelga Kjaran (born 2005)\nHildur (born 2010)"
+          },
+          "alma_mater": {
+            "text": "University of Iceland, King's College London",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Iceland"
+              },
+              {
+                "type": "internal",
+                "page": "King's College London"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Lawyer"
+          },
+          "party": {
+            "text": "Independence Party",
+            "links": [
+              {
+                "text": "Independence Party",
+                "type": "internal",
+                "page": "Independence Party (Iceland)"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
