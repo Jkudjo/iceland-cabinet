@@ -2344,7 +2344,7 @@
               "number": 1980
             },
             "Notes": {
-              "text": "Crashed in November 1980 after collinding with a power line at Búrfell.",
+              "text": "On 17 November 1980 it collided with a power line at Búrfell power plant, chrashing 50 meters from the plant's mess hall.",
               "links": [
                 {
                   "text": "power line",
@@ -2352,8 +2352,15 @@
                   "page": "Overhead power line"
                 },
                 {
+                  "text": "Búrfell power plant",
                   "type": "internal",
-                  "page": "Búrfell"
+                  "page": "Búrfell",
+                  "anchor": "Búrfellsvirkjun"
+                },
+                {
+                  "text": "mess hall",
+                  "type": "internal",
+                  "page": "mess hall"
                 }
               ]
             }
@@ -2630,7 +2637,7 @@
               "text": "Present"
             },
             "Notes": {
-              "text": "Used for maritime surveillance and search and rescue operations. Scheduled for sale as of 2020."
+              "text": "Used for maritime surveillance and search and rescue operations. During a six-day period in 1997, rescued 39 sailors in three separate incidents. Scheduled for sale as of 2020."
             }
           },
           {
@@ -2934,6 +2941,28 @@
           "type": "news"
         },
         {
+          "author1": "Björn Jóhann Björnsson",
+          "title": "Þyrlurnar hafa bjargað þúsundum",
+          "url": "https://www.mbl.is/greinasafn/grein/1551541/",
+          "access-date": "18 January 2022",
+          "work": "Morgunblaðið",
+          "date": "30 April 2015",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Brot úr þyrluspaðanum þeyttist þvert í gegn um matsalinn",
+          "url": "https://timarit.is/page/1533942",
+          "access-date": "18 January 2022",
+          "work": "Morgunblaðið",
+          "date": "18 November 1980",
+          "pages": "23, 40",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "title": "TF-SYN Fokker F-27-200 Friendship",
           "url": "https://www.flugsafn.is/is/safngripir/tf-syn",
           "publisher": "Icelandic Aviation Museum",
@@ -2981,6 +3010,17 @@
           "work": "Tíminn",
           "date": "5 April 1986",
           "page": "20",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Frækileg björgun á reginhafi",
+          "url": "https://timarit.is/page/6785534",
+          "access-date": "22 March 2021",
+          "work": "Morgunblaðið",
+          "date": "29 September 2016",
+          "page": "34",
           "language": "Icelandic",
           "template": "citation",
           "type": "news"
