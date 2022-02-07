@@ -5,7 +5,7 @@
     "Government of Iceland",
     "2021 in Iceland",
     "Cabinets established in 2021",
-    "Lists of current governments"
+    "Current governments"
   ],
   "sections": [
     {
@@ -962,6 +962,9 @@
       "templates": [
         {
           "template": "reflist"
+        },
+        {
+          "template": "cabinets of iceland"
         }
       ]
     }

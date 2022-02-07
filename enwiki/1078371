@@ -1821,6 +1821,13 @@
           {
             "Name": {
               "text": "ICGV María Júlía",
+              "links": [
+                {
+                  "text": "ICGV ''María Júlía''",
+                  "type": "internal",
+                  "page": "María Júlía"
+                }
+              ],
               "formatting": {
                 "italic": [
                   "María Júlía"
@@ -1828,7 +1835,7 @@
               }
             },
             "Type": {
-              "text": "Patrol and rescue vessel"
+              "text": "Patrol, research and rescue vessel"
             },
             "From": {
               "text": ""
@@ -2175,7 +2182,7 @@
               "number": 1980
             },
             "Notes": {
-              "text": "Bought used from All Nippon Airways and replaced TF-SIF (I). Used for search and maritime surveillance. Saw extensive use during the second and third Cod wars. Sold to Flugleiðir in December 1980.",
+              "text": "Bought used from All Nippon Airways and replaced TF-SIF (I). Used for search and maritime surveillance. Saw extensive use during the second and third Cod Wars. Sold to Flugleiðir in December 1980.",
               "links": [
                 {
                   "type": "internal",
@@ -2183,7 +2190,7 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Cod wars"
+                  "page": "Cod Wars"
                 },
                 {
                   "type": "internal",
@@ -2223,7 +2230,7 @@
               "number": 1975
             },
             "Notes": {
-              "text": "Joint ownership by the ICG and the National Life-saving Association of Iceland. Crashed in Skálafell in 1975 after a shaft in the tail propeller had broken."
+              "text": "Joint ownership by the ICG and the National Life-saving Association of Iceland. Crashed in Skálafell in 1975 after a shaft in the tail propeller broke."
             }
           },
           {
@@ -2344,7 +2351,7 @@
               "number": 1980
             },
             "Notes": {
-              "text": "On 17 November 1980 it collided with a power line at Búrfell power plant, chrashing 50 meters from the plant's mess hall.",
+              "text": "On 17 November 1980 it collided with a power line at Búrfell power plant, crashing 50 meters from the plant's mess hall.",
               "links": [
                 {
                   "text": "power line",
@@ -2479,7 +2486,7 @@
               "number": 1986
             },
             "Notes": {
-              "text": "Arrived in October 1981. Bought as a replacement for TF-GRO (I). In August 1985, its engine was damage after a drunken man had broken in to hangar where it was stored and tried to start it. Sold in 1986 to finance TF-GRO (III)."
+              "text": "Arrived in October 1981. Bought as a replacement for TF-GRO (I). In August 1985, its engine was damaged after a drunken man broke in to the hangar where it was stored and tried to start it. Sold in 1986 to finance TF-GRO (III)."
             }
           },
           {
@@ -3543,7 +3550,7 @@
               "number": 4
             },
             "Details": {
-              "text": "Model year 1936. Gift from Denmark."
+              "text": "Model 1936. Gift from Denmark."
             }
           },
           {
@@ -3580,7 +3587,7 @@
               "number": 20
             },
             "Details": {
-              "text": "Model years 1990, 2006 and 2012. Bought from a dealership in Reykjavík."
+              "text": "Models 1990, 2006 and 2012. Bought from a dealership in Reykjavík."
             }
           },
           {
@@ -3617,7 +3624,7 @@
               "number": 50
             },
             "Details": {
-              "text": "Model year 1990. Gift from Norway 2011."
+              "text": "Model 1990. Gift from Norway 2011."
             }
           },
           {
@@ -3653,7 +3660,7 @@
               "number": 10
             },
             "Details": {
-              "text": "Model year 1990. Gift from Norway 2013."
+              "text": "Model 1990. Gift from Norway 2013."
             }
           },
           {
@@ -3689,7 +3696,7 @@
               "number": 8
             },
             "Details": {
-              "text": "Model year 1989. Bought from a dealership in Reykjavík."
+              "text": "Model 1989. Bought from a dealership in Reykjavík."
             }
           }
         ]
@@ -3742,7 +3749,7 @@
               "number": 3
             },
             "Details": {
-              "text": "Model year 1939. Came with a seaplane which the ICG had in operation."
+              "text": "Model 1939. Came with a seaplane which the ICG had in operation."
             }
           },
           {
@@ -3779,7 +3786,7 @@
               "number": 20
             },
             "Details": {
-              "text": "Model year 1959. Gift from Denmark 2006."
+              "text": "Model 1959. Gift from Denmark 2006."
             }
           },
           {
@@ -3814,7 +3821,7 @@
               "number": 3
             },
             "Details": {
-              "text": "Model year 1898. Gift from Denmark."
+              "text": "Model 1898. Gift from Denmark."
             }
           },
           {
@@ -3849,7 +3856,7 @@
               "number": 3
             },
             "Details": {
-              "text": "Model year 1909. Gift from Denmark."
+              "text": "Model 1909. Gift from Denmark."
             }
           },
           {
@@ -3884,7 +3891,7 @@
               "number": 5
             },
             "Details": {
-              "text": "Model year 1892. Gift from Denmark."
+              "text": "Model 1892. Gift from Denmark."
             }
           },
           {
@@ -3920,7 +3927,7 @@
               "number": 30
             },
             "Details": {
-              "text": "Model year 1940. Lent to the Reykjavík Police 1986."
+              "text": "Model 1940. Lent to the Reykjavík Police 1986."
             }
           },
           {
@@ -3956,7 +3963,7 @@
               "number": 20
             },
             "Details": {
-              "text": "Model year 1940. Lent to the Reykjavík Police 1986."
+              "text": "Model 1940. Lent to the Reykjavík Police 1986."
             }
           },
           {
@@ -3999,7 +4006,7 @@
               "number": 1
             },
             "Details": {
-              "text": "Model year 1912. At a museum in Ísafjörður."
+              "text": "Model 1912. At a museum in Ísafjörður."
             }
           },
           {
@@ -4035,7 +4042,7 @@
               "number": 4
             },
             "Details": {
-              "text": "Model year 2000. Bought from a dealership in Reykjavík."
+              "text": "Model 2000. Bought from a dealership in Reykjavík."
             }
           },
           {
@@ -4073,7 +4080,7 @@
               "number": 10
             },
             "Details": {
-              "text": "Model year 1910. Unknown origin."
+              "text": "Model 1910. Unknown origin."
             }
           },
           {
@@ -4110,7 +4117,7 @@
               "number": 12
             },
             "Details": {
-              "text": "Model year 1940. Marshall aid.",
+              "text": "Model 1940. Marshall aid.",
               "links": [
                 {
                   "text": "Marshall aid",

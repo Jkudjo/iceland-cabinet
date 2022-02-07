@@ -70,6 +70,20 @@
               ]
             },
             {
+              "text": "In the First cabinet of Katrín Jakobsdóttir she served as Minister of Health.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "First cabinet of Katrín Jakobsdóttir"
+                },
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Minister of Welfare (Iceland)"
+                }
+              ]
+            },
+            {
               "text": "She was also the leader of the Left-Green Movement's parliamentary group.",
               "links": [
                 {
@@ -79,7 +93,14 @@
               ]
             },
             {
-              "text": "She is currently serving as the Minister of Health."
+              "text": "She is currently serving as the Minister of Fisheries and Agriculture.",
+              "links": [
+                {
+                  "text": "Minister of Fisheries and Agriculture",
+                  "type": "internal",
+                  "page": "Ministry of Fisheries and Agriculture (Iceland)"
+                }
+              ]
             }
           ]
         }

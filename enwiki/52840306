@@ -20,16 +20,12 @@
         {
           "sentences": [
             {
-              "text": "Lilja Dögg Alfreðsdóttir (born 4 October 1973) is an Icelandic politician, the Icelandic Minister of Education, Science and Culture since November 2017 and a member of the Althing (Iceland's parliament) for the Reykjavík South constituency since 2016.",
+              "text": "Lilja Dögg Alfreðsdóttir (born 4 October 1973) is an Icelandic politician, and was the Icelandic Minister of Education, Science and Culture 2017 - 2021.",
               "links": [
                 {
                   "text": "Minister of Education, Science and Culture",
                   "type": "internal",
                   "page": "Minister of Education, Science and Culture (Iceland)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Althing"
                 }
               ],
               "formatting": {
@@ -37,6 +33,19 @@
                   "Lilja Dögg Alfreðsdóttir"
                 ]
               }
+            },
+            {
+              "text": "On November 28 2021 she got a different portfolio and is now Minister of Tourism, Trade and Culture. She is a member of the Althing (Iceland's parliament) for the Reykjavík South constituency since 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Tourism, Trade and Culture."
+                },
+                {
+                  "type": "internal",
+                  "page": "Althing"
+                }
+              ]
             }
           ]
         },
@@ -79,6 +88,12 @@
                   "page": "Progressive Party (Iceland)"
                 }
               ]
+            },
+            {
+              "text": "She has criticised Disney for having too few films and programmes with subtitles or dubbed in Icelandic."
+            },
+            {
+              "text": "In 2021 she wrote to Tim Cook, CEO of tech giant Apple, asking him to help maintain Icelandic as a language by including it in the voice, text and language collection in their operative systems."
             }
           ]
         }
