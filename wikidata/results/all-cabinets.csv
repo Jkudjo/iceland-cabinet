@@ -1,5 +1,4 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q109806885,Second cabinet of Katrín Jakobsdóttir,,,,,,,,,Q44223982,Cabinet of Katrín Jakobsdóttir,,,,,,
 ,Q5454136,First cabinet of Jón Magnússon,1917-01-04,11,1917-01-01,9,1920-02-25,11,,,,,Q7443683,Second cabinet of Jón Magnússon,,,Q7443683,Second cabinet of Jón Magnússon
 ,Q7443683,Second cabinet of Jón Magnússon,1920-02-25,11,1920-01-01,9,1922-03-07,11,,,Q5454136,First cabinet of Jón Magnússon,Q5015555,Cabinet of Sigurður Eggerz,Q5454136,First cabinet of Jón Magnússon,Q5015555,Cabinet of Sigurður Eggerz
 ,Q5015555,Cabinet of Sigurður Eggerz,1922-03-07,11,1922-01-01,9,1924-03-22,11,,,Q7443683,Second cabinet of Jón Magnússon,Q7785045,Third cabinet of Jón Magnússon,Q7443683,Second cabinet of Jón Magnússon,Q7785045,Third cabinet of Jón Magnússon
@@ -40,3 +39,4 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q23763531,Cabinet of Sigurður Ingi Jóhannsson,2016-04-07,11,,,2017-01-11,11,,,Q15566023,Cabinet of Sigmundur Davíð Gunnlaugsson,Q28198151,"Cabinet of Bjarni Benediktsson, Jr",,,,
 ,Q28198151,"Cabinet of Bjarni Benediktsson, Jr",2017-01-11,11,,,2017-09-15,11,,,Q23763531,Cabinet of Sigurður Ingi Jóhannsson,Q44223982,Cabinet of Katrín Jakobsdóttir,,,,
 ,Q44223982,Cabinet of Katrín Jakobsdóttir,2017-11-30,11,,,,,,,Q28198151,"Cabinet of Bjarni Benediktsson, Jr",Q109806885,Second cabinet of Katrín Jakobsdóttir,,,,
+,Q109806885,Second cabinet of Katrín Jakobsdóttir,2021-11-28,11,,,,,,,Q44223982,Cabinet of Katrín Jakobsdóttir,,,,,,
