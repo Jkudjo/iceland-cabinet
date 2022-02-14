@@ -980,6 +980,11 @@
       ],
       "templates": [
         {
+          "url": "https://web.archive.org/web/20051119025847/http://www.sedlabanki.is/?pageid=194",
+          "date": "19 November 2005",
+          "template": "webarchive"
+        },
+        {
           "list": [
             "en"
           ],
