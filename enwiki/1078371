@@ -338,7 +338,7 @@
       "references": [
         {
           "url": "http://www.lhg.is/media/LHG80/Landhelgisgasla_Islands_enska2_.pdf",
-          "title": "The Icelandic Coast Guard “Always Prepared”",
+          "title": "The Icelandic Coast Guard \"Always Prepared\"",
           "access-date": "18 May 2020",
           "template": "citation",
           "type": "web"
@@ -3171,7 +3171,7 @@
           "accessdate": "23 March 2021",
           "work": "Landhelgisgæsla Íslands",
           "date": "8 November 2013",
-          "lang": "Icelandic",
+          "language": "Icelandic",
           "template": "citation",
           "type": "news"
         },
@@ -3193,7 +3193,7 @@
           "access-date": "21 March 2021",
           "work": "Dagblaðið Vísir",
           "date": "20 July 2007",
-          "page": "1, 11-17",
+          "pages": "1, 11–17",
           "language": "Icelandic",
           "template": "citation",
           "type": "news"
@@ -3484,8 +3484,7 @@
                 {
                   "text": "Bofors 40 mm L/70",
                   "type": "internal",
-                  "page": "Bofors 40 mm gun",
-                  "anchor": "40 mm L/70"
+                  "page": "Bofors 40 mm Automatic Gun L/70"
                 }
               ]
             },
