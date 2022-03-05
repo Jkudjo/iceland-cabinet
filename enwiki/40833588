@@ -1,5 +1,5 @@
 {
-  "title": "Mayor of Reykjavík City",
+  "title": "Mayor of Reykjavík",
   "pageID": 40833588,
   "categories": [
     "Mayors of Reykjavík",
@@ -13,21 +13,10 @@
         {
           "sentences": [
             {
-              "text": "The post of Mayor of Reykjavík City (Borgarstjóri Reykjavíkurborgar) was created in 1907 and advertised in 1908.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Mayor"
-                },
-                {
-                  "text": "Reykjavík City",
-                  "type": "internal",
-                  "page": "Reykjavík"
-                }
-              ],
+              "text": "The post of Mayor of Reykjavík (Borgarstjóri Reykjavíkur) was created in 1907 and advertised in 1908.",
               "formatting": {
                 "bold": [
-                  "Mayor of Reykjavík City"
+                  "Mayor of Reykjavík"
                 ]
               }
             },
@@ -40,6 +29,11 @@
                 {
                   "type": "internal",
                   "page": "Reykjavík City Council"
+                },
+                {
+                  "text": "mayor",
+                  "type": "internal",
+                  "page": "mayor"
                 }
               ]
             }
@@ -131,10 +125,10 @@
             "text": "Mayor"
           },
           "body": {
-            "text": "Reykjavík City"
+            "text": "Reykjavík"
           },
           "native_name": {
-            "text": "Borgarstjóri Reykjavíkurborgar"
+            "text": "Borgarstjóri Reykjavíkur"
           },
           "insignia": {
             "text": "Reykjavik Coat of Arms.svg"
@@ -143,7 +137,7 @@
             "text": "100px"
           },
           "insigniacaption": {
-            "text": "Reykjavík City Coat of Arms"
+            "text": "Municipal coat of arms"
           },
           "image": {
             "text": "DagurBEggertsson.jpg"
@@ -173,7 +167,7 @@
             ]
           },
           "seat": {
-            "text": "Reykjavík City"
+            "text": "Reykjavík"
           },
           "termlength": {
             "text": "Four years Renewable indefinitely with the support of the Reykjavík City Council.",
@@ -1122,7 +1116,7 @@
               "text": "Incumbent"
             },
             "Duration": {
-              "text": "7 years, 222 days (2777 days days)"
+              "text": "7 years, 236 days (2791 days days)"
             },
             "Party": {
               "text": "SDA",

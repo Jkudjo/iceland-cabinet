@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Dagur Bergþóruson Eggertsson (born 19 June 1972) is an Icelandic politician who is the Mayor of Reykjavik City.",
+              "text": "Dagur Bergþóruson Eggertsson (born 19 June 1972) is an Icelandic politician who is the Mayor of Reykjavík.",
               "links": [
                 {
                   "text": "Icelandic",
@@ -30,7 +30,7 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Mayor of Reykjavik City"
+                  "page": "Mayor of Reykjavík"
                 }
               ],
               "formatting": {
@@ -99,7 +99,7 @@
               {
                 "text": "17 and 21st Mayor of Reykjavík",
                 "type": "internal",
-                "page": "Mayor of Reykjavík City"
+                "page": "Mayor of Reykjavík"
               }
             ]
           },
