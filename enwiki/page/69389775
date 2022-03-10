@@ -1,0 +1,406 @@
+{
+  "title": "Second cabinet of Katrín Jakobsdóttir",
+  "pageID": 69389775,
+  "categories": [
+    "Government of Iceland",
+    "2021 in Iceland",
+    "Cabinets established in 2021",
+    "Current governments"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Second cabinet of Katrín Jakobsdóttir was formed on 28 November 2021, following the 2021 parliamentary election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Katrín Jakobsdóttir"
+                },
+                {
+                  "text": "2021 parliamentary election",
+                  "type": "internal",
+                  "page": "2021 Icelandic parliamentary election"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Second cabinet of Katrín Jakobsdóttir"
+                ]
+              }
+            },
+            {
+              "text": "The cabinet is led by Katrín Jakobsdóttir of the Left-Green Movement, who serves as Prime Minister of Iceland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Katrín Jakobsdóttir"
+                },
+                {
+                  "type": "internal",
+                  "page": "Left-Green Movement"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of Iceland"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The cabinet is a coalition government consisting of the Independence Party, the Left-Green Movement and the Progressive Party.",
+              "links": [
+                {
+                  "text": "coalition government",
+                  "type": "internal",
+                  "page": "coalition government"
+                },
+                {
+                  "text": "Independence Party",
+                  "type": "internal",
+                  "page": "Independence Party (Iceland)"
+                },
+                {
+                  "text": "Progressive Party",
+                  "type": "internal",
+                  "page": "Progressive Party (Iceland)"
+                }
+              ]
+            },
+            {
+              "text": "Together they hold 38 of the 63 seats in the Parliament of Iceland and serve as a majority government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of Iceland"
+                },
+                {
+                  "text": "majority government",
+                  "type": "internal",
+                  "page": "majority government"
+                }
+              ]
+            },
+            {
+              "text": "In the cabinet, there are twelve ministers, where five are from the Independence Party, three are from the Left-Green Movement and four are from the Progressive Party."
+            },
+            {
+              "text": "After the 2021 parliamentary election, the three parties who were in power, in the last parliamentary session, increased their parliamentary majority."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "date",
+          "data": {
+            "year": "2021",
+            "month": "11",
+            "date": "28",
+            "df": "y",
+            "template": "start date",
+            "text": "November 28, 2021"
+          }
+        },
+        {
+          "list": [
+            "Independence Party (D)",
+            "Progressive Party (B)",
+            "Left-Green Movement (V)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "cabinet_name": {
+            "text": "Second cabinet of Katrín Jakobsdóttir"
+          },
+          "cabinet_number": {
+            "text": "46th"
+          },
+          "jurisdiction": {
+            "text": "Iceland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iceland"
+              }
+            ]
+          },
+          "flag": {
+            "text": "Flag_of_Iceland.svg"
+          },
+          "flag_border": {
+            "text": "true"
+          },
+          "image": {
+            "text": "Katrín Jakobsdóttir (cropped).jpg"
+          },
+          "image_size": {
+            "text": "x250px"
+          },
+          "date_formed": {
+            "text": "November 28, 2021"
+          },
+          "government_head": {
+            "text": "Katrín Jakobsdóttir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katrín Jakobsdóttir"
+              }
+            ]
+          },
+          "state_head": {
+            "text": "Guðni Th. Jóhannesson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guðni Th. Jóhannesson"
+              }
+            ]
+          },
+          "political_parties": {
+            "text": "Independence Party (D)\n\nProgressive Party (B)\n\nLeft-Green Movement (V)"
+          },
+          "opposition_parties": {
+            "text": "Social Democratic Alliance (S)\nPeople's Party (F)\nPirate Party (P)\nReform Party (C)\nCentre Party (M)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Social Democratic Alliance"
+              },
+              {
+                "text": "People's Party",
+                "type": "internal",
+                "page": "People's Party (Iceland, 2016)"
+              },
+              {
+                "text": "Pirate Party",
+                "type": "internal",
+                "page": "Pirate Party (Iceland)"
+              },
+              {
+                "text": "Reform Party",
+                "type": "internal",
+                "page": "Reform Party (Iceland)"
+              },
+              {
+                "text": "Centre Party",
+                "type": "internal",
+                "page": "Centre Party (Iceland)"
+              }
+            ]
+          },
+          "election": {
+            "text": "2021 parliamentary election",
+            "links": [
+              {
+                "text": "2021 parliamentary election",
+                "type": "internal",
+                "page": "2021 Icelandic parliamentary election"
+              }
+            ]
+          },
+          "previous": {
+            "text": "Katrín Jakobsdóttir I",
+            "links": [
+              {
+                "text": "Katrín Jakobsdóttir I",
+                "type": "internal",
+                "page": "First cabinet of Katrín Jakobsdóttir"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.france24.com/en/live-news/20211128-iceland-s-ruling-coalition-agrees-on-new-government",
+          "title": "Iceland's ruling coalition agrees on new government",
+          "website": "France 24",
+          "agency": "Agence France-Presse",
+          "date": "28 November 2021",
+          "accessdate": "3 December 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.reuters.com/world/europe/icelands-left-right-coalition-agrees-take-another-term-2021-11-28/",
+          "title": "Iceland's left-right coalition agrees to take another term",
+          "agency": "Reuters",
+          "date": "28 November 2021",
+          "accessdate": "3 December 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Katrin Jakobsdottir, Iceland's Staunch Feminist PM, Begins Second Term",
+          "url": "https://www.voanews.com/a/katrin-jakobsdottir-iceland-staunch-feminist-pm-begins-second-term/6331139.html",
+          "date": "28 November 2021",
+          "work": "Voice of America",
+          "access-date": "15 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.government.is/news/article/2021/11/28/Second-Government-of-Katrin-Jakobsdottir-Takes-Office/",
+          "title": "Second Government of Katrín Jakobsdóttir Takes Office",
+          "website": "government.is",
+          "language": "en-US",
+          "access-date": "2021-11-28",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Cabinet",
+      "depth": 0,
+      "templates": [
+        {
+          "hiderefcol": "y",
+          "template": "cabinet table start"
+        },
+        {
+          "title": "Prime Minister",
+          "minister1": "Katrín Jakobsdóttir",
+          "minister1_termstart": "28 November 2021",
+          "minister1_party": "Left-Green Movement",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Foreign Affairs",
+          "minister1": "Þórdís Kolbrún R. Gylfadóttir",
+          "minister1_termstart": "28 November 2021",
+          "minister1_party": "Independence Party (Iceland)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister of Finance and Economic Affairs",
+          "minister1": "Bjarni Benediktsson",
+          "minister1_termstart": "28 November 2021",
+          "minister1_party": "Independence Party (Iceland)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister of Infrastructure",
+          "minister1": "Sigurður Ingi Jóhannsson",
+          "minister1_termstart": "28 November 2021",
+          "minister1_party": "Progressive Party (Iceland)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister of the Interior",
+          "minister1": "Jón Gunnarsson",
+          "minister1_termstart": "28 November 2021",
+          "minister1_party": "Independence Party (Iceland)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister of Science, Industry and Innovation",
+          "minister1": "Áslaug Arna Sigurbjörnsdóttir",
+          "minister1_termstart": "28 November 2021",
+          "minister1_party": "Independence Party (Iceland)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister of Fisheries and Agriculture",
+          "minister1": "Svandís Svavarsdóttir",
+          "minister1_termstart": "28 November 2021",
+          "minister1_party": "Left-Green Movement",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for the Environment, Energy and Climate",
+          "minister1": "Guðlaugur Þór Þórðarson",
+          "minister1_termstart": "28 November 2021",
+          "minister1_party": "Independence Party (Iceland)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister of Education and Children's Affairs",
+          "minister1": "Ásmundur Einar Daðason",
+          "minister1_termstart": "28 November 2021",
+          "minister1_party": "Progressive Party (Iceland)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister of Social Affairs and the Labour Market",
+          "minister1": "Guðmundur Ingi Guðbrandsson",
+          "minister1_termstart": "28 November 2021",
+          "minister1_party": "Left-Green Movement",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister of Health",
+          "minister1": "Willum Þór Þórsson",
+          "minister1_termstart": "28 November 2021",
+          "minister1_party": "Progressive Party (Iceland)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister of Tourism, Trade and Culture",
+          "minister1": "Lilja Dögg Alfreðsdóttir",
+          "minister1_termstart": "28 November 2021",
+          "minister1_party": "Progressive Party (Iceland)",
+          "template": "cabinet table minister"
+        },
+        {
+          "template": "cabinet table end"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Government of Iceland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Government of Iceland"
+              }
+            ]
+          },
+          {
+            "text": "Cabinet of Iceland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cabinet of Iceland"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "cabinets of iceland"
+        }
+      ]
+    }
+  ]
+}
