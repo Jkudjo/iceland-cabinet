@@ -99,6 +99,10 @@
       ],
       "templates": [
         {
+          "description": "Government of Iceland since 2021",
+          "template": "short description"
+        },
+        {
           "template": "date",
           "data": {
             "year": "2021",
@@ -302,6 +306,7 @@
           "title": "Minister of the Interior",
           "minister1": "Jón Gunnarsson",
           "minister1_termstart": "28 November 2021",
+          "minister1_termend": "1 February 2022",
           "minister1_party": "Independence Party (Iceland)",
           "template": "cabinet table minister"
         },
