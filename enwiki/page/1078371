@@ -211,12 +211,12 @@
             "text": "Transport aircraft"
           },
           "aircraft2": {
-            "text": "3 AS-332L1 Super Pumas",
+            "text": "3 Airbus H225s",
             "links": [
               {
-                "text": "AS-332L1 Super Pumas",
+                "text": "Airbus H225s",
                 "type": "internal",
-                "page": "Aerospatiale Super Puma"
+                "page": "Eurocopter EC225 Super Puma"
               }
             ]
           },
@@ -669,7 +669,7 @@
         {
           "sentences": [
             {
-              "text": "As of 2021, the Icelandic Coast Guard fleet consists of three OPVs, one coastal hydrographic and patrol vessel and an independent fast rigid-hulled inflatable boat (RHIB), as well as numerous smaller boats assigned to the larger units.",
+              "text": ", the Icelandic Coast Guard fleet consists of three OPVs, one coastal hydrographic and patrol vessel and an independent fast rigid-hulled inflatable boat (RHIB), as well as numerous smaller boats assigned to the larger units.",
               "links": [
                 {
                   "text": "coastal hydrographic and patrol vessel",
@@ -834,6 +834,12 @@
         }
       ],
       "templates": [
+        {
+          "list": [
+            "2021"
+          ],
+          "template": "as of"
+        },
         {
           "list": [
             "ICGV",
