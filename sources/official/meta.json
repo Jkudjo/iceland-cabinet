@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Iceland",
+      "id": "Q189"
+    },
+    "cabinet": {
+      "id": "Q109806885",
+      "start": "2021-11-28",
+      "parent": "Q3354110"
+    },
+    "source": {
+        "url":   "https://www.government.is/government/current-government/",
+        "title": "Current government",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/iceland-cabinet"
+}
