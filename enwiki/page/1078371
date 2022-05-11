@@ -1157,7 +1157,19 @@
               ]
             },
             "Photo": {
-              "text": ""
+              "text": "thumb|alt=The Icelandic offshore patrol vessel ICGV Freyja sails with Allied units in the North Atlantic Ocean in support of exercise Northern Viking 2022|CGV Freyja during Northern Viking 2022]]",
+              "links": [
+                {
+                  "text": "Northern Viking 2022",
+                  "type": "internal",
+                  "page": "Northern Viking"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Freyja"
+                ]
+              }
             }
           },
           {
