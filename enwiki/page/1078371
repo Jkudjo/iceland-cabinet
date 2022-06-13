@@ -337,6 +337,18 @@
       ],
       "references": [
         {
+          "title": "Strandvarnaskipið \"Ægir\"",
+          "url": "https://timarit.is/page/5232826",
+          "access-date": "11 June 2022",
+          "work": "Ársrit Vélstjórafélags Íslands",
+          "date": "1929",
+          "pages": "86-89",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "url": "http://www.lhg.is/media/LHG80/Landhelgisgasla_Islands_enska2_.pdf",
           "title": "The Icelandic Coast Guard \"Always Prepared\"",
           "access-date": "18 May 2020",
@@ -1136,6 +1148,9 @@
             "Ship name": {
               "text": ""
             },
+            "Photo": {
+              "text": "200x200px]]"
+            },
             "Type": {
               "text": "Offshore patrol vessel"
             },
@@ -1155,26 +1170,14 @@
                   "page": "Freyja"
                 }
               ]
-            },
-            "Photo": {
-              "text": "thumb|alt=The Icelandic offshore patrol vessel ICGV Freyja sails with Allied units in the North Atlantic Ocean in support of exercise Northern Viking 2022|CGV Freyja during Northern Viking 2022]]",
-              "links": [
-                {
-                  "text": "Northern Viking 2022",
-                  "type": "internal",
-                  "page": "Northern Viking"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Freyja"
-                ]
-              }
             }
           },
           {
             "Ship name": {
               "text": ""
+            },
+            "Photo": {
+              "text": "2 Arrival of Thor - Icelandic Coast Guard 2011-10-27 Reykjavik.jpg"
             },
             "Type": {
               "text": "Offshore patrol vessel"
@@ -1210,47 +1213,26 @@
                   "page": "troll"
                 }
               ]
-            },
-            "Photo": {
-              "text": "2 Arrival of Thor - Icelandic Coast Guard 2011-10-27 Reykjavik.jpg"
             }
           },
           {
             "Ship name": {
-              "text": ""
-            },
-            "Type": {
-              "text": "Offshore patrol vessel"
-            },
-            "Class": {
-              "text": ""
-            },
-            "Note": {
-              "text": "Danish-built Ægir-class offshore patrol vessel named after Týr, the god of combat and heroism.",
+              "text": "ICGV Baldur",
               "links": [
                 {
-                  "text": "Danish",
+                  "text": "ICGV ''Baldur''",
                   "type": "internal",
-                  "page": "Denmark"
-                },
-                {
-                  "type": "internal",
-                  "page": "Týr"
+                  "page": "ICGV Baldur (III)"
                 }
               ],
               "formatting": {
                 "italic": [
-                  "Ægir"
+                  "Baldur"
                 ]
               }
             },
             "Photo": {
-              "text": "Iceland Coast Guard vessel types.jpg"
-            }
-          },
-          {
-            "Ship name": {
-              "text": ""
+              "text": "ICGV Baldur with ICGV Ægir in background.jpg"
             },
             "Type": {
               "text": "Hydrographic survey and patrol vessel"
@@ -1259,16 +1241,18 @@
               "text": ""
             },
             "Note": {
-              "text": "Icelandic-built hydrographic survey and patrol vessel named after Baldur, god of beauty and more.",
+              "text": "Icelandic-built Baldur-class hydrographic survey and patrol vessel named after Baldur, god of beauty and more.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Baldur"
                 }
-              ]
-            },
-            "Photo": {
-              "text": "Icelandic coast guard ships in harbour (cropped).jpg"
+              ],
+              "formatting": {
+                "italic": [
+                  "Baldur"
+                ]
+              }
             }
           },
           {
@@ -1279,6 +1263,9 @@
                   "Óðinn"
                 ]
               }
+            },
+            "Photo": {
+              "text": ""
             },
             "Type": {
               "text": "Special operation vessel"
@@ -1295,9 +1282,6 @@
                   "page": "Óðinn"
                 }
               ]
-            },
-            "Photo": {
-              "text": ""
             }
           }
         ]
@@ -1317,42 +1301,49 @@
         },
         {
           "list": [
-            "Týr"
-          ],
-          "template": "icgv"
-        },
-        {
-          "list": [
-            "Ægir",
-            "offshore patrol vessel",
-            "4"
-          ],
-          "template": "sclass"
-        },
-        {
-          "list": [
-            "Baldur"
-          ],
-          "template": "icgv"
-        },
-        {
-          "list": [
             "Baldur",
             "research vessel",
             "4"
-          ],
-          "template": "sclass"
-        },
-        {
-          "list": [
-            "Baldur",
-            "research vessel",
-            "0"
           ],
           "template": "sclass"
         }
       ],
       "references": [
+        {
+          "title": "Freyja er mjög öflugt varðskip",
+          "url": "https://www.mbl.is/200milur/frettir/2021/09/23/freyja_er_mjog_oflugt_vardskip/",
+          "access-date": "11 June 2022",
+          "work": "Morgunblaðið",
+          "date": "23 September 2021",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Steinþór Guðbjartsson",
+          "title": "Brotið blað í sögu þjóðar",
+          "url": "https://timarit.is/page/5383190",
+          "access-date": "11 June 2022",
+          "work": "Morgunblaðið",
+          "date": "27 October 2011",
+          "pages": "40, 16–17",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Sæmundur Guðvinsson",
+          "title": "Bylting í sjómælingum og kortagerð",
+          "url": "https://timarit.is/page/4250862",
+          "access-date": "9 June 2022",
+          "work": "Sjómannablaðið Víkingur",
+          "date": "1 October 1991",
+          "pages": "22–24",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
         {
           "title": "Óðinn",
           "url": "https://www.lhg.is/um-okkur/taekjakostur/skip-og-batar/nr/3448",
@@ -1362,6 +1353,30 @@
           "language": "Icelandic",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "title": "Nýr „byltingarkenndur“ Óðinn í flota gæslunnar",
+          "url": "https://timarit.is/page/6647487",
+          "access-date": "11 June 2022",
+          "work": "Morgunblaðið",
+          "date": "5 August 2015",
+          "page": "9",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Byltingarkenndur bátur fyrir gæsluna",
+          "url": "https://timarit.is/page/6308464",
+          "access-date": "11 June 2022",
+          "work": "Fréttablaðið",
+          "date": "5 August 2015",
+          "page": "8",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -1426,7 +1441,7 @@
               "text": "ICGV Óðinn (I)"
             },
             "Type": {
-              "text": ""
+              "text": "Patrol vessel"
             },
             "From": {
               "text": "1926",
@@ -1450,16 +1465,24 @@
               }
             },
             "Type": {
-              "text": ""
+              "text": "Patrol vessel"
             },
             "From": {
-              "text": ""
+              "text": "1938",
+              "number": 1938
             },
             "To": {
-              "text": ""
+              "text": "1964",
+              "number": 1964
             },
             "Notes": {
-              "text": "Originally named Óðinn (II) but renamed when a new Óðinn (III) arrived, Gautur is one of Óðinn's pseudonyms.",
+              "text": "Built in 1938 in Akureyri. Originally named Óðinn (II) but renamed when a new Óðinn (III) arrived, Gautur is one of Óðinn's pseudonyms. Put up for sale in 1963 and sold a year later.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Akureyri"
+                }
+              ],
               "formatting": {
                 "italic": [
                   "Óðinn",
@@ -1473,7 +1496,7 @@
               "text": "(III)"
             },
             "Type": {
-              "text": ""
+              "text": "Offshore patrol vessel"
             },
             "From": {
               "text": "1960",
@@ -1659,13 +1682,30 @@
               ]
             },
             "From": {
-              "text": ""
+              "text": "1975",
+              "number": 1975
             },
             "To": {
-              "text": ""
+              "text": "1977",
+              "number": 1977
             },
             "Notes": {
-              "text": ""
+              "text": "Named after the god Baldr, son of Óðinn. An armed trawler which served in the third Cod Wars conflict between Iceland and the United Kingdom. Due to its sharp stern, Baldur could inflict heavy damage on British ships colliding with its stern section and knocked out three frigates during the conflict.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Baldr"
+                },
+                {
+                  "text": "Óðinn",
+                  "type": "internal",
+                  "page": "Óðinn"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cod Wars"
+                }
+              ]
             }
           },
           {
@@ -1760,7 +1800,7 @@
               "number": 1982
             },
             "Notes": {
-              "text": "Built in 1951 for the Coast Guard. It was sold in 1982."
+              "text": "Built in 1951 for the Coast Guard. The third coast guard ship to bear the name, she was the flagship of the fleet and served in all three Cod Wars conflicts between Iceland and the United Kingdom. Sold in 1982."
             }
           },
           {
@@ -1773,16 +1813,17 @@
               }
             },
             "Type": {
-              "text": ""
+              "text": "Coastal defence ship"
             },
             "From": {
-              "text": ""
+              "text": "1929",
+              "number": 1929
             },
             "To": {
               "text": ""
             },
             "Notes": {
-              "text": ""
+              "text": "Bought new in 1929."
             }
           },
           {
@@ -1798,13 +1839,15 @@
               "text": "Patrol and rescue vessel"
             },
             "From": {
-              "text": ""
+              "text": "1956",
+              "number": 1956
             },
             "To": {
-              "text": ""
+              "text": "1978",
+              "number": 1978
             },
             "Notes": {
-              "text": "Joint ownership by the ICG and the National Life-saving Association of Iceland, now ICE-SAR. Operated by the ICG. Decommissioned in the mid 1970s.",
+              "text": "Built in 1956 and jointly owned by the ICG and the National Life-saving Association of Iceland, now ICE-SAR. Operated by the ICG. Decommissioned and sold in 1978.",
               "links": [
                 {
                   "text": "now ICE-SAR",
@@ -1824,16 +1867,17 @@
               }
             },
             "Type": {
-              "text": ""
+              "text": "Lighthouse tender and patrol ship"
             },
             "From": {
-              "text": ""
+              "text": "1969",
+              "number": 1969
             },
             "To": {
               "text": ""
             },
             "Notes": {
-              "text": "A lighthouse tender and patrol ship decommissioned in the 1980s."
+              "text": "A lighthouse tender and patrol ship built in Holland in 1962 for the Department of Lighthouses and arrived in 1963. Transferred to the Coast Guard in 1969. Was put for sale in 1988."
             }
           },
           {
@@ -1856,13 +1900,15 @@
               "text": "Patrol, research and rescue vessel"
             },
             "From": {
-              "text": ""
+              "text": "1950",
+              "number": 1950
             },
             "To": {
-              "text": ""
+              "text": "1969",
+              "number": 1969
             },
             "Notes": {
-              "text": "Named after one of those who financed her construction. Joint ownership by the ICG and the National Life-saving Association of Iceland. Operated by the ICG. Decommissioned in the late 1960s."
+              "text": "Named after one of those who financed her construction. Joint ownership by the ICG and the National Life-saving Association of Iceland. Operated by the ICG. Decommissioned in the late 1960s and sold in 1969."
             }
           },
           {
@@ -1953,14 +1999,45 @@
                 ]
               }
             }
+          },
+          {
+            "Name": {
+              "text": "(II)"
+            },
+            "Type": {
+              "text": ""
+            },
+            "From": {
+              "text": "1974",
+              "number": 1974
+            },
+            "To": {
+              "text": "2021",
+              "number": 2021
+            },
+            "Notes": {
+              "text": "Danish-built Ægir-class offshore patrol vessel named after Týr, the god of combat and heroism. It was decommissioned in 2021 and put up for sale.",
+              "links": [
+                {
+                  "text": "Danish",
+                  "type": "internal",
+                  "page": "Denmark"
+                },
+                {
+                  "type": "internal",
+                  "page": "Týr"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Ægir"
+                ]
+              }
+            }
           }
         ]
       ],
       "templates": [
-        {
-          "date": "February 2021",
-          "template": "more citations needed section"
-        },
         {
           "list": [
             "Óðinn"
@@ -1970,6 +2047,20 @@
         {
           "list": [
             "Ægir"
+          ],
+          "template": "icgv"
+        },
+        {
+          "list": [
+            "Ægir",
+            "offshore patrol vessel",
+            "4"
+          ],
+          "template": "sclass"
+        },
+        {
+          "list": [
+            "Týr"
           ],
           "template": "icgv"
         },
@@ -1991,6 +2082,7 @@
           "date": "27 June 1926",
           "page": "4",
           "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
           "template": "citation",
           "type": "news"
         },
@@ -2002,6 +2094,54 @@
           "date": "27 February 1936",
           "page": "2",
           "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Nýi varðbáturinn Óðinn",
+          "url": "https://timarit.is/page/1235379",
+          "access-date": "11 June 2022",
+          "work": "Morgunblaðið",
+          "date": "18 February 1938",
+          "page": "3",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Vill fá sem flestar milljónir fyrir Gaut",
+          "url": "https://timarit.is/page/1348239",
+          "access-date": "11 June 2022",
+          "work": "Morgunblaðið",
+          "date": "24 January 1963",
+          "page": "2",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "´Gautur í áætlunarferðir milli Vestmannaeyja og Þorlákshafnar",
+          "url": "https://timarit.is/page/2329785",
+          "access-date": "11 June 2022",
+          "work": "Alþýðublaðið",
+          "date": "11 January 1964",
+          "page": "4",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Hallur Már",
+          "title": "Óðinn sigldi á ný",
+          "url": "https://www.mbl.is/200milur/frettir/2020/05/11/odinn_sigldi_a_ny/",
+          "access-date": "11 June 2022",
+          "work": "Morgunblaðið",
+          "date": "11 May 2020",
+          "language": "is",
           "template": "citation",
           "type": "news"
         },
@@ -2013,6 +2153,7 @@
           "date": "12 October 1972",
           "page": "32",
           "language": "is",
+          "via": "Tímarit.is}} {{open access|undefined",
           "template": "citation",
           "type": "news"
         },
@@ -2024,6 +2165,64 @@
           "date": "3 January 1999",
           "pages": "12B",
           "language": "is",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Ægir",
+          "url": "https://timarit.is/page/996002",
+          "access-date": "11 June 2022",
+          "work": "Tíminn",
+          "date": "20 July 1929",
+          "page": "162",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Fyrrverandi björgunar- og varðskipið Albert fannst í Seattle",
+          "url": "https://www.lhg.is/frettir-og-fjolmidlar/frettasafn/frettayfirlit/nr/2432",
+          "access-date": "11 June 2022",
+          "work": "lhg.is",
+          "publisher": "Icelandic Coast Guard",
+          "date": "9 January 2012",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Vitaskipið Árvakur auglýst til sölu: Ekki ákveðið að selja skipið segir forstöðumaður vita hjá Vitamálastofnun",
+          "url": "https://www.mbl.is/greinasafn/grein/9661/",
+          "access-date": "11 June 2022",
+          "work": "Morgunblaðið",
+          "date": "10 January 1988",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Reyna að koma Maríu Júlíu í slopp á Húsavík",
+          "url": "https://timarit.is/page/7288441",
+          "access-date": "11 June 2022",
+          "work": "Fréttablaðið",
+          "date": "19 September 2020",
+          "page": "8",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "María Júlía til Patreksfjarðar",
+          "url": "https://timarit.is/page/1399928",
+          "access-date": "11 June 2022",
+          "work": "Morgunblaðið",
+          "date": "19 January 1969",
+          "page": "2",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
           "template": "citation",
           "type": "news"
         },
@@ -2034,6 +2233,38 @@
           "access-date": "7 November 2021",
           "work": "RÚV",
           "date": "3 November 2020",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Ólöf Rún Skúladóttir",
+          "title": "Varðskipið Týr komið úr síðustu sjóferð fyrir Gæsluna",
+          "url": "https://www.ruv.is/frett/2021/11/15/vardskipid-tyr-komid-ur-sidustu-sjoferd-fyrir-gaesluna",
+          "access-date": "11 June 2022",
+          "work": "RÚV",
+          "date": "15 November 2021",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Varðskipið Týr lauk sinni síðustu ferð í dag",
+          "url": "https://www.mbl.is/200milur/frettir/2021/11/15/vardskipid_tyr_lauk_sinni_sidustu_ferd_i_dag/",
+          "access-date": "11 June 2022",
+          "work": "Morgunblaðið",
+          "date": "15 November 2021",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Sigtryggur Sigtryggsson",
+          "title": "Fallið var frá kauptilboðinu í Ægi og Tý",
+          "url": "https://www.mbl.is/200milur/frettir/2022/06/02/fallid_var_fra_kauptilbodinu_i_aegi_og_ty/",
+          "access-date": "11 June 2022",
+          "work": "Morgunblaðið",
+          "date": "2 June 2022",
           "language": "Icelandic",
           "template": "citation",
           "type": "news"
@@ -2059,6 +2290,37 @@
           "language": "Icelandic",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "author1": "Ágúst Ingi Jónsson",
+          "title": "Beittur Baldur fer í brotajárn",
+          "url": "https://www.mbl.is/200milur/frettir/2020/09/08/beittur_baldur_fer_i_brotajarn/",
+          "access-date": "11 June 2022",
+          "work": "Morgunblaðið",
+          "date": "8 September 2020",
+          "language": "is",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Söguleg verðmæti fóru forgörðum við eyðingu skipsins",
+          "url": "https://timarit.is/page/6119504",
+          "accessdate": "11 June 2022",
+          "work": "Reykjavík",
+          "date": "10 August 2013",
+          "pages": "8–9",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "June 2022",
+          "template": "citation needed"
+        },
+        {
+          "date": "June 2022",
+          "template": "citation needed"
         }
       ]
     },
@@ -3460,7 +3722,32 @@
         {
           "sentences": [
             {
-              "text": "The Icelandic Coast Guard possesses 207 firearms, 111 of which are in storage."
+              "text": "The Icelandic Coast Guard possesses over 200 firearms, with more than half of them in storage."
+            },
+            {
+              "text": "In 2014, the Coast Guard received 250 Heckler & Koch MP5 from the Norwegian Armed Forces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Heckler & Koch MP5"
+                },
+                {
+                  "type": "internal",
+                  "page": "Norwegian Armed Forces"
+                }
+              ]
+            },
+            {
+              "text": "The acquisition of the weapons caused an uproar in Iceland due to several facts, including that the mostly unarmed Icelandic Police was to receive 150 of them and conflicting statements from Icelandic and Norwegian officials on whether they were a gift or bought.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Icelandic Police"
+                }
+              ]
+            },
+            {
+              "text": "In June 2015, the weapons where returned to Norway."
             }
           ]
         }
@@ -3487,6 +3774,39 @@
           "title": "Fallbyssur á Sæbraut: Vegfarendur ráku upp stór augu - DV",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "author1": "Ægir Þór Eysteinsson",
+          "title": "LHG keypti 250 vélbyssur af norska hernum fyrir 11,5 milljónir",
+          "url": "https://kjarninn.is/frettir/lhg-keypti-250-velbyssur-af-norska-hernum-fyrir-115-milljonir/",
+          "access-date": "11 June 2022",
+          "work": "Kjarninn",
+          "date": "23 October 2014",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Arnar Páll Hauksson",
+          "title": "Byssurnar með farþegaflugvél til Noregs",
+          "url": "https://www.ruv.is/frett/byssurnar-med-farthegaflugvel-til-noregs",
+          "access-date": "11 June 2022",
+          "work": "RÚV",
+          "date": "24 June 2015",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Hjálmar Friðriksson",
+          "title": "Vopnin kvödd: Hríðskotabyssur Gæslunnar koma til Noregs í dag",
+          "url": "https://stundin.is/frett/vopnin-kvodd-hridskotabyssur-landhelgisgaeslunnar-/",
+          "access-date": "11 June 2022",
+          "work": "Stundin",
+          "date": "24 June 2015",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -3497,6 +3817,52 @@
         [
           {
             "Model": {
+              "text": "AR-15",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "AR-15"
+                }
+              ]
+            },
+            "Calibre": {
+              "text": "5.56mm",
+              "links": [
+                {
+                  "text": "5.56mm",
+                  "type": "internal",
+                  "page": "5.56×45mm NATO"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Semi-automatic rifle",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Semi-automatic rifle"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "United States",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States"
+                }
+              ]
+            },
+            "Quantity": {
+              "text": "6",
+              "number": 6
+            },
+            "Details": {
+              "text": "Model 2017. Bought the same year and first used during a peace keeping mission."
+            }
+          },
+          {
+            "Model": {
               "text": "Bofors 40 mm L/70",
               "links": [
                 {
@@ -3505,9 +3871,6 @@
                   "page": "Bofors 40 mm Automatic Gun L/70"
                 }
               ]
-            },
-            "Image": {
-              "text": "Bofors 40mm L70 gun aboard the Frigate ROCN Si Ning (PFG-1203) 20150316b.jpg"
             },
             "Calibre": {
               "text": "40mm"
@@ -3522,7 +3885,13 @@
               ]
             },
             "Origin": {
-              "text": "🇸🇪"
+              "text": "Sweden",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sweden"
+                }
+              ]
             },
             "Quantity": {
               "text": "4",
@@ -3544,23 +3913,14 @@
                 }
               ]
             },
-            "Image": {
-              "text": "40mm-twin-naval.jpg"
-            },
             "Calibre": {
               "text": "40mm"
             },
             "Type": {
-              "text": "Autocannon",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Autocannon"
-                }
-              ]
+              "text": "Autocannon"
             },
             "Origin": {
-              "text": "🇸🇪"
+              "text": "Sweden"
             },
             "Quantity": {
               "text": "4",
@@ -3581,11 +3941,15 @@
                 }
               ]
             },
-            "Image": {
-              "text": "Glock 17 MOD 45154998.jpg"
-            },
             "Calibre": {
-              "text": "9mm"
+              "text": "9mm",
+              "links": [
+                {
+                  "text": "9mm",
+                  "type": "internal",
+                  "page": "9×19mm Parabellum"
+                }
+              ]
             },
             "Type": {
               "text": "Pistol",
@@ -3597,7 +3961,7 @@
               ]
             },
             "Origin": {
-              "text": "🇦🇹"
+              "text": "Austria"
             },
             "Quantity": {
               "text": "20",
@@ -3618,9 +3982,6 @@
                 }
               ]
             },
-            "Image": {
-              "text": "MP5.jpg"
-            },
             "Calibre": {
               "text": "9mm"
             },
@@ -3634,14 +3995,20 @@
               ]
             },
             "Origin": {
-              "text": "🇳🇴"
+              "text": "Germany",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Germany"
+                }
+              ]
             },
             "Quantity": {
               "text": "50",
               "number": 50
             },
             "Details": {
-              "text": "Model 1990. Gift from Norway 2011."
+              "text": "Model 1990. Gift from Norway in 2011."
             }
           },
           {
@@ -3654,11 +4021,15 @@
                 }
               ]
             },
-            "Image": {
-              "text": "BundeswehrMG3.jpg"
-            },
             "Calibre": {
-              "text": "7.62mm"
+              "text": "7.62mm",
+              "links": [
+                {
+                  "text": "7.62mm",
+                  "type": "internal",
+                  "page": "7.62×51mm NATO"
+                }
+              ]
             },
             "Type": {
               "text": "General-purpose machine gun",
@@ -3670,60 +4041,57 @@
               ]
             },
             "Origin": {
-              "text": "🇳🇴"
+              "text": "Germany"
             },
             "Quantity": {
               "text": "10",
               "number": 10
             },
             "Details": {
-              "text": "Model 1990. Gift from Norway 2013."
-            }
-          },
-          {
-            "Model": {
-              "text": "Steyr SSG 69",
+              "text": "Model 1990. Gifted by Norway in 2013 along with 50 sets of body armour.",
               "links": [
                 {
+                  "text": "body armour",
                   "type": "internal",
-                  "page": "Steyr SSG 69"
+                  "page": "body armour"
                 }
               ]
-            },
-            "Image": {
-              "text": "Steyr SSG 69.jpg"
-            },
-            "Calibre": {
-              "text": "7.62mm"
-            },
-            "Type": {
-              "text": "Sniper rifle",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sniper rifle"
-                }
-              ]
-            },
-            "Origin": {
-              "text": "🇦🇹"
-            },
-            "Quantity": {
-              "text": "8",
-              "number": 8
-            },
-            "Details": {
-              "text": "Model 1989. Bought from a dealership in Reykjavík."
             }
           }
         ]
       ],
-      "templates": [
+      "references": [
         {
-          "template": "frg"
+          "author1": "Jóhannes Stefánsson",
+          "title": "Tíu af byssunum eru alsjálfvirkar",
+          "url": "https://www.vb.is/frettir/tiu-af-byssunum-eru-alsjalfvirkar/",
+          "access-date": "11 June 2022",
+          "work": "Viðskiptablaðið",
+          "date": "27 October 2014",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
         },
         {
-          "template": "frg"
+          "author1": "Heimir Hannesson",
+          "title": "MP-5, Glock, AR-15 og fallbyssur – Sjáðu vopnalista Landhelgisgæslunnar í heild sinni",
+          "url": "https://www.dv.is/frettir/2020/09/16/mp-5-glock-ar-15-og-fallbyssur-sjadu-vopnalista-landhelgisgaeslunnar-heild-sinni/",
+          "access-date": "11 June 2022",
+          "work": "Dagblaðið Vísir",
+          "date": "16 September 2020",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Vopnin öll geymd á Keflavíkurflugvelli",
+          "url": "https://www.vf.is/frettir/vopnin-oll-geymd-a-keflavikurflugvelli",
+          "access-date": "11 June 2022",
+          "work": "Víkurfréttir",
+          "date": "27 October 2014",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -3743,11 +4111,15 @@
                 }
               ]
             },
-            "Image": {
-              "text": "M2 Browning, Musée de l'Armée.jpg"
-            },
             "Calibre": {
-              "text": ".50 BMG"
+              "text": ".50 BMG",
+              "links": [
+                {
+                  "text": ".50 BMG",
+                  "type": "internal",
+                  "page": ".50 BMG"
+                }
+              ]
             },
             "Type": {
               "text": "Heavy machine gun",
@@ -3759,7 +4131,7 @@
               ]
             },
             "Origin": {
-              "text": "🇺🇸"
+              "text": "United States"
             },
             "Quantity": {
               "text": "3",
@@ -3780,9 +4152,6 @@
                 }
               ]
             },
-            "Image": {
-              "text": "DCB Shooting G3 pictures.jpg"
-            },
             "Calibre": {
               "text": "7.62mm"
             },
@@ -3796,7 +4165,7 @@
               ]
             },
             "Origin": {
-              "text": ""
+              "text": "Germany"
             },
             "Quantity": {
               "text": "20",
@@ -3814,9 +4183,6 @@
                   "Cannon 37 mm"
                 ]
               }
-            },
-            "Image": {
-              "text": "N/A"
             },
             "Calibre": {
               "text": "37mm"
@@ -3850,20 +4216,11 @@
                 ]
               }
             },
-            "Image": {
-              "text": "N/A"
-            },
             "Calibre": {
               "text": "47mm"
             },
             "Type": {
-              "text": "Cannon",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Cannon"
-                }
-              ]
+              "text": "Cannon"
             },
             "Origin": {
               "text": "N/A"
@@ -3885,20 +4242,11 @@
                 ]
               }
             },
-            "Image": {
-              "text": "N/A"
-            },
             "Calibre": {
               "text": "57mm"
             },
             "Type": {
-              "text": "Cannon",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Cannon"
-                }
-              ]
+              "text": "Cannon"
             },
             "Origin": {
               "text": "N/A"
@@ -3921,9 +4269,6 @@
                 }
               ]
             },
-            "Image": {
-              "text": "M1 Carbine Mk I - USA - Armémuseum.jpg"
-            },
             "Calibre": {
               "text": "7.62mm"
             },
@@ -3937,7 +4282,7 @@
               ]
             },
             "Origin": {
-              "text": "🇺🇸"
+              "text": "United States"
             },
             "Quantity": {
               "text": "30",
@@ -3957,23 +4302,14 @@
                 }
               ]
             },
-            "Image": {
-              "text": "M2 Carbine SPAR1288 FEB. 17. 2005.jpg"
-            },
             "Calibre": {
               "text": "7.62mm"
             },
             "Type": {
-              "text": "Carbine",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Carbine"
-                }
-              ]
+              "text": "Carbine"
             },
             "Origin": {
-              "text": "🇺🇸"
+              "text": "United States"
             },
             "Quantity": {
               "text": "20",
@@ -3993,28 +4329,18 @@
                 }
               ]
             },
-            "Image": {
-              "text": "150px]]"
-            },
             "Calibre": {
               "text": "47mm"
             },
             "Type": {
-              "text": "Cannon",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Cannon"
-                }
-              ]
+              "text": "Cannon"
             },
             "Origin": {
-              "text": "🇫🇷 France",
+              "text": "France",
               "links": [
                 {
-                  "text": "France",
                   "type": "internal",
-                  "page": "france"
+                  "page": "France"
                 }
               ]
             },
@@ -4036,9 +4362,6 @@
                 }
               ]
             },
-            "Image": {
-              "text": "Remington 870 Wmaster.jpg"
-            },
             "Calibre": {
               "text": "12-gauge"
             },
@@ -4052,7 +4375,7 @@
               ]
             },
             "Origin": {
-              "text": "🇺🇸"
+              "text": "United States"
             },
             "Quantity": {
               "text": "4",
@@ -4073,12 +4396,16 @@
                 }
               ]
             },
-            "Image": {
-              "text": "Short Magazine Lee-Enfield Mk 1 (1903) - UK - cal 303 British - Armémuseum.jpg"
-            },
             "Calibre": {
               "text": ".303",
-              "number": 0.303
+              "number": 0.303,
+              "links": [
+                {
+                  "text": ".303",
+                  "type": "internal",
+                  "page": ".303 British"
+                }
+              ]
             },
             "Type": {
               "text": "Bolt-action Repeating rifle",
@@ -4090,7 +4417,13 @@
               ]
             },
             "Origin": {
-              "text": "🇬🇧"
+              "text": "United Kingdom",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Kingdom"
+                }
+              ]
             },
             "Quantity": {
               "text": "10",
@@ -4111,23 +4444,21 @@
                 }
               ]
             },
-            "Image": {
-              "text": "Smith and Wesson Regulation Police .38 S&W.jpg"
-            },
             "Calibre": {
-              "text": ".38 Special"
-            },
-            "Type": {
-              "text": "Pistol",
+              "text": ".38 Special",
               "links": [
                 {
+                  "text": ".38 Special",
                   "type": "internal",
-                  "page": "Pistol"
+                  "page": ".38 Special"
                 }
               ]
             },
+            "Type": {
+              "text": "Pistol"
+            },
             "Origin": {
-              "text": "🇺🇸"
+              "text": "United States"
             },
             "Quantity": {
               "text": "12",
@@ -4143,12 +4474,52 @@
                 }
               ]
             }
+          },
+          {
+            "Model": {
+              "text": "Steyr SSG 69",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Steyr SSG 69"
+                }
+              ]
+            },
+            "Calibre": {
+              "text": "7.62mm"
+            },
+            "Type": {
+              "text": "Sniper rifle",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sniper rifle"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "Austria"
+            },
+            "Quantity": {
+              "text": "8",
+              "number": 8
+            },
+            "Details": {
+              "text": "Model 1989. Bought from a dealership in Reykjavík."
+            }
           }
         ]
       ],
-      "templates": [
+      "references": [
         {
-          "template": "frg"
+          "title": "Gæslan með 92 vopn í notkun",
+          "url": "https://www.vb.is/frettir/gaeslan-92-vopn-i-notkun/",
+          "access-date": "11 June 2022",
+          "work": "Viðskiptablaðið",
+          "date": "26 January 2015",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
